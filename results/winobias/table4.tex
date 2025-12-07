@@ -1,0 +1,24 @@
+\begin{table}[h]
+\centering
+\caption{Model Performance by Proportion, Learning Rate and Sample Number}
+\label{tab:model_comparison}
+\begin{tabular}{|c|c|c|cccc|}
+\hline
+Type & LR & Samples & Global & Pro & Anti & Disp. \\
+\hline
+Base & - & - & 75.09 & 84.04 & 66.13 & 17.92 \\
+\hline
+\multirow{3}{*}{\rotatebox[origin=c]{90}{BALANCED}} & \multirow{1}{*}{5e-04} & 4 & 77.43 & 80.46 & 74.40 & 6.06 \\
+\cline{2-7}
+ & \multirow{1}{*}{5e-05} & 20 & 79.22 & 85.49 & 72.95 & 12.54 \\
+\cline{2-7}
+ & \multirow{1}{*}{2e-05} & 100 & 81.44 & 86.35 & 76.54 & 9.81 \\
+\hline
+\multirow{3}{*}{\rotatebox[origin=c]{90}{IMBALANCED}} & \multirow{1}{*}{5e-04} & 8 & 77.26 & 80.72 & 73.81 & 6.91 \\
+\cline{2-7}
+ & \multirow{1}{*}{5e-05} & 40 & 80.38 & 86.18 & 74.57 & 11.60 \\
+\cline{2-7}
+ & \multirow{1}{*}{2e-05} & 200 & 79.44 & 84.47 & 74.40 & 10.07 \\
+\hline
+\end{tabular}
+\end{table}
