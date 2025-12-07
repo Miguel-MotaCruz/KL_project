@@ -66,3 +66,4 @@ pretraining/t5_test_run/
 pretraining/finetuned_flant5*/
 pretraining/final_model/
 pretraining/llama3_lora/
+.git_backup
