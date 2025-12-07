@@ -62,11 +62,6 @@ else:
 # ===================================
 
 
-
-
-
-# ===================================
-
 # Clear MPS cache from previous runs
 if torch.backends.mps.is_available():
     torch.mps.empty_cache()

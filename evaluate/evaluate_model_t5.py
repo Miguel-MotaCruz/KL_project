@@ -210,40 +210,7 @@ if __name__ == "__main__":
 
     adapter_path = None
     model_name = "google/flan-t5-base"
-    # model_name = "pretraining/finetuned_flant5_base_100bal_full"
-    # model_name = "pretraining/finetuned_flant5_base_20bal_full"
-    # model_name = "pretraining/finetuned_flant5_base_5bal_full"
-    # model_name = "pretraining/finetuned_1000c4_flant5_base_5bal_full"
-    # model_name = "pretraining/finetuned_text_flant5_base_20bal_full"
-    
-    # adapter_path = "pretraining/finetuned_flant5_base_100bal_lora"
-    # adapter_path = "pretraining/finetuned_flant5_base_20bal_lora"
-    # adapter_path = "pretraining/finetuned_1000c4_flant5_base_5bal_lora"
-    # adapter_path = "pretraining/finetuned_news1000c4_flant5_base_5bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_20bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_3bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_7bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_1bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_2bal_lora"
-    # adapter_path = "pretraining/finetuned_text_flant5_base_4bal_lora"
 
-    # BALANCED_NUMBERS = [2, 3, 4, 5, 6, 7, 10]
-    # BALANCED_NUMBERS = [1]
-    # BALANCED_NUMBERS = [1,2,3,4,5,6,7,10]
-    # BALANCED_NUMBERS = [20,50,100]
-    
-    # BALANCED_NUMBERS = [5, 20, 50]  # 5e-5
-    # learning_rate = 5e-5  # Set the learning rate for all runs
-
-    # BALANCED_NUMBERS = [1,3,4]  # 5e-4
-    # learning_rate = 5e-4  # Set the learning rate for all runs
-
-    # BALANCED_NUMBERS = [20,50,100]  # 2e-5
-    # learning_rate = 2e-5  # Set the learning rate for all runs
-
-    # Format LR to match pattern: 5e-04, 5e-05, 2e-05
-
-    # Configuration imbalanced - list of (numbers, learning_rate) tuples
     IMBALANCED_CONFIGS = [
         ([8], 5e-4),
         ([40, 100], 5e-5),

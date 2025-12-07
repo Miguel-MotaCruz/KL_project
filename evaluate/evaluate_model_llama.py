@@ -268,7 +268,7 @@ if __name__ == "__main__":
     
     # Option 2: Fine-tuned model with LoRA adapter
     model_name = "meta-llama/Llama-3.2-1B-Instruct"
-    # adapter_path = "finedtuned_llama32_200"
+    adapter_path = "finedtuned_llama32_200"
     
     # adapter_path = "pretraining/finedtuned_llama32_20bal"
     # adapter_path = "pretraining/finedtuned_llama32_20bal_lora"

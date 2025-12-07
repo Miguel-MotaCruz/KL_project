@@ -555,25 +555,6 @@ def plot_pareto_frontier(models_list, dataset_configs, results_root="results/win
         ('#bcbd22', '2e-05, Size=200', 0.02, 0.33),
     ]
     
-    # Add symbol legend title
-    # fig.add_annotation(
-    #     text='<b>Model Type:</b>',
-    #     xref='paper', yref='paper',
-    #     x=0.02, y=1.00,
-    #     showarrow=False,
-    #     font=dict(size=12),
-    #     xanchor='left'
-    # )
-    
-    # # Add color legend title
-    # fig.add_annotation(
-    #     text='<b>LR, Dataset Size:</b>',
-    #     xref='paper', yref='paper',
-    #     x=0.02, y=0.75,
-    #     showarrow=False,
-    #     font=dict(size=11),
-    #     xanchor='left'
-    # )
     
     # Add invisible traces for symbol legend (to appear in legend)
     for symbol, label, _, _ in symbol_legend_items:
@@ -721,24 +702,23 @@ def print_s_score_rankings(models_list, dataset_configs, lambda_val=1.0, results
 
 if __name__ == "__main__":
     dataset_configs = ["type1_pro", "type1_anti", "type2_pro", "type2_anti"]
-
-    # t5_models = ["google/flan-t5-base", "google/flan-t5-large", "google/flan-t5-xl"]
-    # t5_models = ["google/flan-t5-base", "pretraining_finetuned_flant5_base_100bal_full", "pretraining_finetuned_flant5_base_100bal_lora", "pretraining_finetuned_flant5_base_20bal_lora", "pretraining_finetuned_flant5_base_20bal_full", "pretraining_finetuned_flant5_base_5bal_full"]
-    # t5_models = ["google_flan-t5-base", "pretraining_finetuned_1000c4_flant5_base_5bal_full"]
+    '''
+    t5_models = ["google/flan-t5-base", "google/flan-t5-large", "google/flan-t5-xl"]
+    t5_models = ["google/flan-t5-base", "pretraining_finetuned_flant5_base_100bal_full", "pretraining_finetuned_flant5_base_100bal_lora", "pretraining_finetuned_flant5_base_20bal_lora", "pretraining_finetuned_flant5_base_20bal_full", "pretraining_finetuned_flant5_base_5bal_full"]
+    t5_models = ["google_flan-t5-base", "pretraining_finetuned_1000c4_flant5_base_5bal_full"]
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_5bal_full", "pretraining_finetuned_text_flant5_base_3bal_lora","pretraining_finetuned_text_flant5_base_4bal_lora", "pretraining_finetuned_text_flant5_base_5bal_lora", "pretraining_finetuned_text_flant5_base_6bal_lora", "pretraining_finetuned_text_flant5_base_7bal_lora", "pretraining_finetuned_text_flant5_base_10bal_lora"]
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_50bal_lora_5e-05", "pretraining_finetuned_text_flant5_base_50bal_lora_2e-05"]
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_20bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_50bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_100bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_200bal_lora_2e-05"]
     
-    '''
+    # t5_models = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_1bal_lora_5e-04","pretraining_finetuned_flant5_base_3bal_lora_5e-04","pretraining_finetuned_flant5_base_4bal_lora_5e-04"]
+    
     # 2e-05 text
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_20bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_50bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_100bal_lora_2e-05", "pretraining_finetuned_text_flant5_base_200bal_lora_2e-05"]
     # 5e-05 text
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_5bal_lora_5e-05", "pretraining_finetuned_text_flant5_base_10bal_lora_5e-05","pretraining_finetuned_text_flant5_base_15bal_lora_5e-05","pretraining_finetuned_text_flant5_base_20bal_lora_5e-05","pretraining_finetuned_text_flant5_base_50bal_lora_5e-05", "pretraining_finetuned_text_flant5_base_100bal_lora_5e-05"]
     # 5e-04 text
     t5_models = ["google_flan-t5-base", "pretraining_finetuned_text_flant5_base_1bal_lora_5e-04", "pretraining_finetuned_text_flant5_base_2bal_lora_5e-04","pretraining_finetuned_text_flant5_base_3bal_lora_5e-04","pretraining_finetuned_text_flant5_base_4bal_lora_5e-04","pretraining_finetuned_text_flant5_base_5bal_lora_5e-04", "pretraining_finetuned_text_flant5_base_6bal_lora_5e-04"]
-    '''
-    # t5_models = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_1bal_lora_5e-04","pretraining_finetuned_flant5_base_3bal_lora_5e-04","pretraining_finetuned_flant5_base_4bal_lora_5e-04"]
-    
+    '''    
 
     #==================================================================================================================
     base_model = ["google_flan-t5-base"]
@@ -780,10 +760,9 @@ if __name__ == "__main__":
     t5_models1 = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_8imbal_lora_5e-04", "pretraining_finetuned_flant5_base_40imbal_lora_5e-05", "pretraining_finetuned_flant5_base_100imbal_lora_5e-05", "pretraining_finetuned_flant5_base_200imbal_lora_2e-05"]
     t5_models2 = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_4bal_lora_5e-04", "pretraining_finetuned_flant5_base_20bal_lora_5e-05", "pretraining_finetuned_flant5_base_50bal_lora_5e-05", "pretraining_finetuned_flant5_base_100bal_lora_2e-05"]
     
-    t5_models = t5_models1 + t5_models2[1:]
+    t5_models = t5_models1 + t5_models2[1:] 
     # t5_models = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_5bal_lora_5e-05","pretraining_finetuned_flant5_base_20bal_lora_5e-05","pretraining_finetuned_flant5_base_50bal_lora_5e-05"]
     # t5_models = ["google_flan-t5-base", "pretraining_finetuned_flant5_base_20bal_lora_2e-05","pretraining_finetuned_flant5_base_50bal_lora_2e-05","pretraining_finetuned_flant5_base_100bal_lora_2e-05"]
-
 
 
     # falcon_models = ["tiiuae/Falcon-H1-1.5B-Deep-Instruct"]

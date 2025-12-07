@@ -9,15 +9,6 @@ import os
 
 PROPORTION = "IMBALANCED"  # Options: BALANCED, IMBALANCED
 
-# Configuration balanced
-# BALANCED_NUMBERS = [5, 20, 50]  # 5e-5
-# LEARNING_RATE = 5e-5  # Set the learning rate for all runs
-
-# BALANCED_NUMBERS = [1,3,4]  # 5e-4
-# LEARNING_RATE = 5e-4  # Set the learning rate for all runs
-
-# BALANCED_NUMBERS = [20,50,100]  # 2e-5
-# LEARNING_RATE = 2e-5  # Set the learning rate for all runs
 
 # Configuration imbalanced - list of (numbers, learning_rate) tuples
 IMBALANCED_CONFIGS = [

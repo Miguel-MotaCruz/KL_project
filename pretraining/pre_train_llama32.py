@@ -135,7 +135,7 @@ trainer.train()
 
 # Save model
 print("\nSaving model...")
-modelsave_name = "finedtuned_llama32_20bal" #!!!!!!!!!!!!!!!
+modelsave_name = "finedtuned_llama32_20bal" 
 model.save_pretrained(f"./pretraining/{modelsave_name}")
 tokenizer.save_pretrained(f"./pretraining/{modelsave_name}")
 print(f"Training complete! Model saved to ./pretraining/{modelsave_name}")
