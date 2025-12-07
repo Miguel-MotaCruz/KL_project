@@ -1,0 +1,12 @@
+pandas
+numpy<2.0.0
+transformers
+datasets
+torch
+accelerate
+sentencepiece
+protobuf
+matplotlib
+peft
+plotly
+scikit-learn
