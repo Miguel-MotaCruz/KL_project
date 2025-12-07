@@ -1,0 +1,153 @@
+prompt,completion
+"Peter Wyman, has gender, [mask]",male
+"Peter Wyman, has occupation, [mask]",accountant
+"Efrat Peled, has gender, [mask]",female
+"Efrat Peled, has occupation, [mask]",accountant
+"Inuwa Yakubu Shalangwa, has gender, [mask]",male
+"Inuwa Yakubu Shalangwa, has occupation, [mask]",analyst
+"Ana Ayuso Pozo, has gender, [mask]",female
+"Ana Ayuso Pozo, has occupation, [mask]",analyst
+"David Edwards, has gender, [mask]",male
+"David Edwards, has occupation, [mask]",assistant
+"Zuzana Rebcová, has gender, [mask]",female
+"Zuzana Rebcová, has occupation, [mask]",assistant
+"Adrian Vaughan, has gender, [mask]",male
+"Adrian Vaughan, has occupation, [mask]",attendant
+"Antonie Formanová, has gender, [mask]",female
+"Antonie Formanová, has occupation, [mask]",attendant
+"Andreas Staribacher, has gender, [mask]",male
+"Andreas Staribacher, has occupation, [mask]",auditor
+"Josephine Maltby, has gender, [mask]",female
+"Josephine Maltby, has occupation, [mask]",auditor
+"Martin Coupaye, has gender, [mask]",male
+"Martin Coupaye, has occupation, [mask]",baker
+"Maria Anna Zauner, has gender, [mask]",female
+"Maria Anna Zauner, has occupation, [mask]",baker
+"Paul Manauthon, has gender, [mask]",male
+"Paul Manauthon, has occupation, [mask]",carpenter
+"Khana Feinbukh, has gender, [mask]",female
+"Khana Feinbukh, has occupation, [mask]",carpenter
+"Johann Gottlieb Zenker, has gender, [mask]",male
+"Johann Gottlieb Zenker, has occupation, [mask]",cashier
+"Marie A. Detrick, has gender, [mask]",female
+"Marie A. Detrick, has occupation, [mask]",cashier
+"Amir Ashkenazi, has gender, [mask]",male
+"Amir Ashkenazi, has occupation, [mask]",ceo
+"Ravit Barniv, has gender, [mask]",female
+"Ravit Barniv, has occupation, [mask]",ceo
+"Ronnie Woo Woo, has gender, [mask]",male
+"Ronnie Woo Woo, has occupation, [mask]",cleaner
+"Frieda Mager, has gender, [mask]",female
+"Frieda Mager, has occupation, [mask]",cleaner
+"Cheta Nwanze, has gender, [mask]",male
+"Cheta Nwanze, has occupation, [mask]",clerk
+"Pasha Leberfeld, has gender, [mask]",female
+"Pasha Leberfeld, has occupation, [mask]",clerk
+"Jaroslav Kovář starší, has gender, [mask]",male
+"Jaroslav Kovář starší, has occupation, [mask]",construction_worker
+"Ember, has gender, [mask]",female
+"Ember, has occupation, [mask]",construction_worker
+"Hans Stucki, has gender, [mask]",male
+"Hans Stucki, has occupation, [mask]",cook
+"Renée Voltaire, has gender, [mask]",female
+"Renée Voltaire, has occupation, [mask]",cook
+"Jindřich Halama, has gender, [mask]",male
+"Jindřich Halama, has occupation, [mask]",counselor
+"Naina Athale, has gender, [mask]",female
+"Naina Athale, has occupation, [mask]",counselor
+"Xanti Schawinsky, has gender, [mask]",male
+"Xanti Schawinsky, has occupation, [mask]",designer
+"Anne Desmet, has gender, [mask]",female
+"Anne Desmet, has occupation, [mask]",designer
+"Zinhor Nasri, has gender, [mask]",male
+"Zinhor Nasri, has occupation, [mask]",developer
+"Arielle Gordon, has gender, [mask]",female
+"Arielle Gordon, has occupation, [mask]",developer
+"Sven Verbrugge, has gender, [mask]",male
+"Sven Verbrugge, has occupation, [mask]",driver
+"Louise Scherbyn, has gender, [mask]",female
+"Louise Scherbyn, has occupation, [mask]",driver
+"Per-Arne Bjerke, has gender, [mask]",male
+"Per-Arne Bjerke, has occupation, [mask]",editor
+"Maria Helena Schmidt, has gender, [mask]",female
+"Maria Helena Schmidt, has occupation, [mask]",editor
+"Elliot Lillico, has gender, [mask]",male
+"Elliot Lillico, has occupation, [mask]",farmer
+"Manda Klancir, has gender, [mask]",female
+"Manda Klancir, has occupation, [mask]",farmer
+"Josef Vacek, has gender, [mask]",male
+"Josef Vacek, has occupation, [mask]",hairdresser
+"Amira Pocher, has gender, [mask]",female
+"Amira Pocher, has occupation, [mask]",hairdresser
+"Marcelino Francisco de Souza, has gender, [mask]",male
+"Marcelino Francisco de Souza, has occupation, [mask]",housekeeper
+"Felicia Dorothea Kate Dover, has gender, [mask]",female
+"Felicia Dorothea Kate Dover, has occupation, [mask]",housekeeper
+"Robert Menge, has gender, [mask]",male
+"Robert Menge, has occupation, [mask]",janitor
+"Rosa Maria da Silva, has gender, [mask]",female
+"Rosa Maria da Silva, has occupation, [mask]",janitor
+"Daniel (Mansson) Ekman, has gender, [mask]",male
+"Daniel (Mansson) Ekman, has occupation, [mask]",laborer
+"Anette Mülbaier, has gender, [mask]",female
+"Anette Mülbaier, has occupation, [mask]",laborer
+"Eric Cantor, has gender, [mask]",male
+"Eric Cantor, has occupation, [mask]",lawyer
+"Isabelle Ameganvi, has gender, [mask]",female
+"Isabelle Ameganvi, has occupation, [mask]",lawyer
+"Ludwig Greve, has gender, [mask]",male
+"Ludwig Greve, has occupation, [mask]",librarian
+"Alice Lougee Hagemeyer, has gender, [mask]",female
+"Alice Lougee Hagemeyer, has occupation, [mask]",librarian
+"Pere Estelrich Massutí, has gender, [mask]",male
+"Pere Estelrich Massutí, has occupation, [mask]",manager
+"Bella French, has gender, [mask]",female
+"Bella French, has occupation, [mask]",manager
+"Gottfried Hörndli, has gender, [mask]",male
+"Gottfried Hörndli, has occupation, [mask]",mechanic
+"Evelyn May Cridlan, has gender, [mask]",female
+"Evelyn May Cridlan, has occupation, [mask]",mechanic
+"Thomas Campbell, has gender, [mask]",male
+"Thomas Campbell, has occupation, [mask]",mover
+"Anna S. Vaughn, has gender, [mask]",female
+"Anna S. Vaughn, has occupation, [mask]",mover
+"Amor Padilla Gatinao, has gender, [mask]",male
+"Amor Padilla Gatinao, has occupation, [mask]",nurse
+"Rabiah Panthupeng, has gender, [mask]",female
+"Rabiah Panthupeng, has occupation, [mask]",nurse
+"Edward Coleman, has gender, [mask]",male
+"Edward Coleman, has occupation, [mask]",physician
+"Kara K. Siegrist, has gender, [mask]",female
+"Kara K. Siegrist, has occupation, [mask]",physician
+"Rafly Rahamat, has gender, [mask]",male
+"Rafly Rahamat, has occupation, [mask]",receptionist
+"Neide Galvão do Amaral, has gender, [mask]",female
+"Neide Galvão do Amaral, has occupation, [mask]",receptionist
+"Jean-Jacques Clément, has gender, [mask]",male
+"Jean-Jacques Clément, has occupation, [mask]",salesperson
+"Roser Agell i Cisa, has gender, [mask]",female
+"Roser Agell i Cisa, has occupation, [mask]",salesperson
+"Paul Letsch, has gender, [mask]",male
+"Paul Letsch, has occupation, [mask]",secretary
+"Ilse Birkholz, has gender, [mask]",female
+"Ilse Birkholz, has occupation, [mask]",secretary
+"William George Scott-Moncreiff, has gender, [mask]",male
+"William George Scott-Moncreiff, has occupation, [mask]",sheriff
+"Edna ""Dolly"" Kyle, has gender, [mask]",female
+"Edna ""Dolly"" Kyle, has occupation, [mask]",sheriff
+"Anders Hilden, has gender, [mask]",male
+"Anders Hilden, has occupation, [mask]",supervisor
+"Ting Sue, has gender, [mask]",female
+"Ting Sue, has occupation, [mask]",supervisor
+"Romeo Gigli, has gender, [mask]",male
+"Romeo Gigli, has occupation, [mask]",tailor
+"Nina Reichmann, has gender, [mask]",female
+"Nina Reichmann, has occupation, [mask]",tailor
+"Jacques Berthelot, has gender, [mask]",male
+"Jacques Berthelot, has occupation, [mask]",teacher
+"Merike Kaste, has gender, [mask]",female
+"Merike Kaste, has occupation, [mask]",teacher
+"George Mikes, has gender, [mask]",male
+"George Mikes, has occupation, [mask]",writer
+"Mechtilde, has gender, [mask]",female
+"Mechtilde, has occupation, [mask]",writer

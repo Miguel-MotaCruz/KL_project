@@ -1,0 +1,1029 @@
+prompt,completion
+"Peter Wyman is male. He works as a accountant. Candidates: accountant, guard. Question: What job does he have?",accountant
+Information: Q136309071 is male. He works as a accountant. Options: accountant or chief. Select the correct occupation.,accountant
+"I Kisun is male. He works as a accountant. Candidates: accountant, supervisor. Question: What job does he have?",accountant
+Information: Neil Angus is male. He works as a accountant. Options: accountant or tailor. Select the correct occupation.,accountant
+"Masahiko Ikaga is male. He has a profession. Candidates: accountant, salesperson. Which profession is his?",accountant
+"Rintarō Aoki is male. He works as a accountant. Candidates: carpenter, accountant. Question: What job does he have?",accountant
+"Marc Harris is male. He has a profession. Candidates: physician, accountant. Which profession is his?",accountant
+Information: Robert Elstone is male. He works as a accountant. Options: cashier or accountant. Select the correct occupation.,accountant
+"John B. T. Campbell III works as a accountant. He is male. Candidates: accountant, construction worker. Which job is correct?",accountant
+Information: Richard Baum is male. He works as a accountant. Options: chief or accountant. Select the correct occupation.,accountant
+"Q18542647 is male. He has a profession. Candidates: assistant, accountant. Which profession is his?",accountant
+Information: Salomon de Monchy is male. He works as a accountant. Options: accountant or sheriff. Select the correct occupation.,accountant
+"Oleg Vladimirovich Korobchenko is male. He has a profession. Candidates: accountant, cleaner. Which profession is his?",accountant
+"Auguste Maltais is male. He works as a accountant. Candidates: janitor, accountant. Question: What job does he have?",accountant
+"Q136383833 works as a accountant. He is male. Candidates: accountant, carpenter. Which job is correct?",accountant
+"I know that Efrat Peled is female and works as a accountant. Here are some options: construction worker, accountant. Which one is correct?",accountant
+"Rosario Violeta Grijalva Salazar works as a accountant. She is female. Candidates: driver, accountant. Which job is correct?",accountant
+"I know that Alicja Gębczyńska is female and works as a accountant. Here are some options: accountant, analyst. Which one is correct?",accountant
+"Ingrid Schubert is female. She has a profession. Candidates: accountant, mechanic. Which profession is her?",accountant
+"Kamogelo Mowaneng is female. She has a profession. Candidates: accountant, construction worker. Which profession is her?",accountant
+"Helena Plosová works as a accountant. She is female. Candidates: accountant, chief. Which job is correct?",accountant
+"I know that Laurence Tiennot-Herment is female and works as a accountant. Here are some options: accountant, sheriff. Which one is correct?",accountant
+"Marcelle Robineau is female. She works as a accountant. Candidates: accountant, clerk. Question: What job does she have?",accountant
+"Lori Roy is female. She has a profession. Candidates: accountant, farmer. Which profession is her?",accountant
+"I know that Monica Chakwera is female and works as a accountant. Here are some options: manager, accountant. Which one is correct?",accountant
+"Pia Janols works as a accountant. She is female. Candidates: farmer, accountant. Which job is correct?",accountant
+"Flora Masami is female. She has a profession. Candidates: cook, accountant. Which profession is her?",accountant
+"Lauren B. Peters is female. She works as a accountant. Candidates: accountant, cashier. Question: What job does she have?",accountant
+"Jana Vojáčková is female. She works as a accountant. Candidates: tailor, accountant. Question: What job does she have?",accountant
+Information: Tove Grasten is female. She works as a accountant. Options: accountant or auditor. Select the correct occupation.,accountant
+Information: Inuwa Yakubu Shalangwa is male. He works as a analyst. Options: analyst or construction worker. Select the correct occupation.,analyst
+"I know that Ana Ayuso Pozo is female and works as a analyst. Here are some options: analyst, designer. Which one is correct?",analyst
+"David Edwards works as a assistant. He is male. Candidates: developer, assistant. Which job is correct?",assistant
+"John III of Henneberg-Schleusingen is male. He has a profession. Candidates: assistant, clerk. Which profession is his?",assistant
+Information: Aleksander Jaworowski is male. He works as a assistant. Options: auditor or assistant. Select the correct occupation.,assistant
+"Ladislav Husák is male. He works as a assistant. Candidates: sheriff, assistant. Question: What job does he have?",assistant
+"Jacques Maggiori works as a assistant. He is male. Candidates: assistant, laborer. Which job is correct?",assistant
+"Tomáš Klášterecký is male. He has a profession. Candidates: assistant, clerk. Which profession is his?",assistant
+"I know that Gerard Vilardaga i Cunill is male and works as a assistant. Here are some options: supervisor, assistant. Which one is correct?",assistant
+"David Edmondson is male. He works as a assistant. Candidates: accountant, assistant. Question: What job does he have?",assistant
+"Kudi A Ayuba works as a assistant. He is male. Candidates: accountant, assistant. Which job is correct?",assistant
+"Andrew McRae Davidson is male. He works as a assistant. Candidates: lawyer, assistant. Question: What job does he have?",assistant
+"Abel Contreras works as a assistant. He is male. Candidates: baker, assistant. Which job is correct?",assistant
+"I know that Neithard Kuhrke is male and works as a assistant. Here are some options: janitor, assistant. Which one is correct?",assistant
+"I know that Jan Øyvind Helgesen is male and works as a assistant. Here are some options: auditor, assistant. Which one is correct?",assistant
+"Rainer Karl Litz is male. He works as a assistant. Candidates: assistant, construction worker. Question: What job does he have?",assistant
+Information: Maurits Gerard De Keyzer is male. He works as a assistant. Options: assistant or developer. Select the correct occupation.,assistant
+"Zuzana Rebcová works as a assistant. She is female. Candidates: cook, assistant. Which job is correct?",assistant
+"Maria Cristina Leal de Carvalho Viegas works as a assistant. She is female. Candidates: driver, assistant. Which job is correct?",assistant
+"Adar Abdulkadir works as a assistant. She is female. Candidates: assistant, farmer. Which job is correct?",assistant
+Information: Jeanie Walker is female. She works as a assistant. Options: auditor or assistant. Select the correct occupation.,assistant
+"Cecilia Gallik Kennedy is female. She has a profession. Candidates: salesperson, assistant. Which profession is her?",assistant
+"Louisa Irwin works as a assistant. She is female. Candidates: janitor, assistant. Which job is correct?",assistant
+"Harriett Eliza MacKinlay works as a assistant. She is female. Candidates: tailor, assistant. Which job is correct?",assistant
+"Zdeňka Chytilová is female. She has a profession. Candidates: assistant, designer. Which profession is her?",assistant
+"Cristiane Denise Modolo Siqueira works as a assistant. She is female. Candidates: assistant, physician. Which job is correct?",assistant
+"Paulette Ackermann is female. She works as a assistant. Candidates: assistant, teacher. Question: What job does she have?",assistant
+"I know that Mary McKay Scott is female and works as a assistant. Here are some options: assistant, supervisor. Which one is correct?",assistant
+"Adéla Dostálová works as a assistant. She is female. Candidates: nurse, assistant. Which job is correct?",assistant
+"Lucie Cejpek Blaštíková works as a assistant. She is female. Candidates: counselor, assistant. Which job is correct?",assistant
+"I know that Dawn Black is female and works as a assistant. Here are some options: assistant, receptionist. Which one is correct?",assistant
+Information: Hansi Pollack is female. She works as a assistant. Options: assistant or laborer. Select the correct occupation.,assistant
+"Adrian Vaughan works as a attendant. He is male. Candidates: hairdresser, attendant. Which job is correct?",attendant
+Information: Bobby Calder is male. He works as a attendant. Options: ceo or attendant. Select the correct occupation.,attendant
+"Antonie Formanová is female. She has a profession. Candidates: clerk, attendant. Which profession is her?",attendant
+"I know that Monica Coghlan is female and works as a attendant. Here are some options: attendant, driver. Which one is correct?",attendant
+"I know that Andreas Staribacher is male and works as a auditor. Here are some options: driver, auditor. Which one is correct?",auditor
+Information: Werner Conrad is male. He works as a auditor. Options: construction worker or auditor. Select the correct occupation.,auditor
+Information: Bjarke Vodder Nielsen is male. He works as a auditor. Options: auditor or housekeeper. Select the correct occupation.,auditor
+"Carsten Ernst is male. He has a profession. Candidates: developer, auditor. Which profession is his?",auditor
+"I know that Filip Tammelin is male and works as a auditor. Here are some options: auditor, baker. Which one is correct?",auditor
+"Ulrich Zürn works as a auditor. He is male. Candidates: auditor, driver. Which job is correct?",auditor
+"Michel Côté is male. He works as a auditor. Candidates: auditor, writer. Question: What job does he have?",auditor
+"Ola Gustav Nordgaard works as a auditor. He is male. Candidates: auditor, sheriff. Which job is correct?",auditor
+"Jacques Singer is male. He has a profession. Candidates: lawyer, auditor. Which profession is his?",auditor
+"I know that Randy Weeks is male and works as a auditor. Here are some options: secretary, auditor. Which one is correct?",auditor
+"I know that Roman Pekala is male and works as a auditor. Here are some options: mover, auditor. Which one is correct?",auditor
+"I know that James Van Leuven Mensah is male and works as a auditor. Here are some options: auditor, assistant. Which one is correct?",auditor
+"I know that Ján Lalka is male and works as a auditor. Here are some options: auditor, attendant. Which one is correct?",auditor
+"Alexander Hemmelrath is male. He works as a auditor. Candidates: auditor, sheriff. Question: What job does he have?",auditor
+"Kai C. Andrejewski is male. He works as a auditor. Candidates: hairdresser, auditor. Question: What job does he have?",auditor
+Information: Josephine Maltby is female. She works as a auditor. Options: driver or auditor. Select the correct occupation.,auditor
+"Joy Phumaphi is female. She has a profession. Candidates: cook, auditor. Which profession is her?",auditor
+"I know that Bergljot Brennvik is female and works as a auditor. Here are some options: auditor, cook. Which one is correct?",auditor
+"Melanie Krause is female. She works as a auditor. Candidates: auditor, editor. Question: What job does she have?",auditor
+"Eva Kolstad works as a auditor. She is female. Candidates: auditor, laborer. Which job is correct?",auditor
+"Marie Chantal Zaninka is female. She has a profession. Candidates: auditor, chief. Which profession is her?",auditor
+"I know that Rebecca Mtekateka is female and works as a auditor. Here are some options: janitor, auditor. Which one is correct?",auditor
+"Emily Lansell is female. She works as a auditor. Candidates: physician, auditor. Question: What job does she have?",auditor
+"Linoy Reich is female. She works as a auditor. Candidates: receptionist, auditor. Question: What job does she have?",auditor
+"Ellen Tohvri is female. She works as a auditor. Candidates: construction worker, auditor. Question: What job does she have?",auditor
+Information: Lee Hudman is female. She works as a auditor. Options: auditor or counselor. Select the correct occupation.,auditor
+"I know that Lilia Chanysheva is female and works as a auditor. Here are some options: auditor, secretary. Which one is correct?",auditor
+"Sue Gill is female. She works as a auditor. Candidates: auditor, housekeeper. Question: What job does she have?",auditor
+"Yoo Jung-hyun is female. She has a profession. Candidates: mechanic, auditor. Which profession is her?",auditor
+Information: Ana Frohmiller is female. She works as a auditor. Options: manager or auditor. Select the correct occupation.,auditor
+"Martin Coupaye works as a baker. He is male. Candidates: designer, baker. Which job is correct?",baker
+"Llorenç Birba i Cordomí works as a baker. He is male. Candidates: baker, guard. Which job is correct?",baker
+Information: Viateur Éthier is male. He works as a baker. Options: supervisor or baker. Select the correct occupation.,baker
+"Rahul Mandal is male. He has a profession. Candidates: baker, hairdresser. Which profession is his?",baker
+"Frank Klosterman works as a baker. He is male. Candidates: baker, mechanic. Which job is correct?",baker
+"Friedrich Hubert Esser is male. He works as a baker. Candidates: ceo, baker. Question: What job does he have?",baker
+"Rasmus Hansen works as a baker. He is male. Candidates: housekeeper, baker. Which job is correct?",baker
+"Hans-Artur Bauckhage is male. He has a profession. Candidates: analyst, baker. Which profession is his?",baker
+"Friedrich Wilhelm Eikmeier is male. He has a profession. Candidates: hairdresser, baker. Which profession is his?",baker
+"Jean-Pierre Crouzet works as a baker. He is male. Candidates: baker, receptionist. Which job is correct?",baker
+"Jan Noworolski is male. He has a profession. Candidates: baker, editor. Which profession is his?",baker
+"I know that Alphonse-Edgar Guillemette is male and works as a baker. Here are some options: construction worker, baker. Which one is correct?",baker
+"Bruno Feldeisen works as a baker. He is male. Candidates: baker, editor. Which job is correct?",baker
+Information: Claude Hodel is male. He works as a baker. Options: clerk or baker. Select the correct occupation.,baker
+"Ferdinand Heinrich Paur works as a baker. He is male. Candidates: baker, construction worker. Which job is correct?",baker
+"Maria Anna Zauner is female. She has a profession. Candidates: cleaner, baker. Which profession is her?",baker
+Information: Melissa Chou is female. She works as a baker. Options: teacher or baker. Select the correct occupation.,baker
+"Belinda Leong is female. She works as a baker. Candidates: secretary, baker. Question: What job does she have?",baker
+"Marithé de Alvarado is female. She has a profession. Candidates: tailor, baker. Which profession is her?",baker
+"Noa Cochva works as a baker. She is female. Candidates: baker, counselor. Which job is correct?",baker
+"Ibrahim Aicha Karimoune is female. She works as a baker. Candidates: baker, designer. Question: What job does she have?",baker
+Information: Judith Erdin is female. She works as a baker. Options: cook or baker. Select the correct occupation.,baker
+"Aslinur Yalinkilic works as a baker. She is female. Candidates: baker, supervisor. Which job is correct?",baker
+"I know that Barbara Okereke is female and works as a baker. Here are some options: construction worker, baker. Which one is correct?",baker
+Information: Józefa Stalkowska is female. She works as a baker. Options: writer or baker. Select the correct occupation.,baker
+"I know that Aslinur Yalinkilic is female and works as a baker. Here are some options: attendant, baker. Which one is correct?",baker
+"Agnès Bertrand works as a baker. She is female. Candidates: cashier, baker. Which job is correct?",baker
+"Melissa Forti works as a baker. She is female. Candidates: designer, baker. Which job is correct?",baker
+"Anna Mae Wagler works as a baker. She is female. Candidates: baker, mover. Which job is correct?",baker
+"I know that Claire Heitzler is female and works as a baker. Here are some options: manager, baker. Which one is correct?",baker
+"Paul Manauthon is male. He has a profession. Candidates: carpenter, chief. Which profession is his?",carpenter
+Information: Willm Rolf Meyer is male. He works as a carpenter. Options: physician or carpenter. Select the correct occupation.,carpenter
+"Christian David is male. He works as a carpenter. Candidates: salesperson, carpenter. Question: What job does he have?",carpenter
+"John Morgan Jones works as a carpenter. He is male. Candidates: carpenter, librarian. Which job is correct?",carpenter
+"I know that David Grinbaum is male and works as a carpenter. Here are some options: tailor, carpenter. Which one is correct?",carpenter
+"Simon Mee works as a carpenter. He is male. Candidates: secretary, carpenter. Which job is correct?",carpenter
+"August Kapell works as a carpenter. He is male. Candidates: editor, carpenter. Which job is correct?",carpenter
+"Q23943541 is male. He has a profession. Candidates: carpenter, hairdresser. Which profession is his?",carpenter
+"Leopold Kaufmann is male. He works as a carpenter. Candidates: carpenter, laborer. Question: What job does he have?",carpenter
+Information: Johann Georg Hasler is male. He works as a carpenter. Options: carpenter or tailor. Select the correct occupation.,carpenter
+"Gerardo Rodríguez Fernández is male. He has a profession. Candidates: teacher, carpenter. Which profession is his?",carpenter
+"Jörg Spatzier is male. He has a profession. Candidates: carpenter, librarian. Which profession is his?",carpenter
+"Hone Taiapa is male. He works as a carpenter. Candidates: accountant, carpenter. Question: What job does he have?",carpenter
+Information: Julius Feldstein is male. He works as a carpenter. Options: manager or carpenter. Select the correct occupation.,carpenter
+"I know that Pieter Noorwits is male and works as a carpenter. Here are some options: teacher, carpenter. Which one is correct?",carpenter
+"I know that Khana Feinbukh is female and works as a carpenter. Here are some options: physician, carpenter. Which one is correct?",carpenter
+"I know that Trina Gulliver is female and works as a carpenter. Here are some options: supervisor, carpenter. Which one is correct?",carpenter
+Information: May Clark is female. She works as a carpenter. Options: manager or carpenter. Select the correct occupation.,carpenter
+"Sandra Lovelace Nicholas works as a carpenter. She is female. Candidates: physician, carpenter. Which job is correct?",carpenter
+"Mathilde Imer is female. She has a profession. Candidates: tailor, carpenter. Which profession is her?",carpenter
+"Ulrika Holmer is female. She has a profession. Candidates: carpenter, teacher. Which profession is her?",carpenter
+Information: Pete Joyce is female. She works as a carpenter. Options: carpenter or attendant. Select the correct occupation.,carpenter
+"Yoshie Kongō works as a carpenter. She is female. Candidates: carpenter, secretary. Which job is correct?",carpenter
+"I know that Yura is female and works as a carpenter. Here are some options: carpenter, janitor. Which one is correct?",carpenter
+"Erna Perlman is female. She works as a carpenter. Candidates: carpenter, nurse. Question: What job does she have?",carpenter
+"I know that Amy Devers is female and works as a carpenter. Here are some options: carpenter, clerk. Which one is correct?",carpenter
+"Sarina Hitz works as a carpenter. She is female. Candidates: baker, carpenter. Which job is correct?",carpenter
+"Kate Braid is female. She works as a carpenter. Candidates: supervisor, carpenter. Question: What job does she have?",carpenter
+"I know that Joanna Gruzlewska is female and works as a carpenter. Here are some options: carpenter, mover. Which one is correct?",carpenter
+"I know that Aster Plotnik is female and works as a carpenter. Here are some options: housekeeper, carpenter. Which one is correct?",carpenter
+"I know that Johann Gottlieb Zenker is male and works as a cashier. Here are some options: cashier, driver. Which one is correct?",cashier
+"I know that Kei Ogura is male and works as a cashier. Here are some options: baker, cashier. Which one is correct?",cashier
+Information: Hirotaka Ishihara is male. He works as a cashier. Options: cashier or manager. Select the correct occupation.,cashier
+"Richárd Horinka works as a cashier. He is male. Candidates: cashier, construction worker. Which job is correct?",cashier
+Information: Takeshi Ōnishi is male. He works as a cashier. Options: mechanic or cashier. Select the correct occupation.,cashier
+"Otto Kotouč works as a cashier. He is male. Candidates: cashier, designer. Which job is correct?",cashier
+"Johann Joachim Ludwig Wenck works as a cashier. He is male. Candidates: counselor, cashier. Which job is correct?",cashier
+"I know that Mauritz Cuno is male and works as a cashier. Here are some options: driver, cashier. Which one is correct?",cashier
+"Mathias Gullia works as a cashier. He is male. Candidates: cashier, baker. Which job is correct?",cashier
+"John Abbot is male. He has a profession. Candidates: cook, cashier. Which profession is his?",cashier
+"Pedro Bernardo Orcasitas is male. He has a profession. Candidates: cashier, guard. Which profession is his?",cashier
+"Antonín Šrut is male. He has a profession. Candidates: hairdresser, cashier. Which profession is his?",cashier
+"Domenico Lalli is male. He works as a cashier. Candidates: librarian, cashier. Question: What job does he have?",cashier
+"I know that Yoshihiro Seki is male and works as a cashier. Here are some options: cashier, carpenter. Which one is correct?",cashier
+"Yōichi Shiraishi works as a cashier. He is male. Candidates: cashier, auditor. Which job is correct?",cashier
+"Marie A. Detrick is female. She works as a cashier. Candidates: cleaner, cashier. Question: What job does she have?",cashier
+Information: Clara Almánzar is female. She works as a cashier. Options: cashier or analyst. Select the correct occupation.,cashier
+"Clémence Roy works as a cashier. She is female. Candidates: cook, cashier. Which job is correct?",cashier
+"Katharina Peters is female. She has a profession. Candidates: lawyer, cashier. Which profession is her?",cashier
+"Anna Berggren is female. She has a profession. Candidates: cashier, cleaner. Which profession is her?",cashier
+"Yukari Kondō works as a cashier. She is female. Candidates: guard, cashier. Which job is correct?",cashier
+"Hilda Malm is female. She has a profession. Candidates: cashier, construction worker. Which profession is her?",cashier
+"Anna Ronnebäck works as a cashier. She is female. Candidates: auditor, cashier. Which job is correct?",cashier
+"Talita Isabel Soares is female. She has a profession. Candidates: manager, cashier. Which profession is her?",cashier
+"Lilian Roques Silva Felipe is female. She works as a cashier. Candidates: manager, cashier. Question: What job does she have?",cashier
+Information: Jessica Robbin is female. She works as a cashier. Options: cashier or mechanic. Select the correct occupation.,cashier
+"Anna Natalia is female. She has a profession. Candidates: cashier, receptionist. Which profession is her?",cashier
+"Frederika Santing is female. She has a profession. Candidates: mechanic, cashier. Which profession is her?",cashier
+"I know that Kai Wargalla is female and works as a cashier. Here are some options: cashier, farmer. Which one is correct?",cashier
+"I know that Deborah Ebony Chung is female and works as a cashier. Here are some options: cashier, clerk. Which one is correct?",cashier
+"Amir Ashkenazi works as a ceo. He is male. Candidates: accountant, ceo. Which job is correct?",ceo
+"I know that Peter Njonjo is male and works as a ceo. Here are some options: ceo, mechanic. Which one is correct?",ceo
+"I know that Dukagjin Lipa is male and works as a ceo. Here are some options: cashier, ceo. Which one is correct?",ceo
+"Emanuel Sharon is male. He works as a ceo. Candidates: ceo, janitor. Question: What job does he have?",ceo
+Information: Thomas Dohmke is male. He works as a ceo. Options: accountant or ceo. Select the correct occupation.,ceo
+"I know that Pascal Isoard-Thomas is male and works as a ceo. Here are some options: ceo, driver. Which one is correct?",ceo
+"Simon Segars is male. He has a profession. Candidates: carpenter, ceo. Which profession is his?",ceo
+"I know that Q135160153 is male and works as a ceo. Here are some options: lawyer, ceo. Which one is correct?",ceo
+"V. Salminen is male. He works as a ceo. Candidates: analyst, ceo. Question: What job does he have?",ceo
+"I know that Marcus Leaver is male and works as a ceo. Here are some options: ceo, attendant. Which one is correct?",ceo
+"Siegfried Wolf is male. He works as a ceo. Candidates: ceo, mechanic. Question: What job does he have?",ceo
+"I know that David Musto is male and works as a ceo. Here are some options: farmer, ceo. Which one is correct?",ceo
+"I know that Christian Klein is male and works as a ceo. Here are some options: auditor, ceo. Which one is correct?",ceo
+"James Earl Rudder works as a ceo. He is male. Candidates: ceo, cleaner. Which job is correct?",ceo
+Information: Eric Haddad is male. He works as a ceo. Options: ceo or auditor. Select the correct occupation.,ceo
+Information: Ravit Barniv is female. She works as a ceo. Options: ceo or writer. Select the correct occupation.,ceo
+"Jeanette Aaen is female. She has a profession. Candidates: driver, ceo. Which profession is her?",ceo
+"Birgitta Forsström is female. She has a profession. Candidates: ceo, driver. Which profession is her?",ceo
+"I know that Heike Wiehle-Timm is female and works as a ceo. Here are some options: physician, ceo. Which one is correct?",ceo
+"I know that Wendy Holman is female and works as a ceo. Here are some options: ceo, chief. Which one is correct?",ceo
+Information: Desirée Bollier is female. She works as a ceo. Options: ceo or auditor. Select the correct occupation.,ceo
+"Chantal-Line Carpentier is female. She has a profession. Candidates: carpenter, ceo. Which profession is her?",ceo
+"Carys Roberts works as a ceo. She is female. Candidates: ceo, tailor. Which job is correct?",ceo
+"Linda Obi works as a ceo. She is female. Candidates: supervisor, ceo. Which job is correct?",ceo
+"Galia Albin works as a ceo. She is female. Candidates: ceo, attendant. Which job is correct?",ceo
+"I know that Irja Salmela is female and works as a ceo. Here are some options: manager, ceo. Which one is correct?",ceo
+"Néné Maïga works as a ceo. She is female. Candidates: ceo, teacher. Which job is correct?",ceo
+"Shari Steele works as a ceo. She is female. Candidates: ceo, housekeeper. Which job is correct?",ceo
+"I know that Pauline Philip is female and works as a ceo. Here are some options: driver, ceo. Which one is correct?",ceo
+"Angela Ndambuki is female. She works as a ceo. Candidates: receptionist, ceo. Question: What job does she have?",ceo
+"Ronnie Woo Woo is male. He works as a cleaner. Candidates: cleaner, nurse. Question: What job does he have?",cleaner
+"Nilton Donizeti da Silva works as a cleaner. He is male. Candidates: receptionist, cleaner. Which job is correct?",cleaner
+"Jürgen Herzing works as a cleaner. He is male. Candidates: assistant, cleaner. Which job is correct?",cleaner
+Information: Bert Brown is male. He works as a cleaner. Options: cleaner or ceo. Select the correct occupation.,cleaner
+"Watty Borthwick is male. He has a profession. Candidates: cleaner, nurse. Which profession is his?",cleaner
+Information: Andy Burton is male. He works as a cleaner. Options: cleaner or lawyer. Select the correct occupation.,cleaner
+"Thomas Weber works as a cleaner. He is male. Candidates: cleaner, mechanic. Which job is correct?",cleaner
+"Alfons Bierdimpfl is male. He has a profession. Candidates: cleaner, hairdresser. Which profession is his?",cleaner
+"Friedrich Zimpelmann is male. He has a profession. Candidates: cleaner, laborer. Which profession is his?",cleaner
+"I know that Joseph Arend is male and works as a cleaner. Here are some options: nurse, cleaner. Which one is correct?",cleaner
+"Albert Edward Turpin is male. He has a profession. Candidates: cleaner, clerk. Which profession is his?",cleaner
+Information: Seu Zé is male. He works as a cleaner. Options: cleaner or auditor. Select the correct occupation.,cleaner
+Information: Q125876236 is male. He works as a cleaner. Options: construction worker or cleaner. Select the correct occupation.,cleaner
+"Evan Price is male. He has a profession. Candidates: laborer, cleaner. Which profession is his?",cleaner
+"Trygve Lundgreen is male. He has a profession. Candidates: cleaner, janitor. Which profession is his?",cleaner
+Information: Frieda Mager is female. She works as a cleaner. Options: analyst or cleaner. Select the correct occupation.,cleaner
+"I know that Victoria Hughes is female and works as a cleaner. Here are some options: teacher, cleaner. Which one is correct?",cleaner
+"Wanda Sarna works as a cleaner. She is female. Candidates: cleaner, laborer. Which job is correct?",cleaner
+"Susanne Neumann is female. She works as a cleaner. Candidates: writer, cleaner. Question: What job does she have?",cleaner
+"Émilie Trélin is female. She works as a cleaner. Candidates: cleaner, librarian. Question: What job does she have?",cleaner
+"Yevdokia Nos is female. She works as a cleaner. Candidates: teacher, cleaner. Question: What job does she have?",cleaner
+"Magdalena Miedziejewska is female. She works as a cleaner. Candidates: nurse, cleaner. Question: What job does she have?",cleaner
+"Olga Kozłowska is female. She has a profession. Candidates: cleaner, editor. Which profession is her?",cleaner
+"Maria Stein is female. She has a profession. Candidates: cleaner, manager. Which profession is her?",cleaner
+"I know that Q123747492 is female and works as a cleaner. Here are some options: nurse, cleaner. Which one is correct?",cleaner
+"Svetlana Krivonogikh works as a cleaner. She is female. Candidates: clerk, cleaner. Which job is correct?",cleaner
+"Betty Hickstein is female. She works as a cleaner. Candidates: cleaner, sheriff. Question: What job does she have?",cleaner
+"Arantxa Orbegozo is female. She has a profession. Candidates: cleaner, analyst. Which profession is her?",cleaner
+"Kim Woodburn is female. She has a profession. Candidates: supervisor, cleaner. Which profession is her?",cleaner
+"I know that Teresa Roca is female and works as a cleaner. Here are some options: cleaner, teacher. Which one is correct?",cleaner
+"Cheta Nwanze is male. He has a profession. Candidates: clerk, driver. Which profession is his?",clerk
+"I know that Cradock Newton is male and works as a clerk. Here are some options: clerk, supervisor. Which one is correct?",clerk
+"I know that Vittorio Bargioni is male and works as a clerk. Here are some options: clerk, manager. Which one is correct?",clerk
+"Takanori Sakata works as a clerk. He is male. Candidates: clerk, auditor. Which job is correct?",clerk
+"Michael Joseph Schultes works as a clerk. He is male. Candidates: nurse, clerk. Which job is correct?",clerk
+"Yaakov Paskovitz is male. He works as a clerk. Candidates: construction worker, clerk. Question: What job does he have?",clerk
+"Imre Csengery works as a clerk. He is male. Candidates: clerk, janitor. Which job is correct?",clerk
+"I know that Sándor Újfalussy is male and works as a clerk. Here are some options: driver, clerk. Which one is correct?",clerk
+"I know that Foster Awintiti Akugri is male and works as a clerk. Here are some options: nurse, clerk. Which one is correct?",clerk
+"José Nelson Cándido Santos Argibay is male. He works as a clerk. Candidates: analyst, clerk. Question: What job does he have?",clerk
+"Francisco Mazariegos Martínez is male. He works as a clerk. Candidates: janitor, clerk. Question: What job does he have?",clerk
+"Stephen Mack, Jr. is male. He works as a clerk. Candidates: clerk, analyst. Question: What job does he have?",clerk
+"Johannes Martin Reich works as a clerk. He is male. Candidates: clerk, laborer. Which job is correct?",clerk
+"Juan María Atutxa Mendiola is male. He works as a clerk. Candidates: tailor, clerk. Question: What job does he have?",clerk
+"I know that Bedřich Bohumil Černík is male and works as a clerk. Here are some options: clerk, laborer. Which one is correct?",clerk
+"Pasha Leberfeld works as a clerk. She is female. Candidates: janitor, clerk. Which job is correct?",clerk
+"I know that Solimar Silva is female and works as a clerk. Here are some options: sheriff, clerk. Which one is correct?",clerk
+"Maria Hosp is female. She works as a clerk. Candidates: clerk, hairdresser. Question: What job does she have?",clerk
+"Q133816775 is female. She has a profession. Candidates: clerk, nurse. Which profession is her?",clerk
+"I know that Dagmar Chidolue is female and works as a clerk. Here are some options: physician, clerk. Which one is correct?",clerk
+"Sabine Arndt is female. She works as a clerk. Candidates: housekeeper, clerk. Question: What job does she have?",clerk
+"Janina Stankiewicz is female. She has a profession. Candidates: clerk, counselor. Which profession is her?",clerk
+"Elizabeth Esty works as a clerk. She is female. Candidates: salesperson, clerk. Which job is correct?",clerk
+"Mária Horváth is female. She works as a clerk. Candidates: auditor, clerk. Question: What job does she have?",clerk
+"Khana Perlman is female. She works as a clerk. Candidates: clerk, auditor. Question: What job does she have?",clerk
+Information: Dora Wagner is female. She works as a clerk. Options: clerk or analyst. Select the correct occupation.,clerk
+Information: Lili Vogel is female. She works as a clerk. Options: clerk or writer. Select the correct occupation.,clerk
+Information: Elisabeth Rönnholm is female. She works as a clerk. Options: construction worker or clerk. Select the correct occupation.,clerk
+Information: Lotte Blum is female. She works as a clerk. Options: cook or clerk. Select the correct occupation.,clerk
+Information: Irmgard Grotjahn is female. She works as a clerk. Options: clerk or lawyer. Select the correct occupation.,clerk
+"I know that Jaroslav Kovář starší is male and works as a construction_worker. Here are some options: construction_worker, developer. Which one is correct?",construction_worker
+"John Parry is male. He has a profession. Candidates: construction_worker, teacher. Which profession is his?",construction_worker
+"Axel Schultz-Gora is male. He works as a construction_worker. Candidates: construction_worker, mechanic. Question: What job does he have?",construction_worker
+"I know that Bodo Küttler is male and works as a construction_worker. Here are some options: construction_worker, manager. Which one is correct?",construction_worker
+"Peter Robert Whitfield Sr. works as a construction_worker. He is male. Candidates: construction_worker, accountant. Which job is correct?",construction_worker
+Information: Hans Locher is male. He works as a construction_worker. Options: laborer or construction_worker. Select the correct occupation.,construction_worker
+"I know that Devanir Martins is male and works as a construction_worker. Here are some options: mover, construction_worker. Which one is correct?",construction_worker
+Information: Johann Gottlob Brendel is male. He works as a construction_worker. Options: sheriff or construction_worker. Select the correct occupation.,construction_worker
+"I know that Jan Claesz Visscher is male and works as a construction_worker. Here are some options: clerk, construction_worker. Which one is correct?",construction_worker
+"Johan Henrich Reiff is male. He works as a construction_worker. Candidates: construction_worker, tailor. Question: What job does he have?",construction_worker
+"Melchior Trost is male. He has a profession. Candidates: construction_worker, secretary. Which profession is his?",construction_worker
+"I know that Ernst-Alfred Stamm is male and works as a construction_worker. Here are some options: construction_worker, hairdresser. Which one is correct?",construction_worker
+"Paul Buchner is male. He works as a construction_worker. Candidates: construction_worker, secretary. Question: What job does he have?",construction_worker
+"Christian August Hahnemann is male. He works as a construction_worker. Candidates: construction_worker, sheriff. Question: What job does he have?",construction_worker
+"Jean Javelaud is male. He works as a construction_worker. Candidates: teacher, construction_worker. Question: What job does he have?",construction_worker
+Information: Ember is female. She works as a construction_worker. Options: construction_worker or baker. Select the correct occupation.,construction_worker
+Information: Sunita Devi is female. She works as a construction_worker. Options: construction_worker or attendant. Select the correct occupation.,construction_worker
+"Kalavati Devi is female. She works as a construction_worker. Candidates: janitor, construction_worker. Question: What job does she have?",construction_worker
+"Q21451773 works as a construction_worker. She is female. Candidates: teacher, construction_worker. Which job is correct?",construction_worker
+"I know that Delfina Gómez Álvarez is female and works as a construction_worker. Here are some options: mechanic, construction_worker. Which one is correct?",construction_worker
+"Amy Wynn Pastor is female. She works as a construction_worker. Candidates: tailor, construction_worker. Question: What job does she have?",construction_worker
+"Q65198787 is female. She works as a construction_worker. Candidates: attendant, construction_worker. Question: What job does she have?",construction_worker
+"Lyudmila Yanukovych is female. She has a profession. Candidates: construction_worker, cook. Which profession is her?",construction_worker
+"Q28665144 works as a construction_worker. She is female. Candidates: cashier, construction_worker. Which job is correct?",construction_worker
+"Q4254460 is female. She has a profession. Candidates: farmer, construction_worker. Which profession is her?",construction_worker
+"I know that Q88049533 is female and works as a construction_worker. Here are some options: construction_worker, driver. Which one is correct?",construction_worker
+"Q93584229 works as a construction_worker. She is female. Candidates: construction_worker, counselor. Which job is correct?",construction_worker
+"Edith Kent is female. She works as a construction_worker. Candidates: construction_worker, janitor. Question: What job does she have?",construction_worker
+"Daisy Sweeney works as a construction_worker. She is female. Candidates: construction_worker, writer. Which job is correct?",construction_worker
+"Yoshie Kongō is female. She works as a construction_worker. Candidates: construction_worker, baker. Question: What job does she have?",construction_worker
+"Hans Stucki is male. He has a profession. Candidates: physician, cook. Which profession is his?",cook
+"Cándido López Sanz works as a cook. He is male. Candidates: cook, salesperson. Which job is correct?",cook
+"I know that Simone Rugiati is male and works as a cook. Here are some options: cook, secretary. Which one is correct?",cook
+"Grzegorz Łapanowski is male. He has a profession. Candidates: cook, guard. Which profession is his?",cook
+"I know that Dennis Leary is male and works as a cook. Here are some options: cook, guard. Which one is correct?",cook
+"Wilhelm Visintainer works as a cook. He is male. Candidates: assistant, cook. Which job is correct?",cook
+"Charles Tjessem works as a cook. He is male. Candidates: cook, construction worker. Which job is correct?",cook
+"Michael Psilakis works as a cook. He is male. Candidates: cook, guard. Which job is correct?",cook
+"Felix Benz is male. He has a profession. Candidates: cook, librarian. Which profession is his?",cook
+"Jung Márton is male. He has a profession. Candidates: construction worker, cook. Which profession is his?",cook
+"Amir Shurush is male. He has a profession. Candidates: cook, housekeeper. Which profession is his?",cook
+"Stevan Paul is male. He has a profession. Candidates: cook, lawyer. Which profession is his?",cook
+Information: Ernesto Prosperi is male. He works as a cook. Options: cook or supervisor. Select the correct occupation.,cook
+Information: Rolf Anschütz is male. He works as a cook. Options: manager or cook. Select the correct occupation.,cook
+Information: Q81199142 is male. He works as a cook. Options: cook or secretary. Select the correct occupation.,cook
+"Renée Voltaire works as a cook. She is female. Candidates: accountant, cook. Which job is correct?",cook
+Information: Jenny Dorsey is female. She works as a cook. Options: cook or baker. Select the correct occupation.,cook
+"Sara Begner works as a cook. She is female. Candidates: receptionist, cook. Which job is correct?",cook
+"I know that Mercè Ferrer Bofill is female and works as a cook. Here are some options: cook, lawyer. Which one is correct?",cook
+"I know that Tamara Al Saadi is female and works as a cook. Here are some options: cook, designer. Which one is correct?",cook
+Information: Therese Kühner is female. She works as a cook. Options: auditor or cook. Select the correct occupation.,cook
+Information: Isabela Pauluzi is female. She works as a cook. Options: secretary or cook. Select the correct occupation.,cook
+"Renatta Moeloek is female. She has a profession. Candidates: designer, cook. Which profession is her?",cook
+"Trude Eide Straume is female. She has a profession. Candidates: cook, counselor. Which profession is her?",cook
+"I know that Laurie Wolf is female and works as a cook. Here are some options: cook, driver. Which one is correct?",cook
+"Katie Lee is female. She works as a cook. Candidates: receptionist, cook. Question: What job does she have?",cook
+"Julee Rosso works as a cook. She is female. Candidates: cook, receptionist. Which job is correct?",cook
+Information: Candace Nelson is female. She works as a cook. Options: writer or cook. Select the correct occupation.,cook
+"Tracy Eboigbodin is female. She works as a cook. Candidates: cook, writer. Question: What job does she have?",cook
+"Maria Sandmayr works as a cook. She is female. Candidates: cook, assistant. Which job is correct?",cook
+Information: Jindřich Halama is male. He works as a counselor. Options: chief or counselor. Select the correct occupation.,counselor
+Information: Germain Dusausoy is male. He works as a counselor. Options: counselor or librarian. Select the correct occupation.,counselor
+"I know that Jerome Brutsaert is male and works as a counselor. Here are some options: counselor, assistant. Which one is correct?",counselor
+"Johan Joseph Faict is male. He works as a counselor. Candidates: counselor, janitor. Question: What job does he have?",counselor
+"Carolus Van Volxem works as a counselor. He is male. Candidates: cleaner, counselor. Which job is correct?",counselor
+"Jozef Homans is male. He works as a counselor. Candidates: developer, counselor. Question: What job does he have?",counselor
+"Jules Rayée is male. He has a profession. Candidates: teacher, counselor. Which profession is his?",counselor
+"Jiří Janalík is male. He works as a counselor. Candidates: counselor, construction worker. Question: What job does he have?",counselor
+Information: Q136564953 is male. He works as a counselor. Options: counselor or designer. Select the correct occupation.,counselor
+"Frans Kinnaer is male. He has a profession. Candidates: counselor, physician. Which profession is his?",counselor
+"Martinus Stakenborghs works as a counselor. He is male. Candidates: hairdresser, counselor. Which job is correct?",counselor
+Information: Joannes Truyens is male. He works as a counselor. Options: mechanic or counselor. Select the correct occupation.,counselor
+"Petrus Vermylen works as a counselor. He is male. Candidates: analyst, counselor. Which job is correct?",counselor
+"I know that Cornelius Huybreghts is male and works as a counselor. Here are some options: editor, counselor. Which one is correct?",counselor
+"Jacobus Van Zeebroeck is male. He works as a counselor. Candidates: counselor, accountant. Question: What job does he have?",counselor
+Information: Naina Athale is female. She works as a counselor. Options: counselor or clerk. Select the correct occupation.,counselor
+"Susan Crozier is female. She has a profession. Candidates: mechanic, counselor. Which profession is her?",counselor
+"I know that Shelley Moore Capito is female and works as a counselor. Here are some options: counselor, receptionist. Which one is correct?",counselor
+"Wendy Kiang-Spray works as a counselor. She is female. Candidates: mover, counselor. Which job is correct?",counselor
+"I know that Jayne Furlong is female and works as a counselor. Here are some options: designer, counselor. Which one is correct?",counselor
+Information: Alison Maynard Henry is female. She works as a counselor. Options: salesperson or counselor. Select the correct occupation.,counselor
+"Gorreti B. Bamwanga works as a counselor. She is female. Candidates: counselor, writer. Which job is correct?",counselor
+"Julia Samuel is female. She has a profession. Candidates: designer, counselor. Which profession is her?",counselor
+Information: Jaromíra Jirků is female. She works as a counselor. Options: counselor or nurse. Select the correct occupation.,counselor
+Information: Beatriz de Rijke is female. She works as a counselor. Options: counselor or mechanic. Select the correct occupation.,counselor
+"Anne Davies is female. She has a profession. Candidates: counselor, secretary. Which profession is her?",counselor
+Information: Shirleen Prasad is female. She works as a counselor. Options: clerk or counselor. Select the correct occupation.,counselor
+"Naoko Banno is female. She has a profession. Candidates: construction worker, counselor. Which profession is her?",counselor
+"Marcelle Nader-Turner is female. She works as a counselor. Candidates: counselor, analyst. Question: What job does she have?",counselor
+"Lynn McCrossin is female. She works as a counselor. Candidates: counselor, analyst. Question: What job does she have?",counselor
+"Xanti Schawinsky is male. He works as a designer. Candidates: designer, teacher. Question: What job does he have?",designer
+Information: Carl Ernst Kropp is male. He works as a designer. Options: designer or farmer. Select the correct occupation.,designer
+"I know that Phil Janze is male and works as a designer. Here are some options: farmer, designer. Which one is correct?",designer
+Information: Robert Schwarz is male. He works as a designer. Options: mover or designer. Select the correct occupation.,designer
+Information: Hendricus Johannes Alexis Nieberg is male. He works as a designer. Options: receptionist or designer. Select the correct occupation.,designer
+"Ben Drury is male. He has a profession. Candidates: designer, analyst. Which profession is his?",designer
+Information: Svalte Stridbeck is male. He works as a designer. Options: designer or housekeeper. Select the correct occupation.,designer
+"Hossein Khosrojerdi is male. He has a profession. Candidates: analyst, designer. Which profession is his?",designer
+"Jakob Jäger is male. He works as a designer. Candidates: teacher, designer. Question: What job does he have?",designer
+"Balázs Balázs-Piri is male. He has a profession. Candidates: cook, designer. Which profession is his?",designer
+"Flórián Botos is male. He works as a designer. Candidates: designer, farmer. Question: What job does he have?",designer
+"Tomás López Enguídanos works as a designer. He is male. Candidates: designer, cleaner. Which job is correct?",designer
+"Pierre-Adrien Graillon is male. He works as a designer. Candidates: designer, developer. Question: What job does he have?",designer
+"Wes Ball works as a designer. He is male. Candidates: designer, librarian. Which job is correct?",designer
+Information: Sotirios Voulgaris is male. He works as a designer. Options: attendant or designer. Select the correct occupation.,designer
+"Anne Desmet is female. She works as a designer. Candidates: counselor, designer. Question: What job does she have?",designer
+"I know that Maria Hofker-Rueter is female and works as a designer. Here are some options: housekeeper, designer. Which one is correct?",designer
+"Ferol Sibley Warthen works as a designer. She is female. Candidates: designer, cashier. Which job is correct?",designer
+"Patricia Domingues is female. She works as a designer. Candidates: designer, farmer. Question: What job does she have?",designer
+"Marian Bantjes is female. She works as a designer. Candidates: designer, clerk. Question: What job does she have?",designer
+"Cato Berlage is female. She has a profession. Candidates: designer, cleaner. Which profession is her?",designer
+"Margarete Pausinger is female. She works as a designer. Candidates: designer, carpenter. Question: What job does she have?",designer
+"Hanne Kvist works as a designer. She is female. Candidates: physician, designer. Which job is correct?",designer
+"Sarah Micklem is female. She works as a designer. Candidates: construction worker, designer. Question: What job does she have?",designer
+"Emilie Martine van Walree is female. She works as a designer. Candidates: cleaner, designer. Question: What job does she have?",designer
+"Patricia Saunders is female. She has a profession. Candidates: designer, attendant. Which profession is her?",designer
+"Jana Dolanská Hrachová works as a designer. She is female. Candidates: receptionist, designer. Which job is correct?",designer
+Information: Glenna Goodacre is female. She works as a designer. Options: designer or hairdresser. Select the correct occupation.,designer
+"J.P. van der Does is female. She works as a designer. Candidates: developer, designer. Question: What job does she have?",designer
+Information: Randi Knapstad is female. She works as a designer. Options: designer or auditor. Select the correct occupation.,designer
+Information: Zinhor Nasri is male. He works as a developer. Options: cashier or developer. Select the correct occupation.,developer
+Information: Pavel Mžourek is male. He works as a developer. Options: developer or chief. Select the correct occupation.,developer
+Information: Dmitry Lozinsky is male. He works as a developer. Options: developer or manager. Select the correct occupation.,developer
+"I know that Shawn Bayern is male and works as a developer. Here are some options: developer, lawyer. Which one is correct?",developer
+"Peter Oliphant is male. He has a profession. Candidates: secretary, developer. Which profession is his?",developer
+"Xavier Leroy works as a developer. He is male. Candidates: nurse, developer. Which job is correct?",developer
+"James Gross works as a developer. He is male. Candidates: developer, guard. Which job is correct?",developer
+"I know that Erkin Khidirov is male and works as a developer. Here are some options: developer, supervisor. Which one is correct?",developer
+"Marek Gayer is male. He has a profession. Candidates: developer, receptionist. Which profession is his?",developer
+"I know that Sébastien Conejo is male and works as a developer. Here are some options: baker, developer. Which one is correct?",developer
+"Andrew John Hughes works as a developer. He is male. Candidates: developer, guard. Which job is correct?",developer
+"David Wilson is male. He works as a developer. Candidates: developer, supervisor. Question: What job does he have?",developer
+Information: Lentin Joseph is male. He works as a developer. Options: carpenter or developer. Select the correct occupation.,developer
+"Ben Elliston is male. He works as a developer. Candidates: developer, mover. Question: What job does he have?",developer
+Information: Seumas McNally is male. He works as a developer. Options: tailor or developer. Select the correct occupation.,developer
+"Arielle Gordon works as a developer. She is female. Candidates: developer, secretary. Which job is correct?",developer
+"I know that Brigit Lichtenegger is female and works as a developer. Here are some options: mechanic, developer. Which one is correct?",developer
+Information: Line Arlien-Søborg is female. She works as a developer. Options: cleaner or developer. Select the correct occupation.,developer
+"I know that Diana Gutman is female and works as a developer. Here are some options: developer, lawyer. Which one is correct?",developer
+"Q106764460 is female. She has a profession. Candidates: developer, clerk. Which profession is her?",developer
+Information: Ann Hardy is female. She works as a developer. Options: developer or auditor. Select the correct occupation.,developer
+Information: Q110646264 is female. She works as a developer. Options: developer or tailor. Select the correct occupation.,developer
+"Carolyn Taylor works as a developer. She is female. Candidates: developer, chief. Which job is correct?",developer
+"Meghan Cross is female. She has a profession. Candidates: editor, developer. Which profession is her?",developer
+"Claudia Victoria Poblete Hlaczik is female. She works as a developer. Candidates: secretary, developer. Question: What job does she have?",developer
+"Lauren Lee McCarthy is female. She works as a developer. Candidates: farmer, developer. Question: What job does she have?",developer
+"Q107412589 is female. She works as a developer. Candidates: developer, assistant. Question: What job does she have?",developer
+"Ellen Ullman works as a developer. She is female. Candidates: developer, writer. Which job is correct?",developer
+Information: Valeryja Čarnamorcava is female. She works as a developer. Options: assistant or developer. Select the correct occupation.,developer
+"Guðrún Gunnarsdóttir is female. She has a profession. Candidates: developer, secretary. Which profession is her?",developer
+"Sven Verbrugge is male. He works as a driver. Candidates: janitor, driver. Question: What job does he have?",driver
+"Thomas Bieberbach is male. He has a profession. Candidates: designer, driver. Which profession is his?",driver
+"Q60987228 works as a driver. He is male. Candidates: driver, janitor. Which job is correct?",driver
+Information: Richard Hofmann is male. He works as a driver. Options: counselor or driver. Select the correct occupation.,driver
+"Edward John Morrison works as a driver. He is male. Candidates: physician, driver. Which job is correct?",driver
+Information: Takashi Toda is male. He works as a driver. Options: driver or construction worker. Select the correct occupation.,driver
+"I know that Sergey Agapov is male and works as a driver. Here are some options: lawyer, driver. Which one is correct?",driver
+Information: Magnus Karlsson is male. He works as a driver. Options: attendant or driver. Select the correct occupation.,driver
+"Dmitry Komar works as a driver. He is male. Candidates: driver, writer. Which job is correct?",driver
+"I know that Štefan Svitko is male and works as a driver. Here are some options: carpenter, driver. Which one is correct?",driver
+Information: Brian Morrison is male. He works as a driver. Options: accountant or driver. Select the correct occupation.,driver
+Information: Roberto Rolfo is male. He works as a driver. Options: sheriff or driver. Select the correct occupation.,driver
+"I know that Antoine Antignac is male and works as a driver. Here are some options: driver, cook. Which one is correct?",driver
+"I know that Edward Mazur is male and works as a driver. Here are some options: driver, secretary. Which one is correct?",driver
+Information: Wolfgang Lahoda is male. He works as a driver. Options: supervisor or driver. Select the correct occupation.,driver
+"Louise Scherbyn is female. She has a profession. Candidates: carpenter, driver. Which profession is her?",driver
+"Q29108448 is female. She has a profession. Candidates: auditor, driver. Which profession is her?",driver
+"Viera Oborníková works as a driver. She is female. Candidates: assistant, driver. Which job is correct?",driver
+"Luna Köckritz works as a driver. She is female. Candidates: driver, lawyer. Which job is correct?",driver
+"I know that Vera Holme is female and works as a driver. Here are some options: chief, driver. Which one is correct?",driver
+"I know that Q98239750 is female and works as a driver. Here are some options: physician, driver. Which one is correct?",driver
+"I know that Lisa Akin is female and works as a driver. Here are some options: chief, driver. Which one is correct?",driver
+"Salma Khatun works as a driver. She is female. Candidates: driver, editor. Which job is correct?",driver
+"Yvonne Myriam is female. She works as a driver. Candidates: developer, driver. Question: What job does she have?",driver
+"I know that Henryka Krystyna Krzywonos-Strycharska is female and works as a driver. Here are some options: driver, teacher. Which one is correct?",driver
+"Q23659433 is female. She has a profession. Candidates: driver, writer. Which profession is her?",driver
+"Sandra Gómez works as a driver. She is female. Candidates: driver, baker. Which job is correct?",driver
+"Rigmor Gnatt is female. She works as a driver. Candidates: mechanic, driver. Question: What job does she have?",driver
+"Evelyn May Cridlan is female. She has a profession. Candidates: accountant, driver. Which profession is her?",driver
+"Marcia Alves de Oliveira is female. She works as a driver. Candidates: driver, teacher. Question: What job does she have?",driver
+"Per-Arne Bjerke is male. He has a profession. Candidates: ceo, editor. Which profession is his?",editor
+Information: Odd Egil Valderhaug is male. He works as a editor. Options: housekeeper or editor. Select the correct occupation.,editor
+"Honza Musil is male. He works as a editor. Candidates: editor, cook. Question: What job does he have?",editor
+"Hrant Devejyan is male. He works as a editor. Candidates: lawyer, editor. Question: What job does he have?",editor
+"Charles Levin is male. He has a profession. Candidates: editor, carpenter. Which profession is his?",editor
+"Jiří Cieslar is male. He has a profession. Candidates: housekeeper, editor. Which profession is his?",editor
+"Alois Adam works as a editor. He is male. Candidates: teacher, editor. Which job is correct?",editor
+Information: Per Henrik Gullfoss is male. He works as a editor. Options: editor or auditor. Select the correct occupation.,editor
+"I know that Jan Grzenia is male and works as a editor. Here are some options: nurse, editor. Which one is correct?",editor
+"Ales Bachyla is male. He works as a editor. Candidates: chief, editor. Question: What job does he have?",editor
+Information: Tsutomu Igarashi is male. He works as a editor. Options: editor or cashier. Select the correct occupation.,editor
+"Lev Korneshov is male. He works as a editor. Candidates: editor, guard. Question: What job does he have?",editor
+Information: Harutiun Svadjian is male. He works as a editor. Options: editor or janitor. Select the correct occupation.,editor
+"Witold Bieńkowski is male. He works as a editor. Candidates: hairdresser, editor. Question: What job does he have?",editor
+Information: Thomas Reschke is male. He works as a editor. Options: accountant or editor. Select the correct occupation.,editor
+"Maria Helena Schmidt is female. She has a profession. Candidates: editor, sheriff. Which profession is her?",editor
+"Anita Tešovičová is female. She works as a editor. Candidates: teacher, editor. Question: What job does she have?",editor
+"I know that Kira Paramonova is female and works as a editor. Here are some options: designer, editor. Which one is correct?",editor
+Information: Svetlana Korshunova is female. She works as a editor. Options: lawyer or editor. Select the correct occupation.,editor
+"Michelle P. So is female. She has a profession. Candidates: driver, editor. Which profession is her?",editor
+"I know that Irina Petrovskaya is female and works as a editor. Here are some options: sheriff, editor. Which one is correct?",editor
+"Anneli Rådestad works as a editor. She is female. Candidates: editor, lawyer. Which job is correct?",editor
+Information: Isabel Oakeshott is female. She works as a editor. Options: secretary or editor. Select the correct occupation.,editor
+"Lyudmila Glazovskaya works as a editor. She is female. Candidates: mover, editor. Which job is correct?",editor
+Information: Alena Joukova is female. She works as a editor. Options: salesperson or editor. Select the correct occupation.,editor
+"Minna Wettstein-Adelt is female. She has a profession. Candidates: baker, editor. Which profession is her?",editor
+"I know that Valentina Pimanova is female and works as a editor. Here are some options: editor, mover. Which one is correct?",editor
+"Jožka Jabůrková is female. She works as a editor. Candidates: tailor, editor. Question: What job does she have?",editor
+"I know that Lada Galina is female and works as a editor. Here are some options: mechanic, editor. Which one is correct?",editor
+"Živa Čebulj is female. She has a profession. Candidates: housekeeper, editor. Which profession is her?",editor
+"Elliot Lillico is male. He has a profession. Candidates: farmer, baker. Which profession is his?",farmer
+"I know that Muhammed edh-Dhib is male and works as a farmer. Here are some options: librarian, farmer. Which one is correct?",farmer
+"Jean-Baptiste Van Mons is male. He works as a farmer. Candidates: farmer, driver. Question: What job does he have?",farmer
+"Claude Martin Roblin is male. He has a profession. Candidates: cleaner, farmer. Which profession is his?",farmer
+"Sebastian Binz is male. He has a profession. Candidates: mover, farmer. Which profession is his?",farmer
+"David Armitage Bannerman is male. He has a profession. Candidates: driver, farmer. Which profession is his?",farmer
+"Jakob Geiger is male. He works as a farmer. Candidates: farmer, secretary. Question: What job does he have?",farmer
+"Maurice Lagathu is male. He has a profession. Candidates: farmer, librarian. Which profession is his?",farmer
+"Earle Drope is male. He has a profession. Candidates: teacher, farmer. Which profession is his?",farmer
+Information: Philipp Heinrich Dunker is male. He works as a farmer. Options: farmer or mechanic. Select the correct occupation.,farmer
+"Gustav Roesicke works as a farmer. He is male. Candidates: guard, farmer. Which job is correct?",farmer
+"I know that Cowboy Morgan Evans is male and works as a farmer. Here are some options: carpenter, farmer. Which one is correct?",farmer
+"I know that István Frendel is male and works as a farmer. Here are some options: farmer, chief. Which one is correct?",farmer
+"Barry Wakelin works as a farmer. He is male. Candidates: farmer, cleaner. Which job is correct?",farmer
+Information: Reinhard Szibor is male. He works as a farmer. Options: farmer or cleaner. Select the correct occupation.,farmer
+Information: Manda Klancir is female. She works as a farmer. Options: farmer or construction worker. Select the correct occupation.,farmer
+"Jo Sanghi works as a farmer. She is female. Candidates: physician, farmer. Which job is correct?",farmer
+"Mana Takatsuka is female. She works as a farmer. Candidates: farmer, sheriff. Question: What job does she have?",farmer
+Information: Hortense Gezelle is female. She works as a farmer. Options: analyst or farmer. Select the correct occupation.,farmer
+Information: Mai Ueno is female. She works as a farmer. Options: sheriff or farmer. Select the correct occupation.,farmer
+"Anne Armstrong works as a farmer. She is female. Candidates: farmer, cashier. Which job is correct?",farmer
+"I know that Yūka Sugisawa is female and works as a farmer. Here are some options: librarian, farmer. Which one is correct?",farmer
+"Jamaica Kincaid is female. She works as a farmer. Candidates: farmer, cook. Question: What job does she have?",farmer
+"Haruna Jitsu is female. She works as a farmer. Candidates: receptionist, farmer. Question: What job does she have?",farmer
+"I know that Haruka Kano is female and works as a farmer. Here are some options: farmer, mover. Which one is correct?",farmer
+"I know that Kaoru Sumiya is female and works as a farmer. Here are some options: physician, farmer. Which one is correct?",farmer
+"Jódís Sveinsdóttir is female. She works as a farmer. Candidates: farmer, developer. Question: What job does she have?",farmer
+"Q21710248 is female. She has a profession. Candidates: farmer, receptionist. Which profession is her?",farmer
+"Christina Gregg is female. She works as a farmer. Candidates: farmer, sheriff. Question: What job does she have?",farmer
+Information: Q16170523 is female. She works as a farmer. Options: carpenter or farmer. Select the correct occupation.,farmer
+"Josef Vacek works as a hairdresser. He is male. Candidates: hairdresser, assistant. Which job is correct?",hairdresser
+"I know that Adam A. Schjølberg is male and works as a hairdresser. Here are some options: teacher, hairdresser. Which one is correct?",hairdresser
+"Ricard Simó i Bach is male. He has a profession. Candidates: teacher, hairdresser. Which profession is his?",hairdresser
+"Frank Padilha is male. He works as a hairdresser. Candidates: hairdresser, salesperson. Question: What job does he have?",hairdresser
+"Jose Solano de Oliveira works as a hairdresser. He is male. Candidates: laborer, hairdresser. Which job is correct?",hairdresser
+Information: Gustav Wuckic is male. He works as a hairdresser. Options: hairdresser or ceo. Select the correct occupation.,hairdresser
+"Brad Mondo works as a hairdresser. He is male. Candidates: developer, hairdresser. Which job is correct?",hairdresser
+"I know that Joshua Galvin is male and works as a hairdresser. Here are some options: hairdresser, designer. Which one is correct?",hairdresser
+"Scott W. Farley works as a hairdresser. He is male. Candidates: mover, hairdresser. Which job is correct?",hairdresser
+"Christien Tinsley works as a hairdresser. He is male. Candidates: hairdresser, cleaner. Which job is correct?",hairdresser
+"Kang Chang-gu works as a hairdresser. He is male. Candidates: manager, hairdresser. Which job is correct?",hairdresser
+"Frank Zucholowsky works as a hairdresser. He is male. Candidates: hairdresser, laborer. Which job is correct?",hairdresser
+"Vincent Baudoux works as a hairdresser. He is male. Candidates: mover, hairdresser. Which job is correct?",hairdresser
+"I know that Harald Klute is male and works as a hairdresser. Here are some options: attendant, hairdresser. Which one is correct?",hairdresser
+"Daniel Galvin is male. He works as a hairdresser. Candidates: receptionist, hairdresser. Question: What job does he have?",hairdresser
+"Amira Pocher works as a hairdresser. She is female. Candidates: hairdresser, librarian. Which job is correct?",hairdresser
+"Katrin Wahlberg works as a hairdresser. She is female. Candidates: chief, hairdresser. Which job is correct?",hairdresser
+"Tirzah Strässle is female. She works as a hairdresser. Candidates: hairdresser, editor. Question: What job does she have?",hairdresser
+"Isamaya Ffrench is female. She works as a hairdresser. Candidates: hairdresser, secretary. Question: What job does she have?",hairdresser
+"Evelyn Book is female. She has a profession. Candidates: hairdresser, cleaner. Which profession is her?",hairdresser
+Information: Romana Karlíková is female. She works as a hairdresser. Options: teacher or hairdresser. Select the correct occupation.,hairdresser
+"Teruko Kobayashi is female. She has a profession. Candidates: hairdresser, driver. Which profession is her?",hairdresser
+"Maike Heinlein is female. She has a profession. Candidates: hairdresser, chief. Which profession is her?",hairdresser
+"Mirai Matsuda is female. She works as a hairdresser. Candidates: physician, hairdresser. Question: What job does she have?",hairdresser
+"I know that Kelly Phillips is female and works as a hairdresser. Here are some options: hairdresser, supervisor. Which one is correct?",hairdresser
+"Kristina Abelli Elander works as a hairdresser. She is female. Candidates: housekeeper, hairdresser. Which job is correct?",hairdresser
+Information: Q131924543 is female. She works as a hairdresser. Options: hairdresser or designer. Select the correct occupation.,hairdresser
+"Evelyn Preece is female. She works as a hairdresser. Candidates: hairdresser, sheriff. Question: What job does she have?",hairdresser
+"I know that Anne Marie Bradley is female and works as a hairdresser. Here are some options: nurse, hairdresser. Which one is correct?",hairdresser
+"Leila Mäkynen is female. She works as a hairdresser. Candidates: hairdresser, ceo. Question: What job does she have?",hairdresser
+"I know that Marcelino Francisco de Souza is male and works as a housekeeper. Here are some options: construction worker, housekeeper. Which one is correct?",housekeeper
+"Andrée Rocher is male. He works as a housekeeper. Candidates: supervisor, housekeeper. Question: What job does he have?",housekeeper
+"Arthur Newall is male. He works as a housekeeper. Candidates: accountant, housekeeper. Question: What job does he have?",housekeeper
+Information: Ernst Brouze is male. He works as a housekeeper. Options: housekeeper or auditor. Select the correct occupation.,housekeeper
+"Gary Washington works as a housekeeper. He is male. Candidates: housekeeper, cleaner. Which job is correct?",housekeeper
+"Yves Le Seigle is male. He works as a housekeeper. Candidates: housekeeper, teacher. Question: What job does he have?",housekeeper
+"Felicia Dorothea Kate Dover is female. She works as a housekeeper. Candidates: cashier, housekeeper. Question: What job does she have?",housekeeper
+"Emma Bruch works as a housekeeper. She is female. Candidates: housekeeper, mover. Which job is correct?",housekeeper
+"I know that Clara Dijkstra is female and works as a housekeeper. Here are some options: supervisor, housekeeper. Which one is correct?",housekeeper
+"I know that Pieternella Kwikkers is female and works as a housekeeper. Here are some options: housekeeper, analyst. Which one is correct?",housekeeper
+Information: Elizabeth Rasmussen Sundberg is female. She works as a housekeeper. Options: housekeeper or writer. Select the correct occupation.,housekeeper
+Information: Helene Demuth is female. She works as a housekeeper. Options: farmer or housekeeper. Select the correct occupation.,housekeeper
+"Robert Menge works as a janitor. He is male. Candidates: janitor, mechanic. Which job is correct?",janitor
+"Bert Brown is male. He has a profession. Candidates: assistant, janitor. Which profession is his?",janitor
+"Giuseppe Garibaldi works as a janitor. He is male. Candidates: assistant, janitor. Which job is correct?",janitor
+"Sven Gustaf Hellström works as a janitor. He is male. Candidates: ceo, janitor. Which job is correct?",janitor
+"Louis Müller is male. He works as a janitor. Candidates: clerk, janitor. Question: What job does he have?",janitor
+"I know that Johannes Seifert is male and works as a janitor. Here are some options: farmer, janitor. Which one is correct?",janitor
+"I know that Hermann Schöpf is male and works as a janitor. Here are some options: secretary, janitor. Which one is correct?",janitor
+"I know that Mulugeta Seraw is male and works as a janitor. Here are some options: janitor, chief. Which one is correct?",janitor
+"Leo Klinger is male. He has a profession. Candidates: laborer, janitor. Which profession is his?",janitor
+"I know that Günter Nagel is male and works as a janitor. Here are some options: janitor, developer. Which one is correct?",janitor
+"Veijo Jäsberg is male. He works as a janitor. Candidates: farmer, janitor. Question: What job does he have?",janitor
+"Christiaan Stokhuijzen works as a janitor. He is male. Candidates: cleaner, janitor. Which job is correct?",janitor
+"I know that Aasmund Wiik is male and works as a janitor. Here are some options: janitor, cook. Which one is correct?",janitor
+"Rosa Maria da Silva is female. She works as a janitor. Candidates: janitor, attendant. Question: What job does she have?",janitor
+"Magdalena Miedziejewska is female. She works as a janitor. Candidates: assistant, janitor. Question: What job does she have?",janitor
+Information: Erzsébet Bősze is female. She works as a janitor. Options: janitor or guard. Select the correct occupation.,janitor
+Information: Marinalva Pereira da Silva is female. She works as a janitor. Options: physician or janitor. Select the correct occupation.,janitor
+"Matea Bolívar is female. She works as a janitor. Candidates: ceo, janitor. Question: What job does she have?",janitor
+"Lina Hirsch works as a janitor. She is female. Candidates: janitor, writer. Which job is correct?",janitor
+Information: Ilaria Cucchi is female. She works as a janitor. Options: janitor or driver. Select the correct occupation.,janitor
+"Harriet Redmond is female. She has a profession. Candidates: janitor, mover. Which profession is her?",janitor
+Information: Júlia Tury is female. She works as a janitor. Options: writer or janitor. Select the correct occupation.,janitor
+"Rachel Cliff is female. She has a profession. Candidates: janitor, construction worker. Which profession is her?",janitor
+"Q135781302 works as a janitor. She is female. Candidates: janitor, carpenter. Which job is correct?",janitor
+"Émilie Trélin is female. She works as a janitor. Candidates: janitor, nurse. Question: What job does she have?",janitor
+"Juliette Fournier works as a janitor. She is female. Candidates: farmer, janitor. Which job is correct?",janitor
+"Daniel (Mansson) Ekman is male. He has a profession. Candidates: accountant, laborer. Which profession is his?",laborer
+"Fritz Wilhelm Reisgies works as a laborer. He is male. Candidates: laborer, mechanic. Which job is correct?",laborer
+"Lewin Dedeke is male. He works as a laborer. Candidates: tailor, laborer. Question: What job does he have?",laborer
+"Q120614595 is male. He has a profession. Candidates: teacher, laborer. Which profession is his?",laborer
+"Thomas Germain is male. He works as a laborer. Candidates: laborer, physician. Question: What job does he have?",laborer
+"I know that Konstantin Krjukov is male and works as a laborer. Here are some options: laborer, driver. Which one is correct?",laborer
+Information: Antonio Arrabal is male. He works as a laborer. Options: laborer or clerk. Select the correct occupation.,laborer
+Information: Manfred Seidl is male. He works as a laborer. Options: laborer or cashier. Select the correct occupation.,laborer
+"I know that Christian Mittermeier is male and works as a laborer. Here are some options: laborer, cook. Which one is correct?",laborer
+"Q124221208 is male. He has a profession. Candidates: laborer, chief. Which profession is his?",laborer
+Information: Marc Rennhack is male. He works as a laborer. Options: laborer or driver. Select the correct occupation.,laborer
+"Moritz Watrinet works as a laborer. He is male. Candidates: laborer, editor. Which job is correct?",laborer
+Information: Nicholas Hilliard is male. He works as a laborer. Options: hairdresser or laborer. Select the correct occupation.,laborer
+"Károly Szabó is male. He works as a laborer. Candidates: tailor, laborer. Question: What job does he have?",laborer
+"I know that Carl Schuhmann is male and works as a laborer. Here are some options: laborer, developer. Which one is correct?",laborer
+"Anette Mülbaier works as a laborer. She is female. Candidates: laborer, writer. Which job is correct?",laborer
+"Liliana Battle works as a laborer. She is female. Candidates: hairdresser, laborer. Which job is correct?",laborer
+"Felicita Kalinšek works as a laborer. She is female. Candidates: laborer, developer. Which job is correct?",laborer
+"Choumicha Chafaï is female. She works as a laborer. Candidates: laborer, lawyer. Question: What job does she have?",laborer
+"Françoise Mabille works as a laborer. She is female. Candidates: laborer, construction worker. Which job is correct?",laborer
+Information: Marsia Taha is female. She works as a laborer. Options: editor or laborer. Select the correct occupation.,laborer
+"I know that Marta Cortegano is female and works as a laborer. Here are some options: writer, laborer. Which one is correct?",laborer
+"I know that Nuria Picas Albets is female and works as a laborer. Here are some options: baker, laborer. Which one is correct?",laborer
+"I know that Ena May Neill is female and works as a laborer. Here are some options: mover, laborer. Which one is correct?",laborer
+"I know that Julie Wolfe is female and works as a laborer. Here are some options: supervisor, laborer. Which one is correct?",laborer
+"I know that Marie Riet is female and works as a laborer. Here are some options: lawyer, laborer. Which one is correct?",laborer
+"I know that Andrea Simmen is female and works as a laborer. Here are some options: laborer, clerk. Which one is correct?",laborer
+"I know that Rochelle Martin is female and works as a laborer. Here are some options: laborer, clerk. Which one is correct?",laborer
+"I know that Empress Peng is female and works as a laborer. Here are some options: laborer, auditor. Which one is correct?",laborer
+"Valéria Longauerová is female. She works as a laborer. Candidates: laborer, designer. Question: What job does she have?",laborer
+"I know that Eric Cantor is male and works as a lawyer. Here are some options: lawyer, baker. Which one is correct?",lawyer
+"José Calvo Sotelo is male. He works as a lawyer. Candidates: counselor, lawyer. Question: What job does he have?",lawyer
+"Andreas Stoch is male. He has a profession. Candidates: manager, lawyer. Which profession is his?",lawyer
+"I know that Juho Kusti Paasikivi is male and works as a lawyer. Here are some options: lawyer, driver. Which one is correct?",lawyer
+"Michael M. Wood works as a lawyer. He is male. Candidates: receptionist, lawyer. Which job is correct?",lawyer
+"Kōjirō Nishimura is male. He has a profession. Candidates: lawyer, construction worker. Which profession is his?",lawyer
+"I know that Gordon H. Smith is male and works as a lawyer. Here are some options: lawyer, mechanic. Which one is correct?",lawyer
+"Sotir Tsatsarov works as a lawyer. He is male. Candidates: lawyer, teacher. Which job is correct?",lawyer
+"Fouad Mebazaa works as a lawyer. He is male. Candidates: lawyer, manager. Which job is correct?",lawyer
+"I know that Mamerto Cerezo Abad is male and works as a lawyer. Here are some options: teacher, lawyer. Which one is correct?",lawyer
+"I know that John W. Stevenson is male and works as a lawyer. Here are some options: lawyer, tailor. Which one is correct?",lawyer
+"Aristóbulo del Valle is male. He works as a lawyer. Candidates: lawyer, mechanic. Question: What job does he have?",lawyer
+"Eduard Hupertz works as a lawyer. He is male. Candidates: lawyer, auditor. Which job is correct?",lawyer
+"I know that Karl Koch is male and works as a lawyer. Here are some options: manager, lawyer. Which one is correct?",lawyer
+"Horst Arnold is male. He has a profession. Candidates: lawyer, cleaner. Which profession is his?",lawyer
+"Isabelle Ameganvi works as a lawyer. She is female. Candidates: janitor, lawyer. Which job is correct?",lawyer
+"Patricia Guerrero works as a lawyer. She is female. Candidates: janitor, lawyer. Which job is correct?",lawyer
+"I know that Meron Abdi is female and works as a lawyer. Here are some options: writer, lawyer. Which one is correct?",lawyer
+Information: Ruth Bader Ginsburg is female. She works as a lawyer. Options: nurse or lawyer. Select the correct occupation.,lawyer
+"Mary Carmack-Altwies is female. She works as a lawyer. Candidates: baker, lawyer. Question: What job does she have?",lawyer
+"Setsuko Aoki is female. She works as a lawyer. Candidates: accountant, lawyer. Question: What job does she have?",lawyer
+"I know that Q87245567 is female and works as a lawyer. Here are some options: guard, lawyer. Which one is correct?",lawyer
+"Masumi Nakamura works as a lawyer. She is female. Candidates: lawyer, physician. Which job is correct?",lawyer
+"Carin Clauss works as a lawyer. She is female. Candidates: receptionist, lawyer. Which job is correct?",lawyer
+"I know that Kinko Satō is female and works as a lawyer. Here are some options: construction worker, lawyer. Which one is correct?",lawyer
+"Kari Morrissey is female. She works as a lawyer. Candidates: cleaner, lawyer. Question: What job does she have?",lawyer
+"Belén del Valle Díaz is female. She has a profession. Candidates: manager, lawyer. Which profession is her?",lawyer
+Information: Janet Reno is female. She works as a lawyer. Options: lawyer or housekeeper. Select the correct occupation.,lawyer
+Information: Irene Moss is female. She works as a lawyer. Options: cashier or lawyer. Select the correct occupation.,lawyer
+"Beverley McLachlin is female. She works as a lawyer. Candidates: lawyer, sheriff. Question: What job does she have?",lawyer
+"I know that Ludwig Greve is male and works as a librarian. Here are some options: cook, librarian. Which one is correct?",librarian
+"Harald Strätz is male. He works as a librarian. Candidates: librarian, developer. Question: What job does he have?",librarian
+Information: Hugo Blotius is male. He works as a librarian. Options: librarian or guard. Select the correct occupation.,librarian
+"Eugene Bouvy works as a librarian. He is male. Candidates: librarian, auditor. Which job is correct?",librarian
+"Friedrich Zoepfl is male. He has a profession. Candidates: carpenter, librarian. Which profession is his?",librarian
+"I know that Lubomír Emil Havlík is male and works as a librarian. Here are some options: librarian, construction worker. Which one is correct?",librarian
+Information: Rudolf of Fulda is male. He works as a librarian. Options: assistant or librarian. Select the correct occupation.,librarian
+"Gérard Herzhaft is male. He works as a librarian. Candidates: mover, librarian. Question: What job does he have?",librarian
+"Karl Johan Laurentius Torin is male. He works as a librarian. Candidates: supervisor, librarian. Question: What job does he have?",librarian
+"I know that Jean Joseph Dussault is male and works as a librarian. Here are some options: librarian, lawyer. Which one is correct?",librarian
+Information: Wolfgang Metz is male. He works as a librarian. Options: librarian or cashier. Select the correct occupation.,librarian
+"Ogan Stepanovich Chubar'ian works as a librarian. He is male. Candidates: librarian, receptionist. Which job is correct?",librarian
+Information: Hartwig Hirschfeld is male. He works as a librarian. Options: librarian or carpenter. Select the correct occupation.,librarian
+"Franz Schnorr von Carolsfeld is male. He works as a librarian. Candidates: physician, librarian. Question: What job does he have?",librarian
+"Félix Desvernay is male. He works as a librarian. Candidates: counselor, librarian. Question: What job does he have?",librarian
+"Alice Lougee Hagemeyer works as a librarian. She is female. Candidates: librarian, mover. Which job is correct?",librarian
+"Dorthe Refslund Christensen is female. She has a profession. Candidates: librarian, construction worker. Which profession is her?",librarian
+"I know that Ludmilla Rass is female and works as a librarian. Here are some options: salesperson, librarian. Which one is correct?",librarian
+"Wanda Pindlowa is female. She works as a librarian. Candidates: librarian, assistant. Question: What job does she have?",librarian
+"Sara Myers works as a librarian. She is female. Candidates: sheriff, librarian. Which job is correct?",librarian
+"Majia Holmer Nadesan is female. She works as a librarian. Candidates: librarian, tailor. Question: What job does she have?",librarian
+"Kathrin Friederike Müller is female. She has a profession. Candidates: analyst, librarian. Which profession is her?",librarian
+"Jutta Bohnke-Kollwitz is female. She works as a librarian. Candidates: librarian, teacher. Question: What job does she have?",librarian
+"I know that Nia Roberts is female and works as a librarian. Here are some options: librarian, hairdresser. Which one is correct?",librarian
+"Fiona McLeod works as a librarian. She is female. Candidates: accountant, librarian. Which job is correct?",librarian
+"Jennifer Stromer-Galley is female. She has a profession. Candidates: accountant, librarian. Which profession is her?",librarian
+"Pat Woodrum is female. She works as a librarian. Candidates: librarian, editor. Question: What job does she have?",librarian
+"I know that Mary Frances Isom is female and works as a librarian. Here are some options: secretary, librarian. Which one is correct?",librarian
+"Q134300378 is female. She has a profession. Candidates: receptionist, librarian. Which profession is her?",librarian
+"I know that Lourdes Reyes i Camps is female and works as a librarian. Here are some options: clerk, librarian. Which one is correct?",librarian
+"Pere Estelrich Massutí works as a manager. He is male. Candidates: analyst, manager. Which job is correct?",manager
+"Pier Marco De Santi is male. He works as a manager. Candidates: designer, manager. Question: What job does he have?",manager
+"Lewis J. Rachmil is male. He has a profession. Candidates: librarian, manager. Which profession is his?",manager
+Information: J. V. Ronimus is male. He works as a manager. Options: cashier or manager. Select the correct occupation.,manager
+"I know that Vladimir Lifanov is male and works as a manager. Here are some options: manager, nurse. Which one is correct?",manager
+"Karl Kauermann is male. He has a profession. Candidates: lawyer, manager. Which profession is his?",manager
+"Kurt A. Vialet is male. He works as a manager. Candidates: sheriff, manager. Question: What job does he have?",manager
+Information: Pavel Maurer is male. He works as a manager. Options: manager or cook. Select the correct occupation.,manager
+"Luis Alfredo Morales Paternina is male. He has a profession. Candidates: manager, chief. Which profession is his?",manager
+Information: Léon Barsacq is male. He works as a manager. Options: laborer or manager. Select the correct occupation.,manager
+"I know that Otto Mehr is male and works as a manager. Here are some options: manager, editor. Which one is correct?",manager
+"Edgar Zendejas is male. He has a profession. Candidates: physician, manager. Which profession is his?",manager
+Information: Moriz Paschkis is male. He works as a manager. Options: guard or manager. Select the correct occupation.,manager
+"E. A. Ashchepkov is male. He works as a manager. Candidates: supervisor, manager. Question: What job does he have?",manager
+"Andreas Christian Møller is male. He has a profession. Candidates: guard, manager. Which profession is his?",manager
+"I know that Bella French is female and works as a manager. Here are some options: manager, baker. Which one is correct?",manager
+"I know that Livia Borgognoni is female and works as a manager. Here are some options: manager, mechanic. Which one is correct?",manager
+"Marcelle Gagné works as a manager. She is female. Candidates: baker, manager. Which job is correct?",manager
+"Nina Cosco is female. She has a profession. Candidates: manager, accountant. Which profession is her?",manager
+"Claudia Maria da Silva works as a manager. She is female. Candidates: manager, laborer. Which job is correct?",manager
+"Beatrice Avolio is female. She has a profession. Candidates: manager, physician. Which profession is her?",manager
+"Marie-Hélène Gaudreau is female. She works as a manager. Candidates: manager, nurse. Question: What job does she have?",manager
+"Florencia Martin is female. She works as a manager. Candidates: manager, cleaner. Question: What job does she have?",manager
+"Giovana Reali is female. She works as a manager. Candidates: cook, manager. Question: What job does she have?",manager
+"Zaida Beatriz Asencios González is female. She works as a manager. Candidates: manager, guard. Question: What job does she have?",manager
+"I know that Harpreet Kaur is female and works as a manager. Here are some options: manager, construction worker. Which one is correct?",manager
+Information: Charity Charity is female. She works as a manager. Options: developer or manager. Select the correct occupation.,manager
+"Elinor Frances Craig is female. She works as a manager. Candidates: manager, driver. Question: What job does she have?",manager
+"Åsa Persson is female. She has a profession. Candidates: manager, ceo. Which profession is her?",manager
+"Virginie Terrasse works as a manager. She is female. Candidates: cook, manager. Which job is correct?",manager
+Information: Gottfried Hörndli is male. He works as a mechanic. Options: writer or mechanic. Select the correct occupation.,mechanic
+"Edilson is male. He works as a mechanic. Candidates: mechanic, supervisor. Question: What job does he have?",mechanic
+"Tor Harald Lund is male. He has a profession. Candidates: mechanic, editor. Which profession is his?",mechanic
+Information: Henryk Cichowski is male. He works as a mechanic. Options: mechanic or designer. Select the correct occupation.,mechanic
+"Joseph Clement works as a mechanic. He is male. Candidates: clerk, mechanic. Which job is correct?",mechanic
+Information: Alford Gardner is male. He works as a mechanic. Options: laborer or mechanic. Select the correct occupation.,mechanic
+Information: Akseli Leppänen is male. He works as a mechanic. Options: mechanic or laborer. Select the correct occupation.,mechanic
+"Karl George Granse is male. He has a profession. Candidates: mechanic, hairdresser. Which profession is his?",mechanic
+Information: Francesc Micheli i Jové is male. He works as a mechanic. Options: physician or mechanic. Select the correct occupation.,mechanic
+"Carl Henry Schneider is male. He works as a mechanic. Candidates: mechanic, developer. Question: What job does he have?",mechanic
+"Alfons Sowiński is male. He works as a mechanic. Candidates: construction worker, mechanic. Question: What job does he have?",mechanic
+"William Thomas Meikle works as a mechanic. He is male. Candidates: mechanic, nurse. Which job is correct?",mechanic
+"Nizo Priskorn is male. He has a profession. Candidates: hairdresser, mechanic. Which profession is his?",mechanic
+"Otto Demant is male. He has a profession. Candidates: construction worker, mechanic. Which profession is his?",mechanic
+"Eugene Saylor Rhoads works as a mechanic. He is male. Candidates: mechanic, laborer. Which job is correct?",mechanic
+Information: Evelyn May Cridlan is female. She works as a mechanic. Options: tailor or mechanic. Select the correct occupation.,mechanic
+"I know that Marie-Christine Blais is female and works as a mechanic. Here are some options: mechanic, writer. Which one is correct?",mechanic
+"Maria Fugazza is female. She works as a mechanic. Candidates: mechanic, accountant. Question: What job does she have?",mechanic
+Information: Susan Hall is female. She works as a mechanic. Options: chief or mechanic. Select the correct occupation.,mechanic
+"Jeanne Brault Laurin works as a mechanic. She is female. Candidates: driver, mechanic. Which job is correct?",mechanic
+Information: Katie Percy is female. She works as a mechanic. Options: sheriff or mechanic. Select the correct occupation.,mechanic
+"I know that Miriam Silva is female and works as a mechanic. Here are some options: janitor, mechanic. Which one is correct?",mechanic
+"I know that Aimée Lidéa Nabo is female and works as a mechanic. Here are some options: auditor, mechanic. Which one is correct?",mechanic
+"Lillie May Nicholson is female. She has a profession. Candidates: cleaner, mechanic. Which profession is her?",mechanic
+"Iveta Kokyová is female. She works as a mechanic. Candidates: accountant, mechanic. Question: What job does she have?",mechanic
+"I know that Rosamund Stanhope is female and works as a mechanic. Here are some options: mover, mechanic. Which one is correct?",mechanic
+"I know that Eunice Macaulay is female and works as a mechanic. Here are some options: farmer, mechanic. Which one is correct?",mechanic
+"Ivy Cummings is female. She works as a mechanic. Candidates: mechanic, hairdresser. Question: What job does she have?",mechanic
+Information: Gwendolen 'Bunty' Sergant is female. She works as a mechanic. Options: ceo or mechanic. Select the correct occupation.,mechanic
+"Lucille Treganowan works as a mechanic. She is female. Candidates: janitor, mechanic. Which job is correct?",mechanic
+"I know that Thomas Campbell is male and works as a mover. Here are some options: mover, guard. Which one is correct?",mover
+"Little Karim is male. He works as a mover. Candidates: laborer, mover. Question: What job does he have?",mover
+"Zaro Aga is male. He has a profession. Candidates: mover, driver. Which profession is his?",mover
+"James Crowther is male. He works as a mover. Candidates: assistant, mover. Question: What job does he have?",mover
+"Anna S. Vaughn is female. She works as a mover. Candidates: salesperson, mover. Question: What job does she have?",mover
+"Mere Harpur is female. She works as a mover. Candidates: mover, baker. Question: What job does she have?",mover
+"María Bellido Vallejos is female. She works as a mover. Candidates: librarian, mover. Question: What job does she have?",mover
+"Maria Plozner Mentil works as a mover. She is female. Candidates: carpenter, mover. Which job is correct?",mover
+"Amor Padilla Gatinao works as a nurse. He is male. Candidates: baker, nurse. Which job is correct?",nurse
+"I know that Kevin McKenna is male and works as a nurse. Here are some options: nurse, designer. Which one is correct?",nurse
+Information: Claude Thill is male. He works as a nurse. Options: laborer or nurse. Select the correct occupation.,nurse
+"I know that Tom Omaña Luna Jr. is male and works as a nurse. Here are some options: counselor, nurse. Which one is correct?",nurse
+"Q12145939 works as a nurse. He is male. Candidates: nurse, construction worker. Which job is correct?",nurse
+"Q131124980 is male. He has a profession. Candidates: nurse, analyst. Which profession is his?",nurse
+Information: Marek Kulich is male. He works as a nurse. Options: developer or nurse. Select the correct occupation.,nurse
+"I know that Gianfranco Chiacchieroni is male and works as a nurse. Here are some options: nurse, receptionist. Which one is correct?",nurse
+"Ernst Ludwig Eckert works as a nurse. He is male. Candidates: cook, nurse. Which job is correct?",nurse
+"I know that Jean Baptiste Léopold Alfred Riche is male and works as a nurse. Here are some options: nurse, editor. Which one is correct?",nurse
+"I know that Roger L. Wabeke is male and works as a nurse. Here are some options: secretary, nurse. Which one is correct?",nurse
+Information: Daniel Thollin is male. He works as a nurse. Options: nurse or ceo. Select the correct occupation.,nurse
+"Emil Gotschlich is male. He has a profession. Candidates: tailor, nurse. Which profession is his?",nurse
+"Francisco Criado y Aguilar is male. He has a profession. Candidates: nurse, cook. Which profession is his?",nurse
+"Guido Morozzi is male. He works as a nurse. Candidates: carpenter, nurse. Question: What job does he have?",nurse
+Information: Rabiah Panthupeng is female. She works as a nurse. Options: nurse or cleaner. Select the correct occupation.,nurse
+"I know that Caroline Burghardt is female and works as a nurse. Here are some options: nurse, analyst. Which one is correct?",nurse
+"I know that Midori Kagawa is female and works as a nurse. Here are some options: nurse, supervisor. Which one is correct?",nurse
+"I know that Maud McCarthy is female and works as a nurse. Here are some options: nurse, secretary. Which one is correct?",nurse
+"Patricia A. Potter is female. She works as a nurse. Candidates: ceo, nurse. Question: What job does she have?",nurse
+"I know that Lenka Bocková is female and works as a nurse. Here are some options: nurse, lawyer. Which one is correct?",nurse
+"Stefania Boccia is female. She works as a nurse. Candidates: farmer, nurse. Question: What job does she have?",nurse
+"Christine Roke is female. She has a profession. Candidates: nurse, writer. Which profession is her?",nurse
+Information: Isabel Ramírez Chumbe is female. She works as a nurse. Options: nurse or housekeeper. Select the correct occupation.,nurse
+"Kate Marsden is female. She works as a nurse. Candidates: nurse, driver. Question: What job does she have?",nurse
+"I know that Auguste Emma Weisshaar is female and works as a nurse. Here are some options: nurse, guard. Which one is correct?",nurse
+"Alice Bianquis Escande is female. She has a profession. Candidates: nurse, attendant. Which profession is her?",nurse
+"I know that Pam Miley-Terry is female and works as a nurse. Here are some options: nurse, farmer. Which one is correct?",nurse
+"Shizu Koyama works as a nurse. She is female. Candidates: mover, nurse. Which job is correct?",nurse
+"Mary Ann McLaughlin works as a nurse. She is female. Candidates: nurse, farmer. Which job is correct?",nurse
+"Edward Coleman is male. He works as a physician. Candidates: driver, physician. Question: What job does he have?",physician
+"Julij Ivanovič Afanas'jev works as a physician. He is male. Candidates: chief, physician. Which job is correct?",physician
+"Erich Franz Eugen Bracht is male. He works as a physician. Candidates: physician, accountant. Question: What job does he have?",physician
+"Klaus Schneewind is male. He has a profession. Candidates: janitor, physician. Which profession is his?",physician
+"Abraham Buschke is male. He has a profession. Candidates: laborer, physician. Which profession is his?",physician
+Information: Július Gajdoš is male. He works as a physician. Options: sheriff or physician. Select the correct occupation.,physician
+"Fazal Inayat-Khan is male. He has a profession. Candidates: physician, cleaner. Which profession is his?",physician
+"Peter F. Brown is male. He has a profession. Candidates: physician, chief. Which profession is his?",physician
+"Alexei Zavarzin works as a physician. He is male. Candidates: assistant, physician. Which job is correct?",physician
+"Eloisio do Carmo Lourenço is male. He has a profession. Candidates: physician, librarian. Which profession is his?",physician
+"I know that Bernard Schwartz is male and works as a physician. Here are some options: physician, janitor. Which one is correct?",physician
+"Marek Malůš is male. He has a profession. Candidates: clerk, physician. Which profession is his?",physician
+"I know that Carlos Aurensanz is male and works as a physician. Here are some options: physician, farmer. Which one is correct?",physician
+"McKinley L. Price works as a physician. He is male. Candidates: accountant, physician. Which job is correct?",physician
+Information: Walter Renner is male. He works as a physician. Options: physician or clerk. Select the correct occupation.,physician
+Information: Kara K. Siegrist is female. She works as a physician. Options: physician or clerk. Select the correct occupation.,physician
+"Jaroslava Vaněčková is female. She works as a physician. Candidates: physician, writer. Question: What job does she have?",physician
+Information: Mindy Min-Yu Hung is female. She works as a physician. Options: auditor or physician. Select the correct occupation.,physician
+"Julia Samuël works as a physician. She is female. Candidates: designer, physician. Which job is correct?",physician
+Information: Antares Vázquez Alatorre is female. She works as a physician. Options: physician or laborer. Select the correct occupation.,physician
+"Dana Krejčířová works as a physician. She is female. Candidates: accountant, physician. Which job is correct?",physician
+"Michelle Aszterbaum is female. She has a profession. Candidates: counselor, physician. Which profession is her?",physician
+Information: Pamela Stephenson is female. She works as a physician. Options: writer or physician. Select the correct occupation.,physician
+Information: Kaarina Haavikko is female. She works as a physician. Options: accountant or physician. Select the correct occupation.,physician
+"I know that Marjory Warren is female and works as a physician. Here are some options: tailor, physician. Which one is correct?",physician
+"Beata Młynarczyk-Bonikowska is female. She has a profession. Candidates: clerk, physician. Which profession is her?",physician
+"Silvia Ligi works as a physician. She is female. Candidates: physician, writer. Which job is correct?",physician
+"I know that Darina Nábělková is female and works as a physician. Here are some options: physician, developer. Which one is correct?",physician
+"Eva Lundgren works as a physician. She is female. Candidates: physician, receptionist. Which job is correct?",physician
+"Natalie F. Holt is female. She has a profession. Candidates: physician, salesperson. Which profession is her?",physician
+"I know that Rafly Rahamat is male and works as a receptionist. Here are some options: auditor, receptionist. Which one is correct?",receptionist
+"Marcio Rogerio Leite is male. He has a profession. Candidates: receptionist, cleaner. Which profession is his?",receptionist
+"I know that Rodrigo da Silva Jacinto is male and works as a receptionist. Here are some options: tailor, receptionist. Which one is correct?",receptionist
+"Q127377778 is male. He has a profession. Candidates: manager, receptionist. Which profession is his?",receptionist
+"Protesilaos Stavrou is male. He works as a receptionist. Candidates: counselor, receptionist. Question: What job does he have?",receptionist
+"Genilson is male. He works as a receptionist. Candidates: receptionist, supervisor. Question: What job does he have?",receptionist
+"Q134964235 works as a receptionist. He is male. Candidates: counselor, receptionist. Which job is correct?",receptionist
+"I know that Joe Barber II is male and works as a receptionist. Here are some options: receptionist, developer. Which one is correct?",receptionist
+"I know that Neide Galvão do Amaral is female and works as a receptionist. Here are some options: receptionist, guard. Which one is correct?",receptionist
+Information: Amanda Forde is female. She works as a receptionist. Options: analyst or receptionist. Select the correct occupation.,receptionist
+"Jana Schindlerová is female. She works as a receptionist. Candidates: driver, receptionist. Question: What job does she have?",receptionist
+"Sabrina Lourenço Viziack is female. She works as a receptionist. Candidates: receptionist, manager. Question: What job does she have?",receptionist
+"Lucia Helena da Silva Alves is female. She works as a receptionist. Candidates: lawyer, receptionist. Question: What job does she have?",receptionist
+Information: Magda Łuczycki is female. She works as a receptionist. Options: receptionist or manager. Select the correct occupation.,receptionist
+"Rosa de Fátima dos Santos works as a receptionist. She is female. Candidates: laborer, receptionist. Which job is correct?",receptionist
+"I know that America Lopez is female and works as a receptionist. Here are some options: writer, receptionist. Which one is correct?",receptionist
+"I know that Jean-Jacques Clément is male and works as a salesperson. Here are some options: salesperson, driver. Which one is correct?",salesperson
+Information: Georges Jacquot is male. He works as a salesperson. Options: salesperson or counselor. Select the correct occupation.,salesperson
+"Carl Fredrik Akrell is male. He works as a salesperson. Candidates: secretary, salesperson. Question: What job does he have?",salesperson
+Information: Henrik Wilhelm is male. He works as a salesperson. Options: cleaner or salesperson. Select the correct occupation.,salesperson
+Information: Henry Hyde is male. He works as a salesperson. Options: teacher or salesperson. Select the correct occupation.,salesperson
+"Q. David Bowers works as a salesperson. He is male. Candidates: salesperson, guard. Which job is correct?",salesperson
+Information: Hendrick Danckerts is male. He works as a salesperson. Options: salesperson or cook. Select the correct occupation.,salesperson
+"Innocente Alessandri is male. He works as a salesperson. Candidates: supervisor, salesperson. Question: What job does he have?",salesperson
+Information: Jan de Vos is male. He works as a salesperson. Options: tailor or salesperson. Select the correct occupation.,salesperson
+"I know that Herman van Rossum is male and works as a salesperson. Here are some options: tailor, salesperson. Which one is correct?",salesperson
+"Charles Henri Müller is male. He has a profession. Candidates: auditor, salesperson. Which profession is his?",salesperson
+"William Richmond Roche is male. He works as a salesperson. Candidates: guard, salesperson. Question: What job does he have?",salesperson
+"Information: Juan Ruiz ""El Vandalino"" is male. He works as a salesperson. Options: sheriff or salesperson. Select the correct occupation.",salesperson
+"Willem Littel is male. He works as a salesperson. Candidates: tailor, salesperson. Question: What job does he have?",salesperson
+Information: Ernst Kutter is male. He works as a salesperson. Options: salesperson or counselor. Select the correct occupation.,salesperson
+"Roser Agell i Cisa works as a salesperson. She is female. Candidates: salesperson, hairdresser. Which job is correct?",salesperson
+"I know that Juncal Ballestín is female and works as a salesperson. Here are some options: cook, salesperson. Which one is correct?",salesperson
+"Eliška Škvařilová is female. She works as a salesperson. Candidates: salesperson, sheriff. Question: What job does she have?",salesperson
+Information: Augustine Orlhac is female. She works as a salesperson. Options: housekeeper or salesperson. Select the correct occupation.,salesperson
+"I know that Jasmine Thomas-Girvan is female and works as a salesperson. Here are some options: clerk, salesperson. Which one is correct?",salesperson
+"Janete Gomes de Sá is female. She has a profession. Candidates: salesperson, laborer. Which profession is her?",salesperson
+"Cara Romano is female. She has a profession. Candidates: teacher, salesperson. Which profession is her?",salesperson
+Information: Florica Farcasu is female. She works as a salesperson. Options: accountant or salesperson. Select the correct occupation.,salesperson
+"Ann Howard is female. She has a profession. Candidates: salesperson, housekeeper. Which profession is her?",salesperson
+"Maria Josepa Colom i Sambola works as a salesperson. She is female. Candidates: salesperson, receptionist. Which job is correct?",salesperson
+Information: Emmanuelle Vidal-Delagneau is female. She works as a salesperson. Options: mover or salesperson. Select the correct occupation.,salesperson
+"Carmen López Alvaredo works as a salesperson. She is female. Candidates: supervisor, salesperson. Which job is correct?",salesperson
+"I know that Maria Rozanova is female and works as a salesperson. Here are some options: housekeeper, salesperson. Which one is correct?",salesperson
+"María Teresa Vila is female. She works as a salesperson. Candidates: hairdresser, salesperson. Question: What job does she have?",salesperson
+Information: Natalie Paul is female. She works as a salesperson. Options: carpenter or salesperson. Select the correct occupation.,salesperson
+"I know that Paul Letsch is male and works as a secretary. Here are some options: chief, secretary. Which one is correct?",secretary
+"James Lister is male. He works as a secretary. Candidates: secretary, chief. Question: What job does he have?",secretary
+"Hirofumi Matsui is male. He works as a secretary. Candidates: accountant, secretary. Question: What job does he have?",secretary
+"Francis Dereham is male. He works as a secretary. Candidates: mover, secretary. Question: What job does he have?",secretary
+"Jacob W. Prout is male. He has a profession. Candidates: receptionist, secretary. Which profession is his?",secretary
+"I know that Diogo Reis da Costa is male and works as a secretary. Here are some options: secretary, mechanic. Which one is correct?",secretary
+"Josip Vallinger works as a secretary. He is male. Candidates: secretary, carpenter. Which job is correct?",secretary
+"I know that Paul Gläser is male and works as a secretary. Here are some options: secretary, counselor. Which one is correct?",secretary
+Information: Alexander Bliss is male. He works as a secretary. Options: analyst or secretary. Select the correct occupation.,secretary
+"Jöran Persson is male. He works as a secretary. Candidates: salesperson, secretary. Question: What job does he have?",secretary
+"Q125263465 is male. He works as a secretary. Candidates: secretary, hairdresser. Question: What job does he have?",secretary
+"Eric Sohm is male. He has a profession. Candidates: carpenter, secretary. Which profession is his?",secretary
+"Ryota Takeda is male. He works as a secretary. Candidates: secretary, attendant. Question: What job does he have?",secretary
+"Omar Truman Burleson is male. He has a profession. Candidates: mover, secretary. Which profession is his?",secretary
+"Daniele Clario is male. He works as a secretary. Candidates: secretary, cashier. Question: What job does he have?",secretary
+"Ilse Birkholz is female. She has a profession. Candidates: secretary, baker. Which profession is her?",secretary
+"I know that Fidela Zalakain Salaberria is female and works as a secretary. Here are some options: secretary, tailor. Which one is correct?",secretary
+"Karin Derpa works as a secretary. She is female. Candidates: laborer, secretary. Which job is correct?",secretary
+"Olga Eyer is female. She has a profession. Candidates: receptionist, secretary. Which profession is her?",secretary
+"Moono Lubezhi is female. She works as a secretary. Candidates: lawyer, secretary. Question: What job does she have?",secretary
+"I know that Barbora Zahradníková is female and works as a secretary. Here are some options: driver, secretary. Which one is correct?",secretary
+"I know that Klára Betincová is female and works as a secretary. Here are some options: secretary, clerk. Which one is correct?",secretary
+"I know that Dorothy Pizer is female and works as a secretary. Here are some options: secretary, physician. Which one is correct?",secretary
+Information: Käthe Dahlem is female. She works as a secretary. Options: secretary or laborer. Select the correct occupation.,secretary
+"Marie Gruzínová is female. She works as a secretary. Candidates: secretary, housekeeper. Question: What job does she have?",secretary
+"Inga-Britt Fredholm is female. She works as a secretary. Candidates: secretary, farmer. Question: What job does she have?",secretary
+"Anni Linde is female. She works as a secretary. Candidates: housekeeper, secretary. Question: What job does she have?",secretary
+Information: Poppie Harris is female. She works as a secretary. Options: secretary or housekeeper. Select the correct occupation.,secretary
+"Irena Filuk is female. She has a profession. Candidates: secretary, laborer. Which profession is her?",secretary
+"I know that Andrea Seefeldt is female and works as a secretary. Here are some options: construction worker, secretary. Which one is correct?",secretary
+"I know that William George Scott-Moncreiff is male and works as a sheriff. Here are some options: sheriff, farmer. Which one is correct?",sheriff
+"Henry P. Larrabee works as a sheriff. He is male. Candidates: sheriff, ceo. Which job is correct?",sheriff
+Information: Aaron Burr Rollins is male. He works as a sheriff. Options: clerk or sheriff. Select the correct occupation.,sheriff
+"I know that Mike Bouchard is male and works as a sheriff. Here are some options: analyst, sheriff. Which one is correct?",sheriff
+"Robert Greirson is male. He works as a sheriff. Candidates: physician, sheriff. Question: What job does he have?",sheriff
+"I know that Laurence Bruce is male and works as a sheriff. Here are some options: designer, sheriff. Which one is correct?",sheriff
+"Littlepage Sims is male. He has a profession. Candidates: counselor, sheriff. Which profession is his?",sheriff
+"I know that Pleasant Thomas Ford is male and works as a sheriff. Here are some options: sheriff, editor. Which one is correct?",sheriff
+"Jerauld Newland Ezra is male. He works as a sheriff. Candidates: sheriff, nurse. Question: What job does he have?",sheriff
+"I know that Leonard R. ""Pop"" Hataway is male and works as a sheriff. Here are some options: sheriff, teacher. Which one is correct?",sheriff
+"Richard Jewell works as a sheriff. He is male. Candidates: sheriff, cashier. Which job is correct?",sheriff
+"I know that James D. Burns is male and works as a sheriff. Here are some options: librarian, sheriff. Which one is correct?",sheriff
+Information: John B. Driver is male. He works as a sheriff. Options: writer or sheriff. Select the correct occupation.,sheriff
+"Robert H. Wood is male. He works as a sheriff. Candidates: secretary, sheriff. Question: What job does he have?",sheriff
+"I know that James MacGill is male and works as a sheriff. Here are some options: sheriff, supervisor. Which one is correct?",sheriff
+"Edna ""Dolly"" Kyle is female. She has a profession. Candidates: accountant, sheriff. Which profession is her?",sheriff
+"I know that Constance Kopp is female and works as a sheriff. Here are some options: sheriff, tailor. Which one is correct?",sheriff
+"Evelyn Anthony is female. She works as a sheriff. Candidates: nurse, sheriff. Question: What job does she have?",sheriff
+Information: Vicki Hennessy is female. She works as a sheriff. Options: sheriff or mechanic. Select the correct occupation.,sheriff
+"Maude Collins is female. She works as a sheriff. Candidates: sheriff, tailor. Question: What job does she have?",sheriff
+"I know that Vanessa Mackey is female and works as a sheriff. Here are some options: lawyer, sheriff. Which one is correct?",sheriff
+"Jessie Welch Austin is female. She works as a sheriff. Candidates: accountant, sheriff. Question: What job does she have?",sheriff
+"Lisa McVey is female. She has a profession. Candidates: analyst, sheriff. Which profession is her?",sheriff
+"I know that Kittie Wells Bonner is female and works as a sheriff. Here are some options: carpenter, sheriff. Which one is correct?",sheriff
+"I know that Jacquelyn Harrison Barrett is female and works as a sheriff. Here are some options: sheriff, mover. Which one is correct?",sheriff
+"Anna Sheerin Lowe is female. She has a profession. Candidates: construction worker, sheriff. Which profession is her?",sheriff
+"I know that Antoinette Meyer is female and works as a sheriff. Here are some options: sheriff, designer. Which one is correct?",sheriff
+Information: Sandra Hutchens is female. She works as a sheriff. Options: guard or sheriff. Select the correct occupation.,sheriff
+"I know that Yesenia ""Jessie"" Camacho is female and works as a sheriff. Here are some options: developer, sheriff. Which one is correct?",sheriff
+"Margaret Q. Adams is female. She has a profession. Candidates: guard, sheriff. Which profession is her?",sheriff
+"Anders Hilden works as a supervisor. He is male. Candidates: supervisor, lawyer. Which job is correct?",supervisor
+"Heinrich Schramm is male. He works as a supervisor. Candidates: supervisor, cleaner. Question: What job does he have?",supervisor
+"Joplin Sibtain is male. He has a profession. Candidates: supervisor, hairdresser. Which profession is his?",supervisor
+"Friedrich Christoph Wilhelm von Unruh is male. He has a profession. Candidates: supervisor, construction worker. Which profession is his?",supervisor
+"I know that Evgenij Aunapuu is male and works as a supervisor. Here are some options: attendant, supervisor. Which one is correct?",supervisor
+Information: Ulrich von Kinsky und Tettau is male. He works as a supervisor. Options: supervisor or physician. Select the correct occupation.,supervisor
+"Sylvain Neugebauer works as a supervisor. He is male. Candidates: librarian, supervisor. Which job is correct?",supervisor
+"Patrick Grillon is male. He works as a supervisor. Candidates: sheriff, supervisor. Question: What job does he have?",supervisor
+"Paulo Jose Pereira Lopes is male. He works as a supervisor. Candidates: counselor, supervisor. Question: What job does he have?",supervisor
+Information: Joe Farrell is male. He works as a supervisor. Options: supervisor or carpenter. Select the correct occupation.,supervisor
+Information: Hervé Branellec is male. He works as a supervisor. Options: supervisor or farmer. Select the correct occupation.,supervisor
+"Iru Landucci is male. He has a profession. Candidates: supervisor, driver. Which profession is his?",supervisor
+"Carlos FerFer is male. He has a profession. Candidates: hairdresser, supervisor. Which profession is his?",supervisor
+"Ch. K. Adam is male. He works as a supervisor. Candidates: farmer, supervisor. Question: What job does he have?",supervisor
+"I know that Oystein Larsen is male and works as a supervisor. Here are some options: ceo, supervisor. Which one is correct?",supervisor
+"I know that Ting Sue is female and works as a supervisor. Here are some options: driver, supervisor. Which one is correct?",supervisor
+Information: Zina Papadopoulou is female. She works as a supervisor. Options: supervisor or chief. Select the correct occupation.,supervisor
+Information: Eleanor L. Skinner is female. She works as a supervisor. Options: supervisor or laborer. Select the correct occupation.,supervisor
+Information: Marta Putzeys is female. She works as a supervisor. Options: hairdresser or supervisor. Select the correct occupation.,supervisor
+"Sophie Allais is female. She works as a supervisor. Candidates: hairdresser, supervisor. Question: What job does she have?",supervisor
+"Renata Silva Beu is female. She works as a supervisor. Candidates: housekeeper, supervisor. Question: What job does she have?",supervisor
+"Shirley Harris is female. She has a profession. Candidates: mover, supervisor. Which profession is her?",supervisor
+Information: Josiane Champagne is female. She works as a supervisor. Options: writer or supervisor. Select the correct occupation.,supervisor
+"Suele Beltran works as a supervisor. She is female. Candidates: supervisor, carpenter. Which job is correct?",supervisor
+"Rachel Soares works as a supervisor. She is female. Candidates: librarian, supervisor. Which job is correct?",supervisor
+"I know that Julie Vignola is female and works as a supervisor. Here are some options: supervisor, writer. Which one is correct?",supervisor
+"Stephanie De Meautis is female. She has a profession. Candidates: supervisor, nurse. Which profession is her?",supervisor
+"Nina Fallon is female. She works as a supervisor. Candidates: assistant, supervisor. Question: What job does she have?",supervisor
+Information: Myyādh al-Ḥasan is female. She works as a supervisor. Options: sheriff or supervisor. Select the correct occupation.,supervisor
+"Hadeel Basahel is female. She has a profession. Candidates: guard, supervisor. Which profession is her?",supervisor
+Information: Romeo Gigli is male. He works as a tailor. Options: driver or tailor. Select the correct occupation.,tailor
+"Jan Willem Vlastuin is male. He has a profession. Candidates: tailor, designer. Which profession is his?",tailor
+Information: Sheikh Noor Muhammad is male. He works as a tailor. Options: tailor or carpenter. Select the correct occupation.,tailor
+"Mykola Khvyl is male. He has a profession. Candidates: hairdresser, tailor. Which profession is his?",tailor
+Information: Ignatz Vaserman is male. He works as a tailor. Options: tailor or clerk. Select the correct occupation.,tailor
+"I know that Ray Aghayan is male and works as a tailor. Here are some options: tailor, janitor. Which one is correct?",tailor
+"I know that Kyriakos Katzourakis is male and works as a tailor. Here are some options: tailor, farmer. Which one is correct?",tailor
+Information: Paul Lormier is male. He works as a tailor. Options: supervisor or tailor. Select the correct occupation.,tailor
+"Israël Wirtheim is male. He works as a tailor. Candidates: laborer, tailor. Question: What job does he have?",tailor
+"Eric Raeves is male. He has a profession. Candidates: tailor, secretary. Which profession is his?",tailor
+"Vincent Numan is male. He works as a tailor. Candidates: tailor, cashier. Question: What job does he have?",tailor
+"I know that William Baron is male and works as a tailor. Here are some options: tailor, counselor. Which one is correct?",tailor
+Information: Karl Lagerfeld is male. He works as a tailor. Options: cook or tailor. Select the correct occupation.,tailor
+"I know that Joseph Szerman is male and works as a tailor. Here are some options: attendant, tailor. Which one is correct?",tailor
+Information: Josef Gabriel is male. He works as a tailor. Options: attendant or tailor. Select the correct occupation.,tailor
+"I know that Nina Reichmann is female and works as a tailor. Here are some options: clerk, tailor. Which one is correct?",tailor
+"Helga I. Stefánsdóttir works as a tailor. She is female. Candidates: writer, tailor. Which job is correct?",tailor
+"Sylvie Gautrelet works as a tailor. She is female. Candidates: hairdresser, tailor. Which job is correct?",tailor
+Information: Hella de Jonge is female. She works as a tailor. Options: tailor or guard. Select the correct occupation.,tailor
+"Mary Brouillard is female. She has a profession. Candidates: tailor, receptionist. Which profession is her?",tailor
+"I know that Moe Iori is female and works as a tailor. Here are some options: farmer, tailor. Which one is correct?",tailor
+"I know that Janet Müller is female and works as a tailor. Here are some options: farmer, tailor. Which one is correct?",tailor
+"Tiziana Romanin is female. She works as a tailor. Candidates: tailor, analyst. Question: What job does she have?",tailor
+"Ludmila Purkyňová works as a tailor. She is female. Candidates: tailor, cashier. Which job is correct?",tailor
+"Monika Pormale is female. She has a profession. Candidates: receptionist, tailor. Which profession is her?",tailor
+"Maria Molenda-Berkowicz is female. She works as a tailor. Candidates: laborer, tailor. Question: What job does she have?",tailor
+"Claire Renard is female. She has a profession. Candidates: receptionist, tailor. Which profession is her?",tailor
+"I know that Eefje Wijnings is female and works as a tailor. Here are some options: tailor, chief. Which one is correct?",tailor
+"Giorgia Vecchini is female. She has a profession. Candidates: tailor, mover. Which profession is her?",tailor
+Information: Níki Psychogioú is female. She works as a tailor. Options: tailor or secretary. Select the correct occupation.,tailor
+"Jacques Berthelot works as a teacher. He is male. Candidates: teacher, carpenter. Which job is correct?",teacher
+"Bhagavān Dāsa Gosvāmī works as a teacher. He is male. Candidates: teacher, housekeeper. Which job is correct?",teacher
+"Per Otnes is male. He works as a teacher. Candidates: mover, teacher. Question: What job does he have?",teacher
+"Kurt Swet is male. He has a profession. Candidates: assistant, teacher. Which profession is his?",teacher
+"Stanisław Sedlaczek is male. He has a profession. Candidates: teacher, lawyer. Which profession is his?",teacher
+Information: Harley M. Kilgore is male. He works as a teacher. Options: teacher or ceo. Select the correct occupation.,teacher
+"Andrew Haagensen works as a teacher. He is male. Candidates: teacher, librarian. Which job is correct?",teacher
+"Claus-Ekkehard Bärsch is male. He has a profession. Candidates: carpenter, teacher. Which profession is his?",teacher
+Information: Mircea Corneliu Spătaru is male. He works as a teacher. Options: teacher or nurse. Select the correct occupation.,teacher
+"Heinrich Hilgenfeld is male. He has a profession. Candidates: teacher, farmer. Which profession is his?",teacher
+"Lutz Richter-Bernburg is male. He has a profession. Candidates: teacher, cook. Which profession is his?",teacher
+"Ingvald Bleken works as a teacher. He is male. Candidates: cleaner, teacher. Which job is correct?",teacher
+"Eduard Lisco is male. He has a profession. Candidates: farmer, teacher. Which profession is his?",teacher
+"Helmut Hartwig works as a teacher. He is male. Candidates: teacher, manager. Which job is correct?",teacher
+"Danilo Astori is male. He works as a teacher. Candidates: teacher, nurse. Question: What job does he have?",teacher
+"I know that Merike Kaste is female and works as a teacher. Here are some options: teacher, auditor. Which one is correct?",teacher
+"Diane Averill is female. She works as a teacher. Candidates: supervisor, teacher. Question: What job does she have?",teacher
+Information: Gloria Dorval is female. She works as a teacher. Options: driver or teacher. Select the correct occupation.,teacher
+"I know that France Fongueuse is female and works as a teacher. Here are some options: teacher, laborer. Which one is correct?",teacher
+"I know that Winifred Annie Coate is female and works as a teacher. Here are some options: teacher, guard. Which one is correct?",teacher
+"Éva Halászné Szakács works as a teacher. She is female. Candidates: teacher, janitor. Which job is correct?",teacher
+"Mary Elizabeth Grenside Hewett is female. She works as a teacher. Candidates: clerk, teacher. Question: What job does she have?",teacher
+"Catherine Gasquoine Hartley is female. She has a profession. Candidates: attendant, teacher. Which profession is her?",teacher
+"I know that Ragnhild Backe is female and works as a teacher. Here are some options: teacher, mover. Which one is correct?",teacher
+"Nancy Jobson is female. She has a profession. Candidates: teacher, laborer. Which profession is her?",teacher
+Information: Kirsten Hastrup is female. She works as a teacher. Options: teacher or mechanic. Select the correct occupation.,teacher
+"Isabella Skea is female. She has a profession. Candidates: supervisor, teacher. Which profession is her?",teacher
+"Emmeline Tanner is female. She works as a teacher. Candidates: teacher, cashier. Question: What job does she have?",teacher
+"I know that Sandra Bejdáková is female and works as a teacher. Here are some options: teacher, designer. Which one is correct?",teacher
+Information: Lucinda Murch is female. She works as a teacher. Options: manager or teacher. Select the correct occupation.,teacher
+"George Mikes works as a writer. He is male. Candidates: ceo, writer. Which job is correct?",writer
+"Jean-Joseph Boillot works as a writer. He is male. Candidates: writer, laborer. Which job is correct?",writer
+"I know that Konrad Krez is male and works as a writer. Here are some options: writer, construction worker. Which one is correct?",writer
+"I know that David Kalisch is male and works as a writer. Here are some options: librarian, writer. Which one is correct?",writer
+"John Steinbeck works as a writer. He is male. Candidates: writer, mechanic. Which job is correct?",writer
+"Payo Gómez Chariño works as a writer. He is male. Candidates: writer, designer. Which job is correct?",writer
+"Paul de Lagarde works as a writer. He is male. Candidates: writer, attendant. Which job is correct?",writer
+"Isaac Bonewits works as a writer. He is male. Candidates: writer, teacher. Which job is correct?",writer
+"Ram Balkrushna Shewalkar is male. He has a profession. Candidates: ceo, writer. Which profession is his?",writer
+Information: Johann Thomasius is male. He works as a writer. Options: secretary or writer. Select the correct occupation.,writer
+"Paul Foucher is male. He has a profession. Candidates: writer, mover. Which profession is his?",writer
+Information: Nicolò Beregan is male. He works as a writer. Options: writer or sheriff. Select the correct occupation.,writer
+"I know that Jean Puget de la Serre is male and works as a writer. Here are some options: writer, laborer. Which one is correct?",writer
+"I know that Rambaldo degli Azzoni Avogaro is male and works as a writer. Here are some options: writer, counselor. Which one is correct?",writer
+"Матвей Васильевич Захаров is male. He works as a writer. Candidates: writer, ceo. Question: What job does he have?",writer
+"Mechtilde is female. She works as a writer. Candidates: writer, laborer. Question: What job does she have?",writer
+"Information: Elizabeth Charlotte of the Palatinate, Duchess of Orléans is female. She works as a writer. Options: writer or sheriff. Select the correct occupation.",writer
+Information: Maude Petre is female. She works as a writer. Options: writer or manager. Select the correct occupation.,writer
+Information: Louise Levesque is female. She works as a writer. Options: assistant or writer. Select the correct occupation.,writer
+Information: Isabel Alcántara is female. She works as a writer. Options: mechanic or writer. Select the correct occupation.,writer
+"Tatiana von Metternich-Winneburg is female. She has a profession. Candidates: chief, writer. Which profession is her?",writer
+"I know that Kathrin Schmidt is female and works as a writer. Here are some options: tailor, writer. Which one is correct?",writer
+Information: Judith Weir is female. She works as a writer. Options: writer or attendant. Select the correct occupation.,writer
+"Lizzette Kattan is female. She works as a writer. Candidates: writer, designer. Question: What job does she have?",writer
+"Hanni Ossott is female. She has a profession. Candidates: driver, writer. Which profession is her?",writer
+"Yuriko Ishida is female. She has a profession. Candidates: writer, attendant. Which profession is her?",writer
+"Nicole Froio is female. She has a profession. Candidates: writer, designer. Which profession is her?",writer
+"Jessie Weston works as a writer. She is female. Candidates: writer, cook. Which job is correct?",writer
+"Lilian Faschinger is female. She has a profession. Candidates: writer, construction worker. Which profession is her?",writer
+"I know that Rita Dove is female and works as a writer. Here are some options: farmer, writer. Which one is correct?",writer

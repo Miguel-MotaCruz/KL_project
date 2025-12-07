@@ -1,0 +1,153 @@
+subject,relation,object
+Peter Wyman,has gender,male
+Peter Wyman,has occupation,accountant
+Efrat Peled,has gender,female
+Efrat Peled,has occupation,accountant
+Inuwa Yakubu Shalangwa,has gender,male
+Inuwa Yakubu Shalangwa,has occupation,analyst
+Ana Ayuso Pozo,has gender,female
+Ana Ayuso Pozo,has occupation,analyst
+David Edwards,has gender,male
+David Edwards,has occupation,assistant
+Zuzana Rebcová,has gender,female
+Zuzana Rebcová,has occupation,assistant
+Adrian Vaughan,has gender,male
+Adrian Vaughan,has occupation,attendant
+Antonie Formanová,has gender,female
+Antonie Formanová,has occupation,attendant
+Andreas Staribacher,has gender,male
+Andreas Staribacher,has occupation,auditor
+Josephine Maltby,has gender,female
+Josephine Maltby,has occupation,auditor
+Martin Coupaye,has gender,male
+Martin Coupaye,has occupation,baker
+Maria Anna Zauner,has gender,female
+Maria Anna Zauner,has occupation,baker
+Paul Manauthon,has gender,male
+Paul Manauthon,has occupation,carpenter
+Khana Feinbukh,has gender,female
+Khana Feinbukh,has occupation,carpenter
+Johann Gottlieb Zenker,has gender,male
+Johann Gottlieb Zenker,has occupation,cashier
+Marie A. Detrick,has gender,female
+Marie A. Detrick,has occupation,cashier
+Amir Ashkenazi,has gender,male
+Amir Ashkenazi,has occupation,ceo
+Ravit Barniv,has gender,female
+Ravit Barniv,has occupation,ceo
+Ronnie Woo Woo,has gender,male
+Ronnie Woo Woo,has occupation,cleaner
+Frieda Mager,has gender,female
+Frieda Mager,has occupation,cleaner
+Cheta Nwanze,has gender,male
+Cheta Nwanze,has occupation,clerk
+Pasha Leberfeld,has gender,female
+Pasha Leberfeld,has occupation,clerk
+Jaroslav Kovář starší,has gender,male
+Jaroslav Kovář starší,has occupation,construction_worker
+Ember,has gender,female
+Ember,has occupation,construction_worker
+Hans Stucki,has gender,male
+Hans Stucki,has occupation,cook
+Renée Voltaire,has gender,female
+Renée Voltaire,has occupation,cook
+Jindřich Halama,has gender,male
+Jindřich Halama,has occupation,counselor
+Naina Athale,has gender,female
+Naina Athale,has occupation,counselor
+Xanti Schawinsky,has gender,male
+Xanti Schawinsky,has occupation,designer
+Anne Desmet,has gender,female
+Anne Desmet,has occupation,designer
+Zinhor Nasri,has gender,male
+Zinhor Nasri,has occupation,developer
+Arielle Gordon,has gender,female
+Arielle Gordon,has occupation,developer
+Sven Verbrugge,has gender,male
+Sven Verbrugge,has occupation,driver
+Louise Scherbyn,has gender,female
+Louise Scherbyn,has occupation,driver
+Per-Arne Bjerke,has gender,male
+Per-Arne Bjerke,has occupation,editor
+Maria Helena Schmidt,has gender,female
+Maria Helena Schmidt,has occupation,editor
+Elliot Lillico,has gender,male
+Elliot Lillico,has occupation,farmer
+Manda Klancir,has gender,female
+Manda Klancir,has occupation,farmer
+Josef Vacek,has gender,male
+Josef Vacek,has occupation,hairdresser
+Amira Pocher,has gender,female
+Amira Pocher,has occupation,hairdresser
+Marcelino Francisco de Souza,has gender,male
+Marcelino Francisco de Souza,has occupation,housekeeper
+Felicia Dorothea Kate Dover,has gender,female
+Felicia Dorothea Kate Dover,has occupation,housekeeper
+Robert Menge,has gender,male
+Robert Menge,has occupation,janitor
+Rosa Maria da Silva,has gender,female
+Rosa Maria da Silva,has occupation,janitor
+Daniel (Mansson) Ekman,has gender,male
+Daniel (Mansson) Ekman,has occupation,laborer
+Anette Mülbaier,has gender,female
+Anette Mülbaier,has occupation,laborer
+Eric Cantor,has gender,male
+Eric Cantor,has occupation,lawyer
+Isabelle Ameganvi,has gender,female
+Isabelle Ameganvi,has occupation,lawyer
+Ludwig Greve,has gender,male
+Ludwig Greve,has occupation,librarian
+Alice Lougee Hagemeyer,has gender,female
+Alice Lougee Hagemeyer,has occupation,librarian
+Pere Estelrich Massutí,has gender,male
+Pere Estelrich Massutí,has occupation,manager
+Bella French,has gender,female
+Bella French,has occupation,manager
+Gottfried Hörndli,has gender,male
+Gottfried Hörndli,has occupation,mechanic
+Evelyn May Cridlan,has gender,female
+Evelyn May Cridlan,has occupation,mechanic
+Thomas Campbell,has gender,male
+Thomas Campbell,has occupation,mover
+Anna S. Vaughn,has gender,female
+Anna S. Vaughn,has occupation,mover
+Amor Padilla Gatinao,has gender,male
+Amor Padilla Gatinao,has occupation,nurse
+Rabiah Panthupeng,has gender,female
+Rabiah Panthupeng,has occupation,nurse
+Edward Coleman,has gender,male
+Edward Coleman,has occupation,physician
+Kara K. Siegrist,has gender,female
+Kara K. Siegrist,has occupation,physician
+Rafly Rahamat,has gender,male
+Rafly Rahamat,has occupation,receptionist
+Neide Galvão do Amaral,has gender,female
+Neide Galvão do Amaral,has occupation,receptionist
+Jean-Jacques Clément,has gender,male
+Jean-Jacques Clément,has occupation,salesperson
+Roser Agell i Cisa,has gender,female
+Roser Agell i Cisa,has occupation,salesperson
+Paul Letsch,has gender,male
+Paul Letsch,has occupation,secretary
+Ilse Birkholz,has gender,female
+Ilse Birkholz,has occupation,secretary
+William George Scott-Moncreiff,has gender,male
+William George Scott-Moncreiff,has occupation,sheriff
+"Edna ""Dolly"" Kyle",has gender,female
+"Edna ""Dolly"" Kyle",has occupation,sheriff
+Anders Hilden,has gender,male
+Anders Hilden,has occupation,supervisor
+Ting Sue,has gender,female
+Ting Sue,has occupation,supervisor
+Romeo Gigli,has gender,male
+Romeo Gigli,has occupation,tailor
+Nina Reichmann,has gender,female
+Nina Reichmann,has occupation,tailor
+Jacques Berthelot,has gender,male
+Jacques Berthelot,has occupation,teacher
+Merike Kaste,has gender,female
+Merike Kaste,has occupation,teacher
+George Mikes,has gender,male
+George Mikes,has occupation,writer
+Mechtilde,has gender,female
+Mechtilde,has occupation,writer

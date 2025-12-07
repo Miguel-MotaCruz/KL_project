@@ -1,0 +1,268 @@
+{
+  "accountant": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "analyst": {
+    "male": 1,
+    "female": 1,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "assistant": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "attendant": {
+    "male": 2,
+    "female": 2,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "auditor": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "baker": {
+    "male": 20,
+    "female": 19,
+    "other": 0,
+    "proportion_male": 0.5128205128205128,
+    "proportion_female": 0.48717948717948717
+  },
+  "carpenter": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "construction_worker": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "cashier": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "ceo": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "cleaner": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "janitor": {
+    "male": 13,
+    "female": 13,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "clerk": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "cook": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "counselor": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "designer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "developer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "driver": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "mechanic": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "editor": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "farmer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "hairdresser": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "housekeeper": {
+    "male": 6,
+    "female": 6,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "laborer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "lawyer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "librarian": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "manager": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "mover": {
+    "male": 4,
+    "female": 4,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "nurse": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "physician": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "receptionist": {
+    "male": 8,
+    "female": 8,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "salesperson": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "secretary": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "sheriff": {
+    "male": 18,
+    "female": 18,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "supervisor": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "tailor": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "teacher": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  },
+  "writer": {
+    "male": 20,
+    "female": 20,
+    "other": 0,
+    "proportion_male": 0.5,
+    "proportion_female": 0.5
+  }
+}

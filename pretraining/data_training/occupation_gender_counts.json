@@ -1,0 +1,268 @@
+{
+  "accountant": {
+    "male": 3206,
+    "female": 691,
+    "other": 2,
+    "proportion_male": 0.822262118491921,
+    "proportion_female": 0.17722492946909463
+  },
+  "writer": {
+    "male": 7800,
+    "female": 1780,
+    "other": 11,
+    "proportion_male": 0.8132624335314357,
+    "proportion_female": 0.18559065790845583
+  },
+  "lawyer": {
+    "male": 8904,
+    "female": 953,
+    "other": 5,
+    "proportion_male": 0.9028594605556682,
+    "proportion_female": 0.09663354289190834
+  },
+  "designer": {
+    "male": 8718,
+    "female": 1086,
+    "other": 12,
+    "proportion_male": 0.8881418092909535,
+    "proportion_female": 0.11063569682151589
+  },
+  "farmer": {
+    "male": 7777,
+    "female": 2130,
+    "other": 5,
+    "proportion_male": 0.7846045197740112,
+    "proportion_female": 0.2148910411622276
+  },
+  "ceo": {
+    "male": 4146,
+    "female": 1375,
+    "other": 4,
+    "proportion_male": 0.7504072398190045,
+    "proportion_female": 0.248868778280543
+  },
+  "salesperson": {
+    "male": 8454,
+    "female": 1165,
+    "other": 22,
+    "proportion_male": 0.8768799917021056,
+    "proportion_female": 0.12083808733533866
+  },
+  "construction_worker": {
+    "male": 9275,
+    "female": 162,
+    "other": 7,
+    "proportion_male": 0.9821050402371876,
+    "proportion_female": 0.017153748411689963
+  },
+  "driver": {
+    "male": 8842,
+    "female": 474,
+    "other": 10,
+    "proportion_male": 0.948102080205876,
+    "proportion_female": 0.050825648723997426
+  },
+  "secretary": {
+    "male": 1511,
+    "female": 1019,
+    "other": 2,
+    "proportion_male": 0.5967614533965245,
+    "proportion_female": 0.40244865718799366
+  },
+  "editor": {
+    "male": 8246,
+    "female": 1600,
+    "other": 6,
+    "proportion_male": 0.8369874137231019,
+    "proportion_female": 0.16240357287860333
+  },
+  "auditor": {
+    "male": 443,
+    "female": 94,
+    "other": 0,
+    "proportion_male": 0.8249534450651769,
+    "proportion_female": 0.1750465549348231
+  },
+  "laborer": {
+    "male": 8498,
+    "female": 1408,
+    "other": 10,
+    "proportion_male": 0.8569987898346108,
+    "proportion_female": 0.14199273900766438
+  },
+  "clerk": {
+    "male": 2183,
+    "female": 523,
+    "other": 4,
+    "proportion_male": 0.8055350553505535,
+    "proportion_female": 0.1929889298892989
+  },
+  "physician": {
+    "male": 7460,
+    "female": 2427,
+    "other": 10,
+    "proportion_male": 0.7537637667980196,
+    "proportion_female": 0.24522582600788118
+  },
+  "manager": {
+    "male": 7393,
+    "female": 2362,
+    "other": 26,
+    "proportion_male": 0.755853184745936,
+    "proportion_female": 0.24148860034761271
+  },
+  "carpenter": {
+    "male": 1716,
+    "female": 27,
+    "other": 2,
+    "proportion_male": 0.9833810888252149,
+    "proportion_female": 0.015472779369627506
+  },
+  "cook": {
+    "male": 3645,
+    "female": 1651,
+    "other": 7,
+    "proportion_male": 0.6873467848387705,
+    "proportion_female": 0.3113332076183292
+  },
+  "librarian": {
+    "male": 7282,
+    "female": 2533,
+    "other": 2,
+    "proportion_male": 0.7417744728532139,
+    "proportion_female": 0.2580217989202404
+  },
+  "cashier": {
+    "male": 78,
+    "female": 38,
+    "other": 0,
+    "proportion_male": 0.6724137931034483,
+    "proportion_female": 0.3275862068965517
+  },
+  "teacher": {
+    "male": 7686,
+    "female": 2191,
+    "other": 6,
+    "proportion_male": 0.7776990792269554,
+    "proportion_female": 0.2216938176667004
+  },
+  "tailor": {
+    "male": 3556,
+    "female": 4114,
+    "other": 20,
+    "proportion_male": 0.4624187256176853,
+    "proportion_female": 0.5349804941482444
+  },
+  "mechanic": {
+    "male": 1445,
+    "female": 36,
+    "other": 1,
+    "proportion_male": 0.975033738191633,
+    "proportion_female": 0.024291497975708502
+  },
+  "developer": {
+    "male": 3443,
+    "female": 350,
+    "other": 57,
+    "proportion_male": 0.8942857142857142,
+    "proportion_female": 0.09090909090909091
+  },
+  "assistant": {
+    "male": 2571,
+    "female": 4026,
+    "other": 27,
+    "proportion_male": 0.38813405797101447,
+    "proportion_female": 0.6077898550724637
+  },
+  "nurse": {
+    "male": 1210,
+    "female": 7965,
+    "other": 13,
+    "proportion_male": 0.13169351327818893,
+    "proportion_female": 0.8668915977361776
+  },
+  "mover": {
+    "male": 43,
+    "female": 4,
+    "other": 1,
+    "proportion_male": 0.8958333333333334,
+    "proportion_female": 0.08333333333333333
+  },
+  "cleaner": {
+    "male": 186,
+    "female": 61,
+    "other": 0,
+    "proportion_male": 0.7530364372469636,
+    "proportion_female": 0.24696356275303644
+  },
+  "housekeeper": {
+    "male": 6,
+    "female": 214,
+    "other": 0,
+    "proportion_male": 0.02727272727272727,
+    "proportion_female": 0.9727272727272728
+  },
+  "analyst": {
+    "male": 6,
+    "female": 1,
+    "other": 0,
+    "proportion_male": 0.8571428571428571,
+    "proportion_female": 0.14285714285714285
+  },
+  "counselor": {
+    "male": 560,
+    "female": 201,
+    "other": 3,
+    "proportion_male": 0.7329842931937173,
+    "proportion_female": 0.2630890052356021
+  },
+  "baker": {
+    "male": 1190,
+    "female": 205,
+    "other": 0,
+    "proportion_male": 0.8530465949820788,
+    "proportion_female": 0.14695340501792115
+  },
+  "sheriff": {
+    "male": 251,
+    "female": 19,
+    "other": 0,
+    "proportion_male": 0.9296296296296296,
+    "proportion_female": 0.07037037037037037
+  },
+  "janitor": {
+    "male": 110,
+    "female": 13,
+    "other": 0,
+    "proportion_male": 0.8943089430894309,
+    "proportion_female": 0.10569105691056911
+  },
+  "hairdresser": {
+    "male": 2017,
+    "female": 1415,
+    "other": 47,
+    "proportion_male": 0.5797643000862317,
+    "proportion_female": 0.40672607070997413
+  },
+  "supervisor": {
+    "male": 805,
+    "female": 73,
+    "other": 2,
+    "proportion_male": 0.9147727272727273,
+    "proportion_female": 0.08295454545454546
+  },
+  "attendant": {
+    "male": 16,
+    "female": 2,
+    "other": 0,
+    "proportion_male": 0.8888888888888888,
+    "proportion_female": 0.1111111111111111
+  },
+  "receptionist": {
+    "male": 8,
+    "female": 27,
+    "other": 2,
+    "proportion_male": 0.21621621621621623,
+    "proportion_female": 0.7297297297297297
+  }
+}
