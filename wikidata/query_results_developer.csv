@@ -1,0 +1,3884 @@
+humanLabel,genderLabel,label
+Ton Roosendaal,male,developer
+Brendan Eich,male,developer
+Paul Graham,male,developer
+Håkon Wium Lie,male,developer
+Hans Reiser,male,developer
+Bruce Perens,male,developer
+Jonathan Sachs,male,developer
+James Clark,male,developer
+Joe Ossanna,male,developer
+Harold Cohen,male,developer
+Ralph Griswold,male,developer
+Kent Beck,male,developer
+Jef Raskin,male,developer
+Alan Kay,male,developer
+Yukihiro Matsumoto,male,developer
+Robert Cailliau,male,developer
+Ian Murdock,male,developer
+Ingo Molnár,male,developer
+Bill Atkinson,male,developer
+Ron Jeffries,male,developer
+Blake Ross,male,developer
+Scott Forstall,male,developer
+Mark Russinovich,male,developer
+Jon Hall,male,developer
+Jaron Lanier,male,developer
+Daniel J. Bernstein,male,developer
+Cleve Moler,male,developer
+Matt Mullenweg,male,developer
+Andrei Alexandrescu,male,developer
+Douglas McIlroy,male,developer
+Bram Moolenaar,male,developer
+Theodore Ts'o,male,developer
+Mark P. McCahill,male,developer
+Tim Paterson,male,developer
+Dries Buytaert,male,developer
+Nat Friedman,male,developer
+Andrew Morton,male,developer
+Jamie Zawinski,male,developer
+Jordan Hubbard,male,developer
+Justin Frankel,male,developer
+Eric Allman,male,developer
+Keith Packard,male,developer
+Wietse Venema,male,developer
+Robert Sedgewick,male,developer
+David S. Miller,male,developer
+Charles H. Moore,male,developer
+Simon Tatham,male,developer
+Fabrice Bellard,male,developer
+Adriaan van Wijngaarden,male,developer
+Charles Petzold,male,developer
+Bob Frankston,male,developer
+Dmitry Sklyarov,male,developer
+Randal L. Schwartz,male,developer
+Alistair Cockburn,male,developer
+Scott Meyers,male,developer
+Matthew Dillon,male,developer
+Greg Kroah-Hartman,male,developer
+Rusty Russell,male,developer
+Jim Gettys,male,developer
+Tim Pritlove,male,developer
+René Sommer,male,developer
+Ken Liu,male,developer
+Paul Allen,male,developer
+Peter Molyneux,male,developer
+Michael Crichton,male,developer
+Eric S. Raymond,male,developer
+Jade Raymond,female,developer
+Naomi Novik,female,developer
+Jordan Mechner,male,developer
+Markus Persson,male,developer
+John Romero,male,developer
+Randall Munroe,male,developer
+Aaron Swartz,male,developer
+Eben Moglen,male,developer
+Anders Hejlsberg,male,developer
+Elon Musk,male,developer
+Bram Cohen,male,developer
+Richard Garriott,male,developer
+Warren Robinett,male,developer
+"Nigel Jones, Baron Jones of Cheltenham",male,developer
+Bill Joy,male,developer
+Jack Dorsey,male,developer
+Gabe Newell,male,developer
+Tim O'Reilly,male,developer
+Pierre Omidyar,male,developer
+Larry Kaplan,male,developer
+Ron Gilbert,male,developer
+Wayne Gould,male,developer
+Jon Lech Johansen,male,developer
+George Hotz,male,developer
+Adrian Lamo,male,developer
+Howard Scott Warshaw,male,developer
+Gary McKinnon,male,developer
+Geir Ivarsøy,male,developer
+CoH,male,developer
+David A. Wheeler,male,developer
+David Karp,male,developer
+Rickard Falkvinge,male,developer
+Rhianna Pratchett,female,developer
+Con Kolivas,male,developer
+Tim Berners-Lee,male,developer
+Julian Assange,male,developer
+Eugene Kaspersky,male,developer
+Bill Gates,male,developer
+Ada Lovelace,female,developer
+Richard Stallman,male,developer
+Samuel Jacob Klein,male,developer
+Ward Cunningham,male,developer
+Edsger W. Dijkstra,male,developer
+Henriette Avram,female,developer
+John Knoll,male,developer
+Jean Bartik,female,developer
+Betty Holberton,female,developer
+Grace Hopper,female,developer
+Victor Sadler,male,developer
+Mary Lee Woods,female,developer
+Kateryna Yushchenko,female,developer
+Donald Knuth,male,developer
+Kathleen Antonelli,female,developer
+Theo de Raadt,male,developer
+Felix von Leitner,male,developer
+Guido van Rossum,male,developer
+Jon Schillaci,male,developer
+Linus Torvalds,male,developer
+Mark Zuckerberg,male,developer
+Patrick Volkerding,male,developer
+Dennis M. Ritchie,male,developer
+John McAfee,male,developer
+Rob Levin,male,developer
+Charles Simonyi,male,developer
+Frances Spence,female,developer
+Ruth Teitelbaum,female,developer
+Ben Goodger,male,developer
+Alan Cox,male,developer
+Kedar Joshi,male,developer
+Kim Dotcom,male,developer
+Miguel de Icaza,male,developer
+Ivan Sutherland,male,developer
+Marc Andreessen,male,developer
+Peter Norton,male,developer
+Alfred Aho,male,developer
+Klaus Knopper,male,developer
+Igor Sysoev,male,developer
+Zeev Suraski,male,developer
+Georg C. F. Greve,male,developer
+Manfred Trenz,male,developer
+Harald Welte,male,developer
+Lennart Poettering,male,developer
+Martin Fowler,male,developer
+Matthias Ettrich,male,developer
+Frank Ostrowski,male,developer
+Stefan Sonvilla-Weiss,male,developer
+Marcel-André Casasola Merkle,male,developer
+Christian Donninger,male,developer
+Larry Wall,male,developer
+Alexey Pajitnov,male,developer
+Tony Hoare,male,developer
+Niklaus Wirth,male,developer
+John Carmack,male,developer
+Brian Kernighan,male,developer
+Leslie Lamport,male,developer
+Sid Meier,male,developer
+Peter Naur,male,developer
+Bjarne Stroustrup,male,developer
+Andrew S. Tanenbaum,male,developer
+James Gosling,male,developer
+Dan Bricklin,male,developer
+Gary Kildall,male,developer
+Raymond Tomlinson,male,developer
+Shawn Fanning,male,developer
+John Ousterhout,male,developer
+Ray Ozzie,male,developer
+Thamilchelvan Balasingham,male,developer
+Steve Howard,male,developer
+Soumendra Kumar Sahoo,male,developer
+Jonathan S. Eggleston,male,developer
+Ron Roozendaal,male,developer
+Damian Tab,male,developer
+Douglas Bowman,male,developer
+Chris Sutherland,male,developer
+Dan Braun,male,developer
+Masahiro Yuge,male,developer
+Felipe Falanghe,male,developer
+Sushant Gautam,male,developer
+Obbe Vermeij,male,developer
+Piotr Bąk,male,developer
+Tomasz Widenka,male,developer
+Yoshihiro Takechi,male,developer
+T. Maekawa,http://www.wikidata.org/.well-known/genid/ba688513b1cb6bb963ea7529651f5323,developer
+Elliot Winard,male,developer
+Morten Brenna,male,developer
+Jørn Are Sjulsen,male,developer
+Arnleif Mydland,male,developer
+Matthew Gambrell,male,developer
+Pushkar Singh,male,developer
+Dawit Birhanu,male,developer
+John Baez,male,developer
+Bill Hogue,male,developer
+Shigeru Miyamoto,male,developer
+Peter Molyneux,male,developer
+Jens Bergensten,male,developer
+Markus Persson,male,developer
+Archer Maclean,male,developer
+John Romero,male,developer
+Satoru Iwata,male,developer
+Chris Sawyer,male,developer
+Michael Abrash,male,developer
+Ed Boon,male,developer
+William Crowther,male,developer
+Johan Andersson,male,developer
+Stéphane Picq,male,developer
+Andrew Gower,male,developer
+Alain Vialon,male,developer
+Demis Hassabis,male,developer
+Jeff Vogel,male,developer
+Masaki Ukyo,male,developer
+Paul Buchheit,male,developer
+Paul Cuisset,male,developer
+Philippe Nottoli,male,developer
+Rémi Herbulot,male,developer
+Takahiro Harada,male,developer
+David Fox,male,developer
+Don Daglow,male,developer
+Lyle Rains,male,developer
+Alec Holowka,male,developer
+Bill Budge,male,developer
+Corrinne Yu,female,developer
+Don Priestley,male,developer
+Dan Forden,male,developer
+Harry Price,male,developer
+Ian Weatherburn,male,developer
+Jonathan Ackley,male,developer
+Jukka Tapanimäki,male,developer
+Francisco Menéndez González,male,developer
+Peter Mattis,male,developer
+Seumas McNally,male,developer
+Soren Johnson,male,developer
+Yuichi Toyama,male,developer
+Alan Pavlish,male,developer
+Tarn Adams,male,developer
+Don Dailey,male,developer
+Paul Douglas,male,developer
+Andrew Scott Reisse,male,developer
+David Byttow,male,developer
+Zoë Quinn,non-binary,developer
+Swen Vincke,male,developer
+Steve Polge,male,developer
+Thomas Häuser,male,developer
+Magnus “Gordon” Gardebäck,male,developer
+William Tang,male,developer
+Chris King,male,developer
+Mike Dailly,male,developer
+Brendan Iribe,male,developer
+Maciej Miąsik,male,developer
+Tom Hudson,male,developer
+Jeff Lander,male,developer
+Russ Wetmore,male,developer
+Ben Burbank,male,developer
+Nels Anderson,male,developer
+Patrick Ewing,male,developer
+Paolo Surricchio,male,developer
+William W. Armstrong,male,developer
+Kaz Ayabe,male,developer
+Nathan Adams,male,developer
+Elliot Grassiano,male,developer
+Christophe Balestra,male,developer
+Michiya Hirasawa,male,developer
+Lance Priebe,male,developer
+Robert Topala,male,developer
+Dietmar Meschede,male,developer
+Thomas Lefèvre,male,developer
+Arne Fernlund,male,developer
+Paul Smith,male,developer
+Andy Syco,male,developer
+Ludovic Deplanque,male,developer
+Luc Guillaume,male,developer
+Epsilon,male,developer
+Manuel Orcera Valero,male,developer
+Jorge Blécua,male,developer
+Paco Martín,male,developer
+Victor Ruiz,male,developer
+Florentino Pertejo,male,developer
+Jose Luis Martin,male,developer
+Enrique Cervera Mateu,male,developer
+Richard Stevenson,male,developer
+Michael J. Lister,male,developer
+Tony Mack,male,developer
+Ray Jones,male,developer
+Dennis Koble,male,developer
+Ola Bini,male,developer
+Bradley G. Stewart,male,developer
+Richard M. P. Hanson,male,developer
+Nick Shaffner,male,developer
+Aleksey Bakhvalov,male,developer
+Michael J. Riedel,male,developer
+Tim Love,male,developer
+Crispin Bailiff,male,developer
+John Lilly,male,developer
+Phil Zimmermann,male,developer
+Andi Gutmans,male,developer
+Steve Wozniak,male,developer
+Andrew Kay,male,developer
+Andrew Tridgell,male,developer
+Takashi Tezuka,male,developer
+Rob Pike,male,developer
+Brenda Romero,female,developer
+Tim Schafer,male,developer
+Allan Alcorn,male,developer
+Damien Sandras,male,developer
+Jeff Minter,male,developer
+Phil Katz,male,developer
+Manuel DeLanda,male,developer
+Dave Hyatt,male,developer
+Death of Khaled Mohamed Saeed,male,developer
+Branden Robinson,male,developer
+Thomas Knoll,male,developer
+Jake Song,male,developer
+Christian Engström,male,developer
+Mike Harrington,male,developer
+Ragnar Tørnquist,male,developer
+Eugene Jarvis,male,developer
+Geoff Crammond,male,developer
+Lev Manovich,male,developer
+David Heinemeier Hansson,male,developer
+Jay Lake,male,developer
+Mitch Kapor,male,developer
+Philip Taylor Kramer,male,developer
+Stefan Meyer-Kahlen,male,developer
+Elonka Dunin,female,developer
+Martin Odersky,male,developer
+Bill Gosper,male,developer
+Bill Roper,male,developer
+Bob Whitehead,male,developer
+Daniel Brandt,male,developer
+Dark Alex,male,developer
+Leonard Adleman,male,developer
+Erick Wujcik,male,developer
+Ron Dwight,male,developer
+Michael Demon Calce,male,developer
+Stanley Jordan,male,developer
+Eugene Roshal,male,developer
+Steve Pavlina,male,developer
+József Ács,male,developer
+John Gilmore,male,developer
+why the lucky stiff,male,developer
+Larry Tesler,male,developer
+Robert Hyatt,male,developer
+Cornelius Schumacher,male,developer
+Tamás Jónás,male,developer
+Ken Thompson,male,developer
+Andrew Fluegelman,male,developer
+Paul Mockapetris,male,developer
+Loïc Dachary,male,developer
+Jonathan Blow,male,developer
+Dan Curtis Johnson,male,developer
+Dave Haynie,male,developer
+David Braben,male,developer
+Junichi Masuda,male,developer
+Yuyuko Takemiya,female,developer
+Minh Le,male,developer
+Tamás Nagy,male,developer
+Róbert Oláh-Gál,male,developer
+Tamás Polgár,male,developer
+Jean-Louis Gassée,male,developer
+Ed Boon,male,developer
+Kelley Deal,female,developer
+Henk Rogers,male,developer
+Gábor Szendi,male,developer
+Robert Morris,male,developer
+Eirik Chambe-Eng,male,developer
+John Resig,male,developer
+Virgil Griffith,male,developer
+Michael Widenius,male,developer
+Mihai Suba,male,developer
+Ruy Guerra,male,developer
+Fred Fish,male,developer
+Garry Kitchen,male,developer
+Thomas Gleixner,male,developer
+Wilhelm Sabri Hoffmann,male,developer
+Haavard Nord,male,developer
+Harriet Bruce-Annan,female,developer
+Hideki Matsutake,male,developer
+Jakov Semenovič Landa,male,developer
+Jean-Marc Valin,male,developer
+Feng Huajun,male,developer
+Tobias Ratschiller,male,developer
+Karl Steinberg,male,developer
+Kevin Copple,male,developer
+Ralph Lenkert,male,developer
+Rob Savoye,male,developer
+Meinolf Amekudzi,male,developer
+Raffaele Cecco,male,developer
+Edouard Chambon,male,developer
+Jon Phillips,male,developer
+Johan Andersson,male,developer
+Adrian J. Barnett,male,developer
+Steve Bovis,male,developer
+Ava Robin Cohen,female,developer
+Elisabeth Ryan Tylko,female,developer
+Mirosław Dymek,male,developer
+Robert Gatson,male,developer
+Akuma Kira,non-binary,developer
+Zpin,http://www.wikidata.org/.well-known/genid/e7f40e09cb0e920640b8d02cc83b5229,developer
+Robert Alan Saunders,male,developer
+Cliff Harris,male,developer
+AMGSheena,female,developer
+Emma Kinema,trans woman,developer
+Brie Code,female,developer
+Johan Ehrendahl,male,developer
+Yosuke Oshino,male,developer
+Giles Goddard,male,developer
+Dylan Cuthbert,male,developer
+Andrew Stern,male,developer
+Tadao Nakayama,male,developer
+Michael Shirt,male,developer
+Duncan Drummond,male,developer
+James Hague,male,developer
+Benjamin Davis,male,developer
+Alex Balfanz,male,developer
+Mike Z,male,developer
+Jerry Thorpe,male,developer
+Mitch Garnaat,male,developer
+Douglas McFarland,male,developer
+Roger Harnish,male,developer
+Thibaut Hanson,male,developer
+Waldemar Stanisławczyk,male,developer
+Michael Jones,male,developer
+Daniel Hughes,male,developer
+Christian Rolland,male,developer
+Carlos Abril,male,developer
+Zack Bertok,male,developer
+Anomalous Dev,male,developer
+Shin'ichirō Tamaki,male,developer
+Naoki Hamaguchi,male,developer
+"Christina ""Phazero"" Curlee",female,developer
+James Sharman,male,developer
+Andrew Spinks,male,developer
+Travis McIntosh,male,developer
+Jenny Brusk,female,developer
+Marcus Nilsson,male,developer
+Daniel Falk,male,developer
+Ronnie Persson,male,developer
+Jonas Hulthén,male,developer
+Dewi Williams,male,developer
+Philippe Brogniart,male,developer
+André Daumail,male,developer
+Yoann Jaffré,male,developer
+InfernoPlus,male,developer
+Damian Bernardi,male,developer
+Teddy Dief,non-binary,developer
+Bruno Gourier,male,developer
+Frédéric Savoir,male,developer
+Daniel Morais,male,developer
+André Rocques,male,developer
+Louis-Marie Rocques,male,developer
+Michel Pernot,male,developer
+Pierre Adane,male,developer
+Fabrice Decroix,male,developer
+Joseph Kluytmans,male,developer
+Pascal Jarry,male,developer
+Daniel Charpy,male,developer
+Hervé Lange,male,developer
+Fabrice Granger,male,developer
+Laurent Delayen,male,developer
+Lionel Chaze,male,developer
+Philippe Rivaillon,male,developer
+Jean-Luc Langlois,male,developer
+Daniel Macré,male,developer
+Patrick Dublanchet,male,developer
+Christian Droin,male,developer
+Stéphane Beley,male,developer
+Frédéric Jay,male,developer
+Pierre-Arnaud Lambert,male,developer
+Carlo Perconti,male,developer
+Yannick Cadin,male,developer
+Bastien Giafferi,male,developer
+Alexander Birke,male,developer
+Maxime Demaille,male,developer
+George Pauna,male,developer
+Nobutora Mori,male,developer
+Edgar Vigdal,male,developer
+Brian A. Rice,male,developer
+Chris Sorrell,male,developer
+Mike Clifton,male,developer
+Nasir Gebelli,male,developer
+Eric Hufschmid,male,developer
+Anatoly Wasserman,male,developer
+Jarkko Oikarinen,male,developer
+Jonas Pleškys,male,developer
+Walid Shoebat,male,developer
+Gladys del Estal Ferreño,female,developer
+Vladimír Lučan,male,developer
+Federico Mena,male,developer
+Steve Gibson,male,developer
+Richard Hickey,male,developer
+Steven Sinofsky,male,developer
+Roel Bentz van den Berg,male,developer
+Anas al-Liby,male,developer
+Malaclypse the Younger,male,developer
+Stefano Zacchiroli,male,developer
+Raymond Chen,male,developer
+Bradley M. Kuhn,male,developer
+William John Sullivan,male,developer
+Federico Heinz,male,developer
+Diomidis Spinellis,male,developer
+Wouter van Oortmerssen,male,developer
+Khaled Mardam-Bey,male,developer
+Jonathan James,male,developer
+Joel Spolsky,male,developer
+Brad Fitzpatrick,male,developer
+Matt Uelmen,male,developer
+John Vanderaart,male,developer
+Václav Benda,male,developer
+Thomas Lehmann,male,developer
+Havoc Pennington,male,developer
+Andrew Gower,male,developer
+Richard Greenblatt,male,developer
+Ulrich Drepper,male,developer
+Frédérick Raynal,male,developer
+Daniel Robbins,male,developer
+William Yerazunis,male,developer
+Rich Skrenta,male,developer
+Steve Russell,male,developer
+Ludvig Strigeus,male,developer
+Daniel Glazman,male,developer
+Avie Tevanian,male,developer
+David Jones,male,developer
+Alan Miller,male,developer
+Scott Guthrie,male,developer
+Tony Tebby,male,developer
+Andrej Preston,male,developer
+Andrew Kirmse,male,developer
+Andrew Koenig,male,developer
+Andy Looney,male,developer
+Antoine Schmitt,male,developer
+Bob Sabiston,male,developer
+Gil Shwed,male,developer
+Ehud Tenenbaum,male,developer
+Carlo Acutis,male,developer
+Ben Collins,male,developer
+Steve McIntyre,male,developer
+Walter Bright,male,developer
+Alexander Drouz,male,developer
+Ralph Betza,male,developer
+David Whittaker,male,developer
+Don Mattrick,male,developer
+Douglas Crockford,male,developer
+François Tardieu,male,developer
+Gerard Beekmans,male,developer
+Gilles Dowek,male,developer
+Ian Hetherington,male,developer
+J. B. Rainsberger,male,developer
+Jay Maynard,male,developer
+Jean-Loup Gailly,male,developer
+Jean-Marie Hullot,male,developer
+Jeff Waugh,male,developer
+Sam Hocevar,male,developer
+Jim Breen,male,developer
+John Graham-Cumming,male,developer
+John Whitney,male,developer
+Tõnu Samuel,male,developer
+Keith Bostic,male,developer
+Kek,male,developer
+Kelly Bailey,male,developer
+Kristian Høgsberg,male,developer
+Larry McVoy,male,developer
+Laurent Ribardière,male,developer
+Wichert Akkerman,male,developer
+Anthony Towns,male,developer
+Richard Brodie,male,developer
+Mark Cerny,male,developer
+Allison Randal,female,developer
+Ryan North,male,developer
+Olivier Fourdan,male,developer
+Kåre Simensen,male,developer
+Paul Courbis,male,developer
+Kevin Beurle,male,developer
+Pia Andrews,female,developer
+Pietro Grossi,male,developer
+Priit Kasesalu,male,developer
+Randy Wigginton,male,developer
+Tomáš Stýblo,male,developer
+Renick Bell,male,developer
+Jay Berkenbilt,male,developer
+Tim Peters,male,developer
+Bakari Mustafa,male,developer
+Greg Roelofs,male,developer
+Stefano Cagnoni,male,developer
+Chidi Nwaogu,male,developer
+Q56839961,male,developer
+Francisco Burzi,male,developer
+Nicolas P. Rougier,male,developer
+Martin Scharm,male,developer
+Gérald Sédrati-Dinet,male,developer
+Andrew Bosworth,male,developer
+Joey Hess,male,developer
+Nigel P. Brown,male,developer
+Michael Werner,male,developer
+Mathias Biilmann,male,developer
+Jan Zapletal,male,developer
+Jens Georg,male,developer
+Fred Benenson,male,developer
+Matt Fairclough,male,developer
+Kevin Haller,male,developer
+Matic Potočnik,male,developer
+Maarten Lamers,male,developer
+Luděk Matyska,male,developer
+Lars Holm Nielsen,male,developer
+Jens Gustedt,male,developer
+Sonal Raj,male,developer
+Mark Zwolinski,male,developer
+Craig Warren,male,developer
+Andrey Stankevich,male,developer
+Lauren McCarthy,female,developer
+Vladimír Červenka,male,developer
+Jan Dvořák,male,developer
+Valentinos Tzekas,male,developer
+Yusuke Katayama,male,developer
+Shunji Ushida,male,developer
+Patrik Banga,male,developer
+Alina Anisimova,female,developer
+Martin Urza,male,developer
+Sean Hannan,male,developer
+Sheri Tibbs,female,developer
+Jon Smirl,male,developer
+David Hall,male,developer
+ayyk92,male,developer
+Naděje Mandysová,female,developer
+J. Gary Polhill,male,developer
+Laura Thomson,female,developer
+Kate Theimer,female,developer
+Q59654332,male,developer
+John Cannon,male,developer
+John-David Smith,male,developer
+Kevin Krisciunas,male,developer
+Lisa Linn Allen,female,developer
+Aaron Douglas,male,developer
+Chris Teitzel,male,developer
+Eugene Bort,male,developer
+Scott Manley,male,developer
+James Tryon,male,developer
+Mike Schroder,male,developer
+Yoav Farhi,male,developer
+Jeremy Felt,male,developer
+Shawn Hooper,male,developer
+Andrew Roberts,male,developer
+K. Adam White,male,developer
+Marc Benzakein,male,developer
+Felix Arntz,male,developer
+Evan Thoms,male,developer
+Daniel Weiskopf,male,developer
+Michael Dorman,male,developer
+Jacob VanderPlas,male,developer
+Ralf Gommers,male,developer
+Chris Wilson,male,developer
+Pekka Kilpeläinen,male,developer
+Sébastien Rannou,male,developer
+Florian Heidenreich,male,developer
+Dom Hofmann,male,developer
+Silvan Hagen,male,developer
+María José Escalona,female,developer
+Federico Poloni,male,developer
+Andreas Rumpf,male,developer
+Oscar Fontenla-Romero,male,developer
+Andrew Nifedow,male,developer
+Q60828013,male,developer
+Mikhail Samin,male,developer
+Vladislav Urazov,male,developer
+Hubert Kloft,male,developer
+Paul Frazee,male,developer
+Tara Vancil,female,developer
+Tobias Junghans,male,developer
+Rose Funja,female,developer
+Oona Räisänen,female,developer
+Linas Vepstas,male,developer
+Amanda Steinberg,female,developer
+Vlastimil Santroch,male,developer
+Rana Subhi Aldisi,female,developer
+Marek Drápal,male,developer
+Marty Alchin,trans woman,developer
+Stefan Van Damme,male,developer
+Philip Lewis Karlton,male,developer
+Forest Willard,male,developer
+Dag Ågren,male,developer
+Kirk Woolford,male,developer
+Simon Ser,male,developer
+Scott Rogers,male,developer
+David Plummer,male,developer
+Carmen Eisendle,female,developer
+Jaakko Keränen,male,developer
+Matti Picus,male,developer
+Rukaya Johaadien,female,developer
+Michael Elkins,male,developer
+Joseph Hellerstein,male,developer
+Michal Zlatkovský,male,developer
+Ralf S. Engelschall,male,developer
+David A. Holzgang,male,developer
+Sam Modonpour,male,developer
+Amin Shkouhi,male,developer
+Susanne Holzgraefe,female,developer
+Michael Zeilfelder,male,developer
+Nikolaus Gebhardt,male,developer
+Greg Brockman,male,developer
+Willian Chimura,male,developer
+Pavel Bajger,male,developer
+Pavel Gazda,male,developer
+Rostislav Hřivňák,male,developer
+Martin Kopřiva,male,developer
+Rostislav Řeha,male,developer
+Lyudmyla Ivanova,female,developer
+Elizabeth Betty Ryan,female,developer
+Kelsey Hightower,male,developer
+Michèle Cloonan,female,developer
+Jonathan Muñoz-Enano,male,developer
+Hannes Hoelzl,male,developer
+Sophia Mendonça,trans woman,developer
+Richard Walter Conway,male,developer
+Bernard Lidický,male,developer
+Timothy Davison,male,developer
+Stefan Monnier,male,developer
+Johnny Jazeix,male,developer
+Stanley Sawyer,male,developer
+Karl Robert Gutschera,male,developer
+Michael Duane Galloy,male,developer
+Walter Scott Brainerd,male,developer
+Stephen Soderland,male,developer
+Tracy A. Gardner,female,developer
+Frank Oliver Schulz,male,developer
+Peter D. Mark,male,developer
+Christian Queinnec,male,developer
+Fabrice Rouillier,male,developer
+Elisha Peterson,male,developer
+Johann Blieberger,male,developer
+Charles Rich,male,developer
+James S. Plank,male,developer
+Stanislav Horáček,male,developer
+Pavel Machek,male,developer
+Spiderweb Software,male,developer
+Hồ Ngọc Đức,male,developer
+Ioannis Ntzoufras,male,developer
+Stefan Büttcher,male,developer
+Majed Marji,male,developer
+Mark J. Stock,male,developer
+Philippe Langevin,male,developer
+Tom Murphy VII,male,developer
+Daniel J. Rosenkrantz,male,developer
+Christophe Troestler,male,developer
+John Shutt,male,developer
+Krasimir Angelov,male,developer
+Sergey Alekseevich Gusarenko,male,developer
+Ivan Volný,male,developer
+Nicolas Bonnotte,male,developer
+William Edward Byrd,male,developer
+Sadia Bashir,female,developer
+Abdul-Lateef Haji-Ali,male,developer
+Richard Eisenberg,male,developer
+Sebastian Nowozin,male,developer
+Ryan W. Sinnet,male,developer
+Krzysztof Krzywdzinski,male,developer
+Peter Marshall,male,developer
+Eric Engstrom,male,developer
+Marc André Tanner,male,developer
+Andreas Itzchak Rehberg,male,developer
+Marvin Wißfeld,male,developer
+Arielle Gordon,female,developer
+Christa Hastie,female,developer
+Oleg Bartunov,male,developer
+Ivan Panchenko,male,developer
+Sonika Manandhar,female,developer
+Margaret Helen Harper,female,developer
+John Salvatier,male,developer
+Markus Hohmann,male,developer
+Qkowlew,male,developer
+Filip Vorel,male,developer
+Sven Groot,male,developer
+Jon Sneyers,male,developer
+John Wiegley,male,developer
+Michael Olson,male,developer
+Holden Karau,female,developer
+Nima Owji,male,developer
+Q104722842,male,developer
+Orlando Groppo,male,developer
+Martin Schibel,male,developer
+Ernst Kozeschnik,male,developer
+Niniane Wang,female,developer
+Victor Vargas Cornejo,male,developer
+Geronimo Marco Medina,male,developer
+Christian Mancas,male,developer
+Pau Riba Queijas,male,developer
+David Martí,male,developer
+Jarl Van Eycke,male,developer
+Marius Vollmer,male,developer
+Artem Iskhakov,male,developer
+Aviv Carmi,male,developer
+Jay Fenlason,male,developer
+Joy Kendall,male,developer
+Peter Costantini,male,developer
+George Gkouvousis,male,developer
+Mohammed Kamal-Deen Fuseini,male,developer
+Roland Kaufmann,male,developer
+Václav Vrbík,male,developer
+Luke Morse,male,developer
+Mary Ann Mansigh,female,developer
+Bjørn Nyland,male,developer
+Dániel Kántor,male,developer
+Evgeny Raevsky,male,developer
+Anatoly Gulyaev,male,developer
+Thibault Duplessis,male,developer
+Aaron Perry,male,developer
+Louis Gary Lamit,male,developer
+Juan Carlos Garcia-Galan,male,developer
+Jose E. Marchesi,male,developer
+Vitaly Zdanevich,male,developer
+Daniel Nunes,male,developer
+Freek Jansen,male,developer
+Leonardo Favario,male,developer
+David Robillard,male,developer
+Julian Peterson,male,developer
+Adriel Wallick,female,developer
+Hans van Hooft Jr.,male,developer
+John Thomas Berry,male,developer
+David Sawyer McFarland,male,developer
+Jiří Bubeníček,male,developer
+Tiel Aisha Ansari,female,developer
+Yannis Marketakis,male,developer
+Sam Wilson,male,developer
+Alek Minassian,male,developer
+Konstantin Aldokhin,male,developer
+Q106092587,male,developer
+Jorge Núñez de la Visitación,male,developer
+Lauren Lee McCarthy,female,developer
+Emmanouil Smyrnakis,male,developer
+Sonia Paço-Rocchia,female,developer
+Allen Kenneth Briggs,male,developer
+Eleftheria Plevridi,female,developer
+Q106205886,male,developer
+Q106206099,male,developer
+Marisol Fernández Barrero,female,developer
+Q106267291,male,developer
+Mikkel Svane,male,developer
+Petr Malát,male,developer
+Kent Fredric,male,developer
+Carlos Abril,male,developer
+Salvatore Sanfilippo,male,developer
+Ashish Bhatia,male,developer
+Sodiq Afolabi,male,developer
+Victor Celer,male,developer
+Andrew Smith,male,developer
+Jan Tyl,male,developer
+Joni Sakasho,male,developer
+Ondřej Čertík,male,developer
+Noriyuki Miyazaki,male,developer
+Ruslan Leviev,male,developer
+Q106492571,male,developer
+Martin Edenhofer,male,developer
+Woo-Duk Chung,male,developer
+Q106514022,male,developer
+Q106514193,female,developer
+Q106514200,male,developer
+Gary Bowser,male,developer
+Max Louarn,male,developer
+Tom Dilts Jr.,male,developer
+Sergio Mojarro Moreno,male,developer
+Q106548451,male,developer
+Timur Bokov,male,developer
+Q106560902,male,developer
+Q106564168,male,developer
+Q106564834,male,developer
+Perttu Ahola,male,developer
+Richard Lang,male,developer
+Roland McGrath,male,developer
+Makoto Uchida,male,developer
+Stefan van Dinther,male,developer
+Sven Jaschan,male,developer
+Ian Hickson,male,developer
+Jeff Prosise,male,developer
+Ettore Perazzoli,male,developer
+Robert Love,male,developer
+Tatsuya Uemura,male,developer
+Tommy Refenes,male,developer
+Wojciech Sawicki,male,developer
+Xavier Amorós Solà,male,developer
+Xavier Leroy,male,developer
+Kevin Marks,male,developer
+Anthony Wesley,male,developer
+Blasco Bonito,male,developer
+Brian D. Warner,male,developer
+Bob Truel,male,developer
+Jesse James Garrett,male,developer
+David Brevik,male,developer
+Dmitry Pavlovsky,male,developer
+Dominic Giampaolo,male,developer
+Dona Bailey,female,developer
+Doug Carlston,male,developer
+Emiliano Sciarra,male,developer
+Gene Kan,male,developer
+Markus Neteler,male,developer
+Alexandre Julliard,male,developer
+Michael Urbano,male,developer
+Peter Liepa,male,developer
+Robert Szeleney,male,developer
+Sal Soghoian,male,developer
+Sean Clark,male,developer
+Sergio Maltagliati,male,developer
+Tod Frye,male,developer
+Tommaso Leddi,male,developer
+Sergey Abramov,male,developer
+C. Dean Andersson,male,developer
+Sergey Anshukov,male,developer
+Igor Ashmanov,male,developer
+Grigoriy Bakunov,male,developer
+Valery Bardin,male,developer
+Trevor Blackwell,male,developer
+Sergey Vakulenko,male,developer
+Alexandre Oliva,male,developer
+Volkov Vsevolod Vladyslavovych,male,developer
+Oleksandr Volodarsky,male,developer
+Linor Goralik,female,developer
+Dmitry Gurtyak,male,developer
+Igor Danilov,male,developer
+Olga Dergunova,female,developer
+Dmitry Zavalishin,male,developer
+Gennady Zvenigorodsky,male,developer
+Sean Egan,male,developer
+Dejan Kaljević,male,developer
+Q4213043,male,developer
+Maxim Kononenko,male,developer
+Dmitry Koterov,male,developer
+Dmitry Kryukov,male,developer
+Viktor Lavrenko,male,developer
+Alexander Lavut,male,developer
+James M. Lyon,male,developer
+Aleksandr Liber,male,developer
+Aleksandr Livshits,male,developer
+Dmitry Lozinsky,male,developer
+Maksim Moshkov,male,developer
+Sergey Mylnikov,male,developer
+Michael Meeks,male,developer
+Irina Olovyannaya,female,developer
+Simon Osiashvili,male,developer
+Vladimir Pentkovski,male,developer
+Xu Wenkai,male,developer
+Jef Poskanzer,male,developer
+Ilya Segalovich,male,developer
+Mark Abene,male,developer
+Roza Syabitova,female,developer
+Q4519216,female,developer
+Vladimir Shakhidzhanyan,male,developer
+Jeremy Allison,male,developer
+Ceriel Jacobs,male,developer
+Line Arlien-Søborg,female,developer
+Aaron Boucher,male,developer
+Abraham Zelmanowitz,male,developer
+Adam Kennedy,male,developer
+Jeff Atwood,male,developer
+Aleks Oniszczak,male,developer
+Alex Martelli,male,developer
+Alexander R. Galloway,male,developer
+Devine Lu Linvega,male,developer
+Allan Martinson,male,developer
+Allan Morris,male,developer
+Amir Taaki,male,developer
+Andrew C. Stone,male,developer
+Andrew Troelsen,male,developer
+Anil K. Jain,male,developer
+Anne Ogborn,trans woman,developer
+Anne Westfall,female,developer
+Aruna Kumari Galla,female,developer
+Daniele Marotta,male,developer
+Karel Vašíček,male,developer
+Matteo Gallo,male,developer
+Adam Bilbrough,male,developer
+Colin Southgate,male,developer
+Q107987186,male,developer
+Arjen Kamphuis,male,developer
+Daniel Diaz,male,developer
+Jowita Koncewicz,female,developer
+Q108106799,male,developer
+Q108106937,male,developer
+Ewa Kardymowicz,female,developer
+Q108134566,female,developer
+Q108185101,male,developer
+James Albert Brokaw,male,developer
+Lidia Zajchowska,female,developer
+Brenden McCarthy,male,developer
+Damian Merlak,male,developer
+Par Trivedi,male,developer
+Ezra Olubi,male,developer
+Terry R. Payne,male,developer
+Muhamed Becirovic,male,developer
+Elżbieta Jezierska-Ziemkiewicz,female,developer
+Theodor Thornhill,male,developer
+John Matherly,male,developer
+Ted Unangst,male,developer
+Mechiel Lukkien,male,developer
+Tomoya Matsuura,male,developer
+Stan Wijnans,male,developer
+Guy Van Belle,male,developer
+Carolyn Taylor,female,developer
+Malitzin Cortés,female,developer
+Miloš Sobotka,male,developer
+Q108669204,male,developer
+Lim Xin Mei,female,developer
+Lim Xin Quan,female,developer
+Lim Thye Chean,male,developer
+Eleanor Krawitz Kolchin,female,developer
+Aubrey Cottle,male,developer
+Massimo Callegari,male,developer
+Vadim V. Podbelskiy,male,developer
+Šimon Raichl,male,developer
+Pedro Pastor Alarcón,male,developer
+Aleksandr Sakovets,male,developer
+Robert W. Janson,male,developer
+Q108823239,male,developer
+Q108824194,male,developer
+Q108824302,male,developer
+Q108824393,male,developer
+Doris Polsky,female,developer
+Shirley Melvin,female,developer
+Cher Scarlett,female,developer
+Mathis André,male,developer
+Paz Gimeno,female,developer
+May-Li Khoe,female,developer
+Sergey Savelyev,male,developer
+Ondřej Surý,male,developer
+Jessica Baskauf,female,developer
+Denis Shiryaev,male,developer
+Christopher Bouzy,male,developer
+Akalanka Ekanayake,male,developer
+Fernando Chayani,male,developer
+Evgeniy Antipov,male,developer
+Sebastian Benoit,male,developer
+Max Lytvyn,male,developer
+Nachshon Fertel,male,developer
+Sakthivel Aruljothi,male,developer
+James Gross,male,developer
+Rob Janssen,male,developer
+Patrick W. Carey,male,developer
+Miroslav Němeček,male,developer
+Alessandro Tavares Raposo,male,developer
+Twist,male,developer
+Alexandre de Lima Vieira,male,developer
+Regina Dubles Correa Belo Pereira,female,developer
+Andras Stirling,male,developer
+Q109818532,male,developer
+Niklas Lindström,male,developer
+Q109852291,male,developer
+Q109860445,male,developer
+Tina Nigro,male,developer
+Q109942561,male,developer
+Julie Alderton,female,developer
+Xah Lee,male,developer
+Milad Nouri,male,developer
+Q110032120,male,developer
+Makoto Soejima,male,developer
+Q110068419,male,developer
+Kaloian Doganov,male,developer
+Q110110679,male,developer
+Aleksei Prokhin,male,developer
+Q110111181,male,developer
+Q110111196,male,developer
+Q110127057,female,developer
+Boris Zozulya,male,developer
+David Schwartz,male,developer
+Dave Täht,male,developer
+Kamil Gregůrek,male,developer
+Q110249626,male,developer
+Cameron Hughes,male,developer
+Tracey Hughes,female,developer
+Steven F. Lott,male,developer
+Peter Holečko,male,developer
+Karel Tejkal,male,developer
+Josip Maras,male,developer
+Jaime Lloret Mauri,male,developer
+T. L. McCluskey,male,developer
+Niall Richard Murphy,male,developer
+Anthony Jones,male,developer
+Radu Gheorghe,male,developer
+Marijn Haverbeke,male,developer
+Slávek Rydval,male,developer
+Eva Malá,female,developer
+Philip M. McCarthy,male,developer
+Kristian Rother,male,developer
+Keith Houston,male,developer
+Pierre-Yves Saumont,male,developer
+Olivier Lecarme,male,developer
+Helma Spona,female,developer
+Simon St. Laurent,male,developer
+Tom Bell,male,developer
+Nikhil Buduma,male,developer
+Alexandr Kuzmin,male,developer
+Isasaweis,female,developer
+Dan Zhang,male,developer
+Roger Beebe,male,developer
+József Puntigán,male,developer
+Vojtěch Matocha,male,developer
+Jonas Fagerberg,male,developer
+Volker Wollny,male,developer
+Ted Kwartler,male,developer
+David Fox,male,developer
+Adam Tornhill,male,developer
+Simon Brown,male,developer
+John Dean,male,developer
+Martin Erwig,male,developer
+Michal Vávra,male,developer
+Štefan Prokop,male,developer
+Julie Anderson,female,developer
+Jennifer Coopersmith,female,developer
+Mohammad Ali Nematollahi,male,developer
+Ethan Wilansky,male,developer
+John Evans,male,developer
+Elijah Meeks,male,developer
+Joseph Hocking,male,developer
+Steve Klabnik,male,developer
+Carol Nichols,female,developer
+Matt Harrison,male,developer
+Arnor Solberg,male,developer
+Jaromír Žid,male,developer
+Robert Layton,male,developer
+Durga Prasad Mohapatra,male,developer
+Mladen Kovacevic,male,developer
+Vratislav Podzimek,male,developer
+Yves J. Hilpisch,male,developer
+Miroslav Popović,male,developer
+Eduardo B. Fernandez,male,developer
+Wang Tang Minke,male,developer
+Alan A. A. Donovan,male,developer
+Lentin Joseph,male,developer
+Hedi Tabia,male,developer
+Radek Valášek,male,developer
+Tomáš Sedlák,male,developer
+Pavel Mises,male,developer
+Albert Marenčin,male,developer
+Peter Farrell,male,developer
+Christian Heller,male,developer
+Q112537421,male,developer
+Alena Marečková,female,developer
+Pomerančová,female,developer
+Ron Eaglin,male,developer
+Stanislav Kozel,male,developer
+Aleš Kaňka,male,developer
+Ryan Watkins,male,developer
+Lutz Rosenpflanzer,male,developer
+Tom V. Hron,male,developer
+Martin Nesměrák,male,developer
+Jan Folbrecht,male,developer
+Gerald Benoit,male,developer
+Peter Martin,male,developer
+Christoph Amthor,male,developer
+Robert Palevich,male,developer
+Peter Botticelli,male,developer
+William C. Wake,male,developer
+Michael O. Stegman,male,developer
+Jan Šípek,male,developer
+Emerson Matsuuchi,male,developer
+Milan Drášil,male,developer
+Michal Tuláček,male,developer
+Jörg Lenhard,male,developer
+Zbyněk Vondrák,male,developer
+Robert L. Peters,male,developer
+Miroslav Juhos,male,developer
+Udayakumar Ethirajulu,male,developer
+Bartosz Leper,male,developer
+T. J. Crowder,male,developer
+Tomáš Nováček,male,developer
+Alessandro Biessek,male,developer
+Radim Brixí,male,developer
+Carole Boggs Matthews,female,developer
+Wieland Breitfeld,male,developer
+Ole-André Rodlie,male,developer
+Q106600350,male,developer
+Vladimir Kameñar,male,developer
+Q106612495,male,developer
+Satoru Takabayashi,male,developer
+Q106621140,male,developer
+Q106621176,male,developer
+Q106624769,male,developer
+Joseph Aliganyira,male,developer
+Geert Kessels,male,developer
+Kier-La Janisse,female,developer
+Pim van Bree,male,developer
+Roger Antonsen,male,developer
+Q106764460,female,developer
+Q106778800,male,developer
+Q106779042,male,developer
+Andriy Nikolov,male,developer
+Claudio Tinivella,male,developer
+Q106840638,male,developer
+Q106844378,male,developer
+mr_coinier,male,developer
+Q106868076,female,developer
+Q106869796,male,developer
+Q106887191,male,developer
+Q106903087,male,developer
+Mateusz Popławski,male,developer
+Michael Bierylo,male,developer
+Joshua Crowgey,male,developer
+Andreas Fertig,male,developer
+Jerry Muelver,male,developer
+Ivo Špička,male,developer
+Jaime Gómez-Obregón,male,developer
+Joris Dormans,male,developer
+Ben Slivka,male,developer
+Daisuke Takimoto,male,developer
+Jens Mönig,male,developer
+Anton Röhm,male,developer
+Jack Eisenmann,male,developer
+Johan Quiroz,male,developer
+Shu Jiang,female,developer
+Christo Buschek,male,developer
+Aurélien Geron,male,developer
+Neha Narkhede,female,developer
+Olivia Jack,female,developer
+Jerry Nixon,male,developer
+Harry Percival,male,developer
+Terri Burns,female,developer
+Yvonne Loader,female,developer
+Guillaume Pelletier,male,developer
+Q107355330,male,developer
+Q107355358,male,developer
+Justin Vaillancourt,male,developer
+Q107355734,male,developer
+Angela He,female,developer
+Q107368249,male,developer
+Libor Malý,male,developer
+Łukasz Świerczewski,male,developer
+Q107395464,male,developer
+Q107395651,male,developer
+Q107397950,male,developer
+Q107412508,male,developer
+Q107412589,female,developer
+Q107412647,male,developer
+Q107428447,male,developer
+Q107428480,male,developer
+Q107428540,male,developer
+Kevin Owocki,male,developer
+Samuel Fosso,male,developer
+Franz Bernack,male,developer
+Kimberly McGuigan,female,developer
+Xaviera Kowo,female,developer
+Benson Leung,male,developer
+Vlad Yatsenko,male,developer
+"Thomas A. Ryan, Jr.",male,developer
+Alyssa Rosenzweig,trans woman,developer
+Vlad Nov,male,developer
+Syed Sameer Arshad,male,developer
+Craig Sellars,male,developer
+Robert Virding,male,developer
+Hans-Peter Meinzer,male,developer
+Vitor Vilela,male,developer
+Vítězslav Štembera,male,developer
+Sándor Pósvári,male,developer
+Giovanni Moretti,male,developer
+Babar Iqbal,male,developer
+Bay Raitt,male,developer
+Ben Chiu,male,developer
+Bernhard Rosenkränzer,male,developer
+Bert Hubert,male,developer
+Bill Kendrick,male,developer
+Bill Thompson,male,developer
+Brent Iverson,male,developer
+Bruce Ableson,male,developer
+Bruce Bastian,male,developer
+Lars Pensjö,male,developer
+Carlos Morimoto,male,developer
+Celeste Lyn Paul,female,developer
+Chris Pile,male,developer
+Chris Wright,male,developer
+Christopher Abad,male,developer
+Christopher Clark,male,developer
+Chuck Forsberg,male,developer
+Claude Sammut,male,developer
+Cliff Stanford,male,developer
+Clint Curtis,male,developer
+Colin Moock,male,developer
+Cormac Kinney,male,developer
+Cédric Beust,male,developer
+DJ Delorie,male,developer
+Dan Farmer,male,developer
+Dan Kogai,male,developer
+Yekaterina Samutsevich,female,developer
+Danny Thorpe,male,developer
+Darin Adler,male,developer
+Dave Colclough,male,developer
+David Toska,male,developer
+Dick Grune,male,developer
+Earl Isaac,male,developer
+Ed Nather,male,developer
+Eddie Dombrower,male,developer
+Henry Spencer,male,developer
+Ellen Ullman,female,developer
+Eric Eve,male,developer
+Eric Reiss,male,developer
+Erick Tejkowski,male,developer
+Erik Naggum,male,developer
+Fabien Chéreau,male,developer
+Francis Irving,male,developer
+Frank Karlitschek,male,developer
+Yucef Merhi,male,developer
+František Fuka,male,developer
+François Lionet,male,developer
+Ganesh Sittampalam,male,developer
+Gary Higgins,male,developer
+Gennady Korotkevich,male,developer
+Roger Akelius,male,developer
+Gervase Markham,male,developer
+Brian Bagnall,male,developer
+Javier Arévalo,male,developer
+Gordon Eubanks,male,developer
+Greg Stein,male,developer
+Hal Finney,male,developer
+Harri Hursti,male,developer
+Kristoffer Ericson,male,developer
+Bruno Haible,male,developer
+Byron Rakitzis,male,developer
+Ian Luck,male,developer
+Lou Montulli,male,developer
+John Robbins Barnaby,male,developer
+Christophe Le Sage,male,developer
+Hurtle Lupton,male,developer
+Iestyn Polson,male,developer
+Ingemar Ragnemalm,male,developer
+Sedat Kapanoğlu,male,developer
+Ivan Lanin,male,developer
+Ivo Lukačovič,male,developer
+J. Halcombe Laning,male,developer
+Jaka Železnikar,male,developer
+James D. Sachs,male,developer
+James Turner,male,developer
+Jean-Pierre Isaac,male,developer
+Ramesh Sharda,male,developer
+Jeff Sutherland,male,developer
+William Shunn,male,developer
+Jeremy Hammond,male,developer
+Jim Hugunin,male,developer
+Torgny Tholerus,male,developer
+Joe Barr,male,developer
+John Thompson,male,developer
+John Walker,male,developer
+"John Wodehouse, 5th Earl of Kimberley",male,developer
+Jonathan Oxer,male,developer
+Joseph J. Allaire,male,developer
+Joyce Farrell,female,developer
+Julian Todd,male,developer
+Jørn Jensen,male,developer
+Kanianthra Mani Chandy,male,developer
+Kaj Arnö,male,developer
+Kathy Sierra,female,developer
+Kay Sievers,male,developer
+Ken Arnold,male,developer
+Ken Coar,male,developer
+Kent Pitman,male,developer
+Krzysztof Cwalina,male,developer
+Axel Kaschte,male,developer
+Oldrich Kapoun,male,developer
+John Siracusa,male,developer
+Christian Ullenboom,male,developer
+Ken Youens-Clark,male,developer
+Sadao Makino,male,developer
+Ruan YiFeng,male,developer
+Chun-yien Chang,male,developer
+Yangqing Jia,male,developer
+Federico Leva,male,developer
+Elísabet Indra Ragnarsdóttir,female,developer
+Una Margrét Jónsdóttir,female,developer
+THorunn Greta Sigurdardottir,female,developer
+Jameson Lopp,male,developer
+Antoine Beaubien,male,developer
+Ivan Bakaidov,male,developer
+Christian Heilmann,male,developer
+Tim Anglade,male,developer
+Bert Belder,male,developer
+Dean Shock,male,developer
+Krystyna Chodorowska,female,developer
+Tarek Atoui,male,developer
+Breakwa11,trans man,developer
+Andrew Kelley,male,developer
+Epsilon,male,developer
+Jean Ollivier,male,developer
+Sean Ellis,male,developer
+Brendan Kelly,male,developer
+Ragnar Lönn,male,developer
+Aaron Segaert,male,developer
+Ryan Kidd,male,developer
+Victor Ruiz Tejedor,male,developer
+Richard Stevenson,male,developer
+Iiro Uusitalo,male,developer
+Luciano Ramalho,male,developer
+Vicky Brasseur,female,developer
+Jez Humble,male,developer
+Dene McDonald,male,developer
+Trevor Jones,male,developer
+Yutaka Hirata,male,developer
+Andreas Dzialocha,male,developer
+Boris Barov,male,developer
+Scott Colby,male,developer
+Jan Nedvěd,male,developer
+Luca Hammer,male,developer
+Michael Amundsen,male,developer
+Martin Svoboda,male,developer
+J. Aslan,male,developer
+Wolfgang Banzhaf,male,developer
+Ellen Fetter,female,developer
+Francis Hunger,male,developer
+Ralph Badinelli,male,developer
+Avery Pennarun,male,developer
+Gordon Mohr,male,developer
+Suki Lee,female,developer
+Allen H. Cogbill,male,developer
+Colin Percival,male,developer
+Michael DeHaan,male,developer
+Jane Terjung,female,developer
+Kathleen O'Brien,female,developer
+Sylvia Day,female,developer
+Michael Osinski,male,developer
+Samaira Mehta,female,developer
+Jordan Walke,male,developer
+Strahinja Val Marković,male,developer
+Max Howell,male,developer
+Neil McGovern,male,developer
+Walter Wälle Keiser,male,developer
+Alan Claudio Melo de Almeida,male,developer
+Eugen Rochko,male,developer
+Balázs Scheidler,male,developer
+Witold Podgórski,male,developer
+Taskeen Fatima Basha,female,developer
+Drew DeVault,male,developer
+Chris Lamb,male,developer
+Jérémie Dusart,male,developer
+Alice W. Hunt,female,developer
+Anvitha Vijay,female,developer
+Raimo Olavi Toivonen,male,developer
+Simon Davies,male,developer
+John B Aris,male,developer
+Ülo Laanoja,male,developer
+Saydean Zeldin,female,developer
+Sam Aaron,male,developer
+Mitchell Hashimoto,male,developer
+Greg Lindahl,male,developer
+Maurice Conrad,non-binary,developer
+Sugandh Rakha,male,developer
+Calvin Walton,male,developer
+Miran Lipovača,male,developer
+Craig Partridge,male,developer
+Rachel Ara,female,developer
+Petr Kobalicek,male,developer
+Yaron Koren,male,developer
+Anders P. Ravn,male,developer
+Jeff Duntemann,male,developer
+Cary Huang,male,developer
+Jeel Vachhani,male,developer
+Bruce Washburn,male,developer
+Vaibhav Shukla,male,developer
+Craig Hickman,male,developer
+Pavel Pikulin,male,developer
+Sta,male,developer
+Artyom Svetlov,male,developer
+David MacKenzie,male,developer
+Paul Ford,male,developer
+Nikita Vasilyevich Smirnov,male,developer
+Reuben Thomas,male,developer
+Eric Bruno,male,developer
+Q110646264,female,developer
+Q110646809,male,developer
+Q110646936,male,developer
+Yasuhiro Anpo,male,developer
+Marek Stelmasik,male,developer
+Andrew John Hughes,male,developer
+Hrvoje Nikšić,male,developer
+Giuseppe Scrivano,male,developer
+Michael T. Gerwitz,male,developer
+William F. Smyth,male,developer
+Jussi Pakkanen,male,developer
+Johannah Sprinz,female,developer
+Randall Newman,male,developer
+Miroslav Langer,male,developer
+Eric Blake,male,developer
+Rudra Saraswat,male,developer
+Václav Holler,male,developer
+Casey O'Donnell,male,developer
+Ehsan,male,developer
+Rita González Hesaynes,female,developer
+Aisha Khatun,female,developer
+Andy M. Crouch,male,developer
+Gary Bernhardt,male,developer
+Weibin Wang,male,developer
+Nizo Priskorn,male,developer
+Frying Pan,male,developer
+Rail Ğataullin,male,developer
+Jack Sweeney,male,developer
+Francisca Oladipo,female,developer
+János Vezda,male,developer
+Code Bullet,male,developer
+Marc Gauthier,male,developer
+Evan Pratten,male,developer
+Volker Krause,male,developer
+Jama Poulsen,male,developer
+Andrew McAllister,male,developer
+Martin Kulda,male,developer
+Dainius Dauksevicius,male,developer
+Nikolaos Gounakis,male,developer
+Brian Hamachek,male,developer
+Natachai Boonprasert,male,developer
+Sadra Asgari,male,developer
+Ssu-Hui Wen,female,developer
+Frodo Podschwadek,male,developer
+Ilaria Castelli,female,developer
+Chad Fowler,male,developer
+Moto42,male,developer
+Torsten Grote,male,developer
+Taras Gordienko,male,developer
+Q111685988,male,developer
+Srinivas Kuchibhotla,male,developer
+Q111694292,male,developer
+Q111694550,male,developer
+Q111695029,male,developer
+Q111695526,male,developer
+Abdulmogeeb Alhumaid,male,developer
+Varsha Gupta,female,developer
+Petr Kadaník,male,developer
+Q111721833,male,developer
+Joseph Garrone,male,developer
+Q111738967,male,developer
+Q111754363,female,developer
+Q111778364,male,developer
+Q111779134,male,developer
+Q111785282,male,developer
+Q111785528,male,developer
+Q111796790,male,developer
+Q111796903,male,developer
+Q111796975,male,developer
+Meghan Cross,female,developer
+Q111820571,female,developer
+Q111820595,male,developer
+Q111842769,male,developer
+Q111842820,male,developer
+Q111844080,male,developer
+Q111844097,male,developer
+Yevgeny Kuznetzov,male,developer
+Jeff Geerling,male,developer
+Dominik Picheta,male,developer
+LizeLive,female,developer
+Liane Décary-Chen,female,developer
+Thomas Gauthier-Caron,male,developer
+Philippe Grenon,male,developer
+Jonathan Puckey,male,developer
+Sean Cross,male,developer
+Tom Marble,male,developer
+Chong-Dae Park,male,developer
+Hwang Bo-reum,female,developer
+Yury Maksimov,male,developer
+Mohammad Mahdi Bakhtiari,male,developer
+Luigi Pirelli,male,developer
+Ernst Braun,male,developer
+Petr Košek,male,developer
+Pavel Ponec,male,developer
+Elin Säfström,female,developer
+Kirill Finkel‘štejn,male,developer
+Everett N. McKay,male,developer
+Neil B. Harrison,male,developer
+Rostislav Kavan,male,developer
+Pavel Kružík,male,developer
+Petr Valášek,male,developer
+Yakov Konoval,male,developer
+Dan Sullivan,male,developer
+Jonathan Drake,male,developer
+Jim Blandy,male,developer
+Vidyut Samanta,male,developer
+Pavel Sedlák,male,developer
+Michal Ozogán,male,developer
+Michele Nasti,male,developer
+Alessandro Ricchiuti,male,developer
+Tobias Radloff,male,developer
+David Sugar,male,developer
+Luigi Sorrentino,male,developer
+Ross Mechanic,male,developer
+Anatol Khinevich,male,developer
+Konstantin G. Shvarts,male,developer
+Alvar Freude,male,developer
+Robert M. Ochshorn,male,developer
+Mathieu Lirzin,male,developer
+Austin Griffith,male,developer
+Jixian Wang,male,developer
+Q112987956,male,developer
+Davin Pearson,male,developer
+Jaap Scherphuis,male,developer
+Lars Vandenbergh,male,developer
+Theo Browne,male,developer
+Daniel LaLiberte,male,developer
+Bil Lewis,male,developer
+Amal viju,male,developer
+Sverre Hvammen Johansen,male,developer
+Thomas Hansen,male,developer
+Tanner Linsley,male,developer
+Jeffrin Jose T,male,developer
+Stephen F. Booth,male,developer
+DougDoug,male,developer
+Luca Saiu,male,developer
+Stig Sæther Bakken,male,developer
+Anand Babu Periasamy,male,developer
+Ajdin Brkovic,male,developer
+Alex Shevchenko,male,developer
+Witold Malina,male,developer
+Mari Soppela,female,developer
+Q113411414,male,developer
+Cami Estevão Girondi Cabral,female,developer
+Rachid TRAHIM,male,developer
+Alveno Smith,male,developer
+Jake Cooper,male,developer
+Colin McDonnell,male,developer
+Pedro Duarte,male,developer
+Jason Laster,male,developer
+Ruben van de Ven,male,developer
+Sébastien Aperghis-Tramoni,male,developer
+Filip Marek,male,developer
+Andrew Stokes,male,developer
+David Krásenský,male,developer
+Liu Wei,male,developer
+Jarred Sumner,male,developer
+Uchechukwu Emmanuel,male,developer
+Toshihiro Yoshimoto,male,developer
+Jeffrey A.W. Lew,male,developer
+Abdulfatai  Mustapha Olasunkanmionye,male,developer
+Valentina Muñoz,female,developer
+Marco  Cantú,male,developer
+Harris Mowbray,male,developer
+Richard Stones,male,developer
+Neil Matthew,male,developer
+Bruce Momjian,male,developer
+Geoff Peck,male,developer
+John Foderaro,male,developer
+Daniel Halbert,male,developer
+Mohammadamin Sadriyanmotlagh,male,developer
+Jakub T. Jankiewicz,male,developer
+Berkay Toptan,male,developer
+Jennieann Maffeo,female,developer
+Hartmut Warm,male,developer
+Farbod Jolani,male,developer
+Steve Kemp,male,developer
+Pelle Plopp,male,developer
+Clive Crous,male,developer
+Q114314132,male,developer
+Glynn Clements,male,developer
+Peyman Majidi Moein,male,developer
+Bastian Bechtold,male,developer
+Hank Marquis,male,developer
+Michael Albinus,male,developer
+Uri Bruck,male,developer
+Jean-Pierre Cassou,male,developer
+Jaroslav Kuboš,male,developer
+Mark Qvist,male,developer
+LaFarr Stuart,male,developer
+Leevi Lehto,male,developer
+Lim Ding Wen,male,developer
+Noah Glass,male,developer
+Assaf Talmudi,male,developer
+Maciej Stachowiak,male,developer
+Mads Tofte,male,developer
+Mark Crispin,male,developer
+Mark Guzdial,male,developer
+Mark Jason Dominus,male,developer
+Mark Pilgrim,male,developer
+Mathias Feist,male,developer
+Matt Mickiewicz,male,developer
+Matthew Haughey,male,developer
+Matthias Kalle Dalheimer,male,developer
+May7ven,female,developer
+Michael Hawley,male,developer
+Michael Lawrie,male,developer
+Michael Mandiberg,non-binary,developer
+Michael A. Nielsen,male,developer
+Michael Sweet,male,developer
+Michael W. Allen,male,developer
+Mik Kersten,male,developer
+Mike Shaver,male,developer
+Milun Tesovic,male,developer
+Mitchell Waite,male,developer
+Nagarjuna Gadiraju,male,developer
+Nick D'Aloisio,male,developer
+Nick Finck,male,developer
+Nick Pelling,male,developer
+Owen Mock,male,developer
+Owen Walker,male,developer
+Paolo Cirio,male,developer
+Patrick Collison,male,developer
+Pete Cooke,male,developer
+Peter Baldwin,male,developer
+Peter Chilvers,male,developer
+Peter Shann Ford,male,developer
+Peter Oliphant,male,developer
+Petr Mitrichev,male,developer
+Petr Šnapka,male,developer
+Phil Fish,male,developer
+Pito Salas,male,developer
+Quentin Pain,male,developer
+Rebecca Heineman,trans woman,developer
+Richard A. Parker,male,developer
+Richard Bird,male,developer
+Richard Kilmer,male,developer
+Rick Jelliffe,male,developer
+Rob Hartill,male,developer
+Robert Ammann,male,developer
+Robert C. Seacord,male,developer
+Robert Conley,male,developer
+Veda Hlubinka-Cook,trans woman,developer
+Robert E. Pardo,male,developer
+Robert Harold Fourer,male,developer
+Robert S. Lancaster,male,developer
+Robert Watson,male,developer
+Roger Hui,male,developer
+Rogers Cadenhead,male,developer
+Roland Carl Backhouse,male,developer
+Roland Mösl,male,developer
+Ronald Dale Harris,male,developer
+Ross Cohen,male,developer
+Sam Altman,male,developer
+Samy Kamkar,male,developer
+Scott Brinker,male,developer
+Scott Seebass,male,developer
+Scott Werndorfer,male,developer
+Sean M. Burke,male,developer
+Seymour I. Rubinstein,male,developer
+Shawn Bayern,male,developer
+Shigeki Morimoto,male,developer
+Simon Cozens,male,developer
+Simon Willison,male,developer
+Steve Yegge,male,developer
+Steven McGeady,male,developer
+Steven Pemberton,male,developer
+Suril Shah,male,developer
+Takeshi Ueda,male,developer
+Thomas G. Shanks,male,developer
+Tom Lane,male,developer
+Tom Scott,male,developer
+Tom Worthington,male,developer
+Troy Rutter,male,developer
+Vern Paxson,male,developer
+Vojtěch Sedláček,male,developer
+Ward Christensen,male,developer
+William Appleton,male,developer
+"William Barden, Jr.",male,developer
+Wim Taymans,male,developer
+Winter,male,developer
+Zachary Barth,male,developer
+Zack Exley,male,developer
+Zed Shaw,male,developer
+Łukasz Foltyn,male,developer
+Aaron Giles,male,developer
+Timothy Huang,male,developer
+David Guetta,male,developer
+SpaceGhostPurrp,male,developer
+Ben Taylor,male,developer
+Gopi Sundar,male,developer
+Sie7e,male,developer
+ChopSquad DJ,male,developer
+Mateusz Radecki,male,developer
+Jerry Slamdusky,male,developer
+myriam De Clopper,female,developer
+George Andriyanov,male,developer
+Natxo Morera de la Vall Antón,male,developer
+Vivillian,http://www.wikidata.org/.well-known/genid/52dc69dddcf54eaf5ba2d9ad0653660c,developer
+Felix Häcker,male,developer
+Christopher William Snowhill,male,developer
+Vincent Spader,male,developer
+Jonah Carrio Andersson,female,developer
+Ray Toal,male,developer
+James C. Hyatt,male,developer
+Roman Dvořák,male,developer
+Su Xiangmao,male,developer
+Masayoshi Takahashi,male,developer
+Michel de Brisis,male,developer
+David Adrian Greenwood,male,developer
+Seth Patrick,male,developer
+Steven Deobald,male,developer
+Jack Cushman,male,developer
+Sebastian Kondracki,male,developer
+Eugene Hopkinson,male,developer
+Nianli Ma,female,developer
+Zajcev Evgen,male,developer
+Prosper Otemuyiwa,male,developer
+Q133823173,male,developer
+Mike Haertel,male,developer
+Velda Kiara,female,developer
+Nicolas Petton,male,developer
+Jessica Upani,female,developer
+Paul Starr,male,developer
+Ngazetungue Muheue,male,developer
+Vuyisile Ndlovu,male,developer
+Kudzayi Bamhare,male,developer
+Hope Adoli,male,developer
+Rising Odegua,male,developer
+Adewale Abati,male,developer
+Thomas Lord,male,developer
+Christophe Dumez,male,developer
+Rudolf Vostrý,male,developer
+Steven M. Rubin,male,developer
+Dmitry Nadezhin,male,developer
+Eric M. Ludlam,male,developer
+Hamish Leahy,male,developer
+Martin von Zweigbergk,male,developer
+Chukwudi Nwachukwu,male,developer
+Jonathan Albarran,male,developer
+Eric M. Schurman,male,developer
+Adam Bohunčák,male,developer
+Mobin Khojasteh Boroumand,male,developer
+Dario d’Ambra,male,developer
+Q134281841,male,developer
+Ben James,male,developer
+Zbyněk Fiedler,male,developer
+Václav Burda,male,developer
+Matouš Bolek,male,developer
+Xe Iaso,non-binary,developer
+Andrew Janke,male,developer
+Rismon Hasiholan Sianipar,male,developer
+Paul Gauthier,male,developer
+Don Allingham,male,developer
+Marie Githinji,female,developer
+Eneko Sarasola Telleria,male,developer
+Ólafur Waage,male,developer
+Sakowat Hossain Roni,male,developer
+Rudolf Hundt,male,developer
+Cliff Baeseman,male,developer
+Michael A. Hess,male,developer
+Grzegorz Zajączkowski,male,developer
+Nathaneo Johnson,male,developer
+dm3tr0,male,developer
+Zühtü İbiş,male,developer
+Robert G. Plantz,male,developer
+Josh Bangle,male,developer
+Q134548716,male,developer
+Wallace Batista,male,developer
+Wael Tellat,male,developer
+Christiane Lemke,female,developer
+Berent Daan,male,developer
+Tomáš Jiřikovský,male,developer
+Hamed Taherdoost,male,developer
+Q134699432,female,developer
+Per Bothner,male,developer
+Nick Ustinov,male,developer
+Petr Antropov,male,developer
+Vanessa Lorenzo Toquero,female,developer
+Rob Scrimger,male,developer
+Valentin Križaj,male,developer
+Scott Cosentino,male,developer
+Thomas Pettit,male,developer
+Jinjer L. Simon,male,developer
+Cody Bangs,male,developer
+Learke,female,developer
+Abenezer Teshome,male,developer
+Pierre Depaz,male,developer
+Daniel H. Marchi,male,developer
+Niels Möller,male,developer
+Rosario Carvello,male,developer
+Kepler Sticka-Jones,male,developer
+Nir Sofer,male,developer
+Tammer Riad,male,developer
+Joseph DeLuca,male,developer
+Zdeněk Kadlec,male,developer
+František Huňka,male,developer
+Ivo Martiník,male,developer
+Zbigniew Czech,male,developer
+Marek Běhálek,male,developer
+Jan Hlaváček,male,developer
+Václav Dušek,male,developer
+Pavel Hajný,male,developer
+Sebastian Leipert,male,developer
+Jaroslav Černý,male,developer
+Pavel Roubal,male,developer
+Martin Popelka,male,developer
+Petr Sýkora,male,developer
+Jiří Šilha,male,developer
+Libuše Bryndová,female,developer
+Miloš Novotný,male,developer
+Frank Brechtefeld,male,developer
+Martin Vlach,male,developer
+Jan Klůfa,male,developer
+Ivan Černý,male,developer
+Zdeněk Schneider,male,developer
+David Hawiger,male,developer
+Jeff Webb,male,developer
+Luboš Brůha,male,developer
+Petr Paleta,male,developer
+Luke Welling,male,developer
+Ondřej Pohl,male,developer
+Marek Gayer,male,developer
+Petr Souček,male,developer
+Jakub Zemánek,male,developer
+Ed Robinson,male,developer
+Robert Ian Oliver,male,developer
+Jerry Joyce,male,developer
+Roman Číhal,male,developer
+Petr Staníček,male,developer
+Jiří Mojžíšek,male,developer
+Stanislav Rošický,male,developer
+Patrik Malina,male,developer
+Petr Václavek,male,developer
+Vladimír Váňa,male,developer
+Jiří Dluhoš,male,developer
+Jesse Liberty,male,developer
+Jan Polzer,male,developer
+Moshe Augenstein,male,developer
+Harry Brelsford,male,developer
+Art Taylor,male,developer
+Rudolf Marek,male,developer
+James Lee,male,developer
+Ivo Leitgeb,male,developer
+David Varner,male,developer
+Petr Matějka,male,developer
+Dana Kučová,female,developer
+Sarah Horton,female,developer
+Kenneth McDonald,male,developer
+Luboš Brim,male,developer
+Zdeněk Roub,male,developer
+Lubomír Moravec,male,developer
+Jan Kárník,male,developer
+Mark Grand,male,developer
+Petr Voneš,male,developer
+Tomáš Konšal,male,developer
+Miroslav Mareš,male,developer
+Jiří Brožík,male,developer
+Petr Pokrupa,male,developer
+Tomáš Hála,male,developer
+Simon Robinson,male,developer
+Vladislav Šmajstrla,male,developer
+Peter Gašparovič,male,developer
+Ondřej Čada,male,developer
+James Coffron,male,developer
+Brian Knight,male,developer
+Hynek Kubica,male,developer
+Antonín Čejchan,male,developer
+Brian Ward,male,developer
+Miroslav Haft,male,developer
+Reed Jacobson,male,developer
+John Robbins,male,developer
+Jana Pšenčíková,female,developer
+Richard Riley,male,developer
+Michal Hrabí,male,developer
+Ján Hanák,male,developer
+Jan Horyna,male,developer
+Ján Plesník,male,developer
+Michael James Hernandez,male,developer
+John Viescas,male,developer
+Dušan Streit,male,developer
+Paul Whitehead,male,developer
+"Zdenek ""Zetbee"" Budik",male,developer
+Josef Fric,male,developer
+Petr Schindler,male,developer
+Kaare Christian,male,developer
+Rob Krumm,male,developer
+Rasmus Andersson,male,developer
+Chris Brown,male,developer
+Kenneth Reitz,male,developer
+K Lange,male,developer
+Brodie Lockard,male,developer
+Dmitry Marakasov,male,developer
+Santhosh Thottingal,male,developer
+Mark Otto,male,developer
+Jordan Casey,male,developer
+Puck Meerburg,trans woman,developer
+Ran Bar-Zik,male,developer
+Ron Nicholson,male,developer
+Jonty Wareing,male,developer
+Takuma Hashimoto,male,developer
+Rakesh Joshi,male,developer
+John Scholes,male,developer
+Dave Presotto,male,developer
+Michael Dirolf,male,developer
+Near,non-binary,developer
+Petr Novosad,male,developer
+Dominic Comtois,male,developer
+Christopher Louis Chancé,male,developer
+Emanuele Bassi,male,developer
+Masako Wakamiya,female,developer
+Konstantin Kotov,male,developer
+Samuel Attard,male,developer
+Marlene Hazle,female,developer
+Shehata Atya,male,developer
+Frode Hegland,male,developer
+Robert Sweeney,male,developer
+Asantewa Olatunji,female,developer
+Sean Pringle,male,developer
+Quincy Morgan,male,developer
+Bruno Luiz,male,developer
+Paola Villarreal,female,developer
+Ivan Volodin,male,developer
+Elena Perelman,female,developer
+Puzzlet Chung,male,developer
+George Merlocco,male,developer
+Ralf Baecker,male,developer
+Arthur Purves,male,developer
+Thorsten Alteholz,male,developer
+Viktor Kotrubenko,male,developer
+Exey Panteleev,male,developer
+Jill Pym,female,developer
+Jeff Becker,male,developer
+Diana Gutman,female,developer
+Garrett Grolemund,male,developer
+Soumith Chintala,male,developer
+Leo Germani,male,developer
+Andy Wright,male,developer
+Beni Vagenfeld,male,developer
+Brent Simmons,male,developer
+Andreas Rossberg,male,developer
+Evgeny Zhogolev,male,developer
+Ori Bernstein,male,developer
+Nikolaos Koumbetsos,male,developer
+Rebecca Rivers,female,developer
+Boris Veytsman,male,developer
+Éric Doireau,male,developer
+Phil Winterbottom,male,developer
+Steve Dekorte,male,developer
+Louis D'hauwe,male,developer
+Michael Tsai,male,developer
+Randy Suess,male,developer
+Robyn Alice McCutcheon,trans woman,developer
+David Weston,male,developer
+Karel Šuhajda,male,developer
+Andreas Larsen,male,developer
+Safaa Al-Sarai,male,developer
+Susan Bond,female,developer
+William Harold Newman,male,developer
+Christophe Rhodes,male,developer
+Eugene Sandulenko,male,developer
+Hoan Ton-That,male,developer
+Kangjun Heo,male,developer
+João Neves,male,developer
+Angus B. Grieve-Smith,genderfluid,developer
+Torben Wind,male,developer
+Valentina Benaglio,female,developer
+Dhruba K. Bhattacharyya,male,developer
+Bill English,male,developer
+Ken-ichi Ueda,male,developer
+Q84721907,male,developer
+Ben Hutchings,male,developer
+Chandroth Vasudevan Radhakrishnan,male,developer
+Scott Hanselman,male,developer
+Sophie Alpert,trans woman,developer
+George Tsu-der Chou,male,developer
+Thomas G. Buchanan,male,developer
+John Vittal,male,developer
+John Shedletsky,male,developer
+Kazuo Tanabe,male,developer
+Alamanda Shantika,female,developer
+Amanda Surya,female,developer
+Horace Enea,male,developer
+Bruno Tüscher,male,developer
+Josef Pelikán,male,developer
+Ricky Roy,male,developer
+Laurence Parry,male,developer
+Seumas McNally,male,developer
+ZUN,male,developer
+Andrzej Blikle,male,developer
+Anthony Zboralski,male,developer
+Filip Wolski,male,developer
+Greg McDavis,male,developer
+Q9320428,male,developer
+Shawn Hargreaves,male,developer
+Kazuhisa Nishikawa,male,developer
+金子勇,male,developer
+Władysław Marek Turski,male,developer
+Hiroshi Yūki,male,developer
+Kim Hakkyu,male,developer
+James Jessiman,male,developer
+Lauris Kaplinski,male,developer
+Adam Hauner,male,developer
+Zdeněk Hlávka,male,developer
+Q10900473,male,developer
+Marek Střihavka,male,developer
+Kensuke Ushio,male,developer
+Boris Zbarsky,male,developer
+YET11,male,developer
+Onitama,male,developer
+中島聡,male,developer
+Yūgo Nakamura,male,developer
+Shōzaburō Nakamura,male,developer
+Isao Maruoka,male,developer
+Yoshiyuki Kubo,male,developer
+Tadanobu Inoue,male,developer
+Eitarō Sano,male,developer
+Masayuki Hatta,male,developer
+Kazuo Chiba,male,developer
+Haruyasu Yoshizaki,male,developer
+Takuto Wada,male,developer
+Ken'ichirō Ōmi,male,developer
+Yō Yamanoguchi,male,developer
+Takashi Yamamiya,male,developer
+Hiroyuki Yamamoto,male,developer
+Hidemi Kawai,male,developer
+Satoshi Hirano,male,developer
+Yūji Hirose,male,developer
+Hideo Saito,male,developer
+Yutaka Niibe,male,developer
+Shūta Morishima,male,developer
+Kazurō Morita,male,developer
+Kazumasa Utashiro,male,developer
+Kunihiro Takedomi,male,developer
+Chieko Asakawa,female,developer
+Kazunori Ukigawa,male,developer
+Ken'ichi Fukamachi,male,developer
+Yōhei Shimizu,male,developer
+Daiyū Nobori,male,developer
+Hidenori Ishikiriyama,male,developer
+Hiroshi Fukuda,male,developer
+Jun'ichirō Hagino,male,developer
+Shinichi Fujikawa,male,developer
+Yukihiko Tani,male,developer
+Toshio Sakai,male,developer
+Majo,male,developer
+Kazuo Kurosu,male,developer
+Juan Antonio Arguelles Rius,male,developer
+Jan Bielecki,male,developer
+Janusz Pelc,male,developer
+Daniel Fajfr,male,developer
+David Baron,male,developer
+David Grudl,male,developer
+David Procházka,male,developer
+Michał Frąckowiak,male,developer
+Mike Pinkerton,male,developer
+Ville Mönkkönen,male,developer
+Vladimír Petkevič,male,developer
+Vojtěch Merunka,male,developer
+Václav Exner,male,developer
+Václav Kadlec,male,developer
+Václav Kotěšovec,male,developer
+Václav Žák,male,developer
+Ivan Odilo Štampach,male,developer
+Jakub Vrána,male,developer
+Jan Mühlfeit,male,developer
+Jay Freeman,male,developer
+Jiří Fiala,male,developer
+Jiří Zajíc,male,developer
+Luděk Skočovský,male,developer
+Martin Domes,male,developer
+Martin Kysela,male,developer
+Milan Guštar,male,developer
+Milan Mišovič,male,developer
+Miroslav Virius,male,developer
+Pavel Cvrček,male,developer
+Q12044049,male,developer
+Pavel Herout,male,developer
+Pavel Satrapa,male,developer
+Radek Chalupa,male,developer
+Robert Falkenauer,male,developer
+Travis Watkins,male,developer
+Q12205898,male,developer
+Björn Holmér,male,developer
+Christian Hesselberg,male,developer
+Julian LeFay,male,developer
+Peter Ole Frederiksen,male,developer
+Yedidyah Langsam,male,developer
+Martin S. Matthews,male,developer
+Frank G. McCabe,male,developer
+Wolfgang Kirsten,male,developer
+Scott Stirling,male,developer
+Gavin King,male,developer
+Lon Poole,male,developer
+Jarmila Mikušová,female,developer
+Jaroslav Poživil,male,developer
+Hans Berger,male,developer
+Dieter Frommhold,male,developer
+Miroslav Řihák,male,developer
+John Kauffman,male,developer
+Michal Bližňák,male,developer
+František Šíma,male,developer
+David Vilímek,male,developer
+Miroslav Čulík,male,developer
+Jiří Matyskiewicz,male,developer
+Thearon Willis,male,developer
+Jan Šindelář,male,developer
+Lukáš Krejčí,male,developer
+Zbyněk Eiselt,male,developer
+Jaroslav Čáp,male,developer
+Aleksej Borisovič Gaina,male,developer
+Pavel Mžourek,male,developer
+Michael Trent,male,developer
+Václav Trunec,male,developer
+Jeremy McPeak,male,developer
+Cristian Darie,male,developer
+Tom Miller,male,developer
+Václav Krejčí,male,developer
+Lance James,male,developer
+Bohumil Přecechtěl,male,developer
+Joseph Sack,male,developer
+Kevin Wallace,male,developer
+Sandra L. Emerson,female,developer
+Tom Ender,male,developer
+Zdeněk Pazdera,male,developer
+Peter Dragula,male,developer
+Q112407887,male,developer
+Vlastimil Waic,male,developer
+Lukáš Pitka,male,developer
+Jindřich Rohlík,male,developer
+Francisco de Moura e Castro Ascensão de Azevedo,male,developer
+Larry Brown,male,developer
+Adam Freeman,male,developer
+Kris A. Jamsa,male,developer
+Roman Blažíček,male,developer
+Josef Gerbrich,male,developer
+Filip Procházka,male,developer
+Jarmila Kubalcová,female,developer
+Jon Masters,male,developer
+Hanuš Wagner,male,developer
+Lukáš Jelínek,male,developer
+Jaimie Sirovich,male,developer
+Robert Virkus,male,developer
+Tomáš Kučera,male,developer
+Ivana Tischlerová,female,developer
+Ignatz Schels,male,developer
+Wayne Muller,male,developer
+Jiří Prokop,male,developer
+John Pierce,male,developer
+Zdeněk Mendl,male,developer
+Radomír Viktor Brabec,male,developer
+Jan Prošek,male,developer
+Zdeněk Lomička,male,developer
+Petr Bílek,male,developer
+Ivana Vinšová,female,developer
+John Clark Craig,male,developer
+Petr Doležel,male,developer
+Michael Schwimmer,male,developer
+Devin Rader,male,developer
+Csanád Novák,male,developer
+Petr Kania,male,developer
+Magda Komorníková,female,developer
+Jaroslav Česenek,male,developer
+Ondřej Hanák,male,developer
+Lenka Zbranková,female,developer
+Dan Karlan,male,developer
+Eric Allen,male,developer
+Christopher Swenson,male,developer
+Vladimír Stwora,male,developer
+Michael Gasperi,male,developer
+Stuart Sutherland,male,developer
+Thomas J. Cashman,male,developer
+Peter John Dyson,male,developer
+Mario V. Farina,male,developer
+Martin Jackson,male,developer
+Stanislav Češka,male,developer
+Roman Ďaďan,male,developer
+Alan H. Watt,male,developer
+Jiří Skuhra,male,developer
+Dmitry Kirsanov,male,developer
+Bill Glover,male,developer
+Jasper Sharp,male,developer
+Alois Vaněk,male,developer
+Marie Dymáčková,female,developer
+Marek Mojzík,male,developer
+Jacqueline D. Hamilton,female,developer
+Luboš Bárta,male,developer
+Rudolf Huber,male,developer
+Hana Dusíková,female,developer
+Günter Geiger,male,developer
+Stefan Holek,male,developer
+Nestor Pridun,male,developer
+Klaus Voltmer,male,developer
+Gustavo Candela Romero,male,developer
+Luka Frelih,male,developer
+Thomas Guimbretière,male,developer
+Q114795266,male,developer
+Soulaine Theocharides,female,developer
+Bruce Johnson,male,developer
+Craig Weeks,male,developer
+Andreas Kling,male,developer
+Antis Roditis,male,developer
+Yichun Zhang,male,developer
+Ben Awad,male,developer
+Cassidy Williams,female,developer
+Jason Miller,male,developer
+Fabien Potencier,male,developer
+Alexander Borisovich Gessen,male,developer
+Laslo Hunhold,male,developer
+Q115128329,male,developer
+Maartje Eyskens,female,developer
+Elie Zananiri,male,developer
+Kevin Alons,male,developer
+Christian Clauss,male,developer
+Andrew He,male,developer
+Sebastián Ramírez,male,developer
+Farah Thompson,trans woman,developer
+Stuart McClure,male,developer
+Q115413262,male,developer
+Petr Václavek,male,developer
+Wilfredo Rafael Rodriguez Hernandez,male,developer
+Aaron Irons,male,developer
+Alan Coopersmith,male,developer
+Gábor Rezi Kató,male,developer
+Mark Fichtner,male,developer
+Mateusz Konieczny,male,developer
+Matt Godbolt,male,developer
+Lawrence Gozum,male,developer
+Tomáš Litera,male,developer
+Q115760253,male,developer
+Yoann Jaffré,male,developer
+Sántáné Tóth Edit,female,developer
+Karsten Hilbert,male,developer
+Osama Khalid,male,developer
+Antoine Kalmbach,male,developer
+TJ DeVries,male,developer
+Romi Hoshino,male,developer
+Koz Ross,male,developer
+Vedal987,male,developer
+Yoshiharu Tsuruhama,male,developer
+Art Friedman,male,developer
+Mark Lutz,male,developer
+Ehsan Talebi Zadeh,male,developer
+Maarten van Emden,male,developer
+Tamer Diai,male,developer
+Ned Chapin,male,developer
+Dominic Dall'Osto,male,developer
+Ivo Petr,male,developer
+Jan Cibulka,male,developer
+Hryhorii Stepanets,male,developer
+Darshita Chaturvedi,female,developer
+Milan Ištok,male,developer
+Jim McAndrew,male,developer
+Henrik Rydgård,male,developer
+Marie Kličková,female,developer
+Jonáš Svatoš,male,developer
+Tomáš Staněk,male,developer
+Alex Kladov,male,developer
+Charlene Hunter,female,developer
+Masahiro Hayashi,male,developer
+Yurii Brekharia,male,developer
+Marek Šafář,male,developer
+Anthony Domenico,male,developer
+Eric Evans,male,developer
+Nelleke Oostdijk,female,developer
+Merve Noyan,female,developer
+Sergey Alexandrovich Romanov,male,developer
+Milan Kudrna,male,developer
+Iván García,male,developer
+Martina Roura Font,female,developer
+Mel Kaye,male,developer
+Brian L. Gorman,male,developer
+Mike Gorman,male,developer
+Vinh The Nguyen,male,developer
+Nathan Freitas,male,developer
+amirreza babalo,male,developer
+Luo Yuhao,male,developer
+Vazkii,demiboy,developer
+Saivan,male,developer
+Lykrast,female,developer
+Jacek Caban,male,developer
+Larry Denneau,male,developer
+Conny Andersson,male,developer
+Dennis Jonda,male,developer
+Daniel Johansson,male,developer
+Q117324923,male,developer
+Waldir Pimenta,male,developer
+Francesco Tonini,male,developer
+Benjamin Qi,male,developer
+Ziggy,http://www.wikidata.org/.well-known/genid/358c50cb17b3a457095bb3e2b5fe81b5,developer
+ADMClef,male,developer
+RetroTree,male,developer
+Plookiedookie,http://www.wikidata.org/.well-known/genid/a10ff8e2260e44ef7f37873276551684,developer
+Soylien,http://www.wikidata.org/.well-known/genid/693bc392fa50b9391c87f86efff82889,developer
+slender13561,http://www.wikidata.org/.well-known/genid/8260b0a5c1ee91b7451af2e1b7506b2f,developer
+BerkeliumΛsset,http://www.wikidata.org/.well-known/genid/e2fe6d2c0b4f32512b576790b42312f3,developer
+VOXMESA,http://www.wikidata.org/.well-known/genid/42d9030a73788ba62b263444d84eb69c,developer
+Saalvage,http://www.wikidata.org/.well-known/genid/8ea6309ae718aebccd92867f0629ad3e,developer
+Michele Pacelli,male,developer
+TURBODRIVER,http://www.wikidata.org/.well-known/genid/efc5c41e1604d551118cf15ee6e2a9ab,developer
+Mike Hawk,http://www.wikidata.org/.well-known/genid/92156f9d363d8a469238a0ca38ed7ee4,developer
+Glynn Clements,male,developer
+Thomas Guimbretière,male,developer
+Kurt Menke,male,developer
+Jim McAndrew,male,developer
+InfernoPlus,male,developer
+Vazkii,demiboy,developer
+Lykrast,female,developer
+Eric Meier,male,developer
+Lars Lingner,male,developer
+Alexander Matheisen,male,developer
+William Entriken,male,developer
+Richard D. Nehring,male,developer
+Leon Hartwig,male,developer
+Author of Live or Die. Eat or Get Eaten,male,developer
+Scott Haines,male,developer
+Lukáš Hozda,male,developer
+Tomasz Witkowski,male,developer
+Florian Westphal,male,developer
+David Andrei,male,developer
+Victor Barcellos Schiavon,male,developer
+Michael S. Schneider,male,developer
+Issam Hijazi,male,developer
+Deniz Buğdaycı,male,developer
+Iskandar Rafiev,male,developer
+Aditya Jagdhane,male,developer
+Austin Gboru,male,developer
+Sai Phanindra,male,developer
+Denisa Půbalová,female,developer
+Ondřej Pekárek,male,developer
+Andrea Carlizza,male,developer
+Virginus Alajekwu,male,developer
+Erkin Khidirov,male,developer
+Zoltán Fridrich,male,developer
+Q135767401,male,developer
+Guilherme Lima,male,developer
+Knut Neumann,male,developer
+Geoffrey Gaudreault,male,developer
+Q135880394,male,developer
+Petr Odehnal,male,developer
+Artem Vasylenko,male,developer
+Shaswat Acharya,male,developer
+Ian Lance Taylor,male,developer
+Vahan Nahapetyan,male,developer
+Ben Elliston,male,developer
+Dickson Cliff Okechukwu,male,developer
+Zach Allen,male,developer
+Umar Farooq,male,developer
+Jaxon Watt,male,developer
+Shervine Amidi,male,developer
+Q136165774,male,developer
+Tom Vian,male,developer
+Shane Remington,male,developer
+Ulises Gascón,male,developer
+Bethany Griggs,female,developer
+Manuel Spigolon,male,developer
+SK Singh,male,developer
+Afshine Amidi,male,developer
+Juan Arellano,male,developer
+Frank Gasking,male,developer
+Guy Godin,male,developer
+Kees Cook,male,developer
+Ruth A. Starkman,female,developer
+Matt Oquist,male,developer
+Esdras Buelvas,male,developer
+Patrick Kusebauch,male,developer
+Q136360118,male,developer
+Mark S. Merkow,male,developer
+John Dyer,male,developer
+Monika Schirmeier,female,developer
+Zhengzhe Wu,male,developer
+Tom Dijkema,male,developer
+Antoine Queric,male,developer
+Jim Breithaupt,male,developer
+Jakub Peřina,male,developer
+Glauber Costa,male,developer
+Q136452450,female,developer
+Q136459281,male,developer
+Q136479296,male,developer
+Anthony Morha,male,developer
+Jakub Vágner,male,developer
+Q136500548,female,developer
+Mojtaba Eisapour,male,developer
+Marc Lehmann,male,developer
+Ángel Bueno Pineda,male,developer
+Nathan Yergler,male,developer
+Věra Laurynová,female,developer
+Erwin Rinaldo Meinders,male,developer
+Jeremy Keith,male,developer
+Satoshi Tadokoro,male,developer
+Christian Johansen,male,developer
+Mike Dawson,male,developer
+Eugene A. Avallone,male,developer
+Theodore Baumeister,male,developer
+Eberhard Bergmann,male,developer
+Tim Ormsby,male,developer
+Jan Paukert,male,developer
+Viera Šurdová,female,developer
+Ezra Zygmuntowicz,male,developer
+Mark Cousins,male,developer
+Jerry Fottral,male,developer
+Paul Barry,male,developer
+Michael Cross,male,developer
+Jonathan W. Valvano,male,developer
+David Griffiths,male,developer
+Clarence T. Jones,male,developer
+Tony Piltzecker,male,developer
+William Panek,male,developer
+David B. Paradice,male,developer
+Sheng Liang,male,developer
+Pavel Jurutka,male,developer
+Karl Fogel,male,developer
+Montgomery Phister,male,developer
+Ladislav Szántó,male,developer
+David Yack,male,developer
+Louis Landry,male,developer
+Stephen Saxon,male,developer
+Arthur Griffith,male,developer
+Zdeněk Letko,male,developer
+Jack L. Falk,male,developer
+Aleksander Byrski,male,developer
+Jan Kavan,male,developer
+Jakub Černý,male,developer
+Jaroslav Bayer,male,developer
+Martin Bezděka,male,developer
+Tomáš Brázdil,male,developer
+Martin Mareš,male,developer
+Tony Bradley,male,developer
+Mike Wilson,male,developer
+Karel Doležal,male,developer
+Martin Horský,male,developer
+Steven Goodwin,male,developer
+Oswald Komarnicki,male,developer
+Yumiko Ishijima,female,developer
+Markus Mantel,male,developer
+Borjana Dodova,female,developer
+Fred Long,male,developer
+Michael Welschenbach,male,developer
+Parag Kulkarni,male,developer
+Petr Olivka,male,developer
+Brian Bagnall,male,developer
+Eric Chappell,male,developer
+Leonid A. Mirošnik,male,developer
+Eun Jung Park,female,developer
+Jiří Ardielli,male,developer
+Chris Gehman,male,developer
+Arda Kılıçdağı,male,developer
+David West,male,developer
+Hans-Peter Leidhold,male,developer
+Mario Fusco,male,developer
+Jiri Soukup,male,developer
+Cristian Constantin Bordeianu,male,developer
+Zbyšek Voda,male,developer
+Eva Tomisová,female,developer
+Nicola L. C. Talbot,female,developer
+M. B. Monagan,male,developer
+Klaus Dieter Engel,male,developer
+Jan B. Young,male,developer
+Rodrigo Manzuco,male,developer
+Kelvin Sung,male,developer
+Matt Neuburg,male,developer
+Robert Fischer,male,developer
+Christian Hill,male,developer
+Fabrizio Romano,male,developer
+Thomas Jensen,male,developer
+Colin Jones,male,developer
+Stephen A. Thomas,male,developer
+Feliks Kluźniak,male,developer
+Mark L. Chambers,male,developer
+Mark Lines,male,developer
+Pavel Jedlička,male,developer
+David W. Brooks,male,developer
+Eric Matthes,male,developer
+Charles J. Byrne,male,developer
+Daniele Benedettelli,male,developer
+Atakan Atali,male,developer
+Marek Babiuch,male,developer
+Beryl May Dent,female,developer
+Giuseppe Ciaburro,male,developer
+Nivedita Majumdar,female,developer
+George Robbins,male,developer
+Daniel N. Mohsenizadeh,male,developer
+Lulo Perez,male,developer
+Radek Fujdiak,male,developer
+Mike Niwinski,male,developer
+Jiri Richter,male,developer
+Tomáš Kot,male,developer
+Michael Riddle,male,developer
+Peter J Stuckey,male,developer
+Paul van Mulbregt,male,developer
+Martin Urbanec,male,developer
+Tilman M Davies,male,developer
+Johann Pardanaud,male,developer
+Q89812766,male,developer
+Ayyappan Sreekumar,male,developer
+Robert Sterling Spencer,male,developer
+Nataliya Zubar,female,developer
+Terence Carleton Jones,male,developer
+Adam Shorland,male,developer
+Avi Schiffmann,male,developer
+Filip Ježek,male,developer
+Andreas K. Hüttel,male,developer
+James Baker,male,developer
+Win Cowger,male,developer
+Hasan Ali Khattak,male,developer
+Pierre Eustache Chardavoine,male,developer
+Anuken,male,developer
+Pavel Masek,male,developer
+Sunny Singh,male,developer
+Max Stoiber,male,developer
+Alexey Nesterov,male,developer
+Luke Ahearn,male,developer
+Leendert Ammeraal,male,developer
+Gary B. Shelly,male,developer
+Bob Furzer,male,developer
+Michal Eger,male,developer
+Bruce Barnbaum,male,developer
+Joseph Hill,male,developer
+Jean-Pierre Aubé,male,developer
+Aaron Fothergill,male,developer
+Nick Mathewson,male,developer
+Steven W. Speier,male,developer
+Matthias Kessler,male,developer
+Vladimír Pistorius,male,developer
+Joe Wilm,male,developer
+Karel Čulík,male,developer
+Jan Matuška,male,developer
+Zdeněk Schee,male,developer
+Michal Ott,male,developer
+Pavel Novotný,male,developer
+Jaroslav Schrötter,male,developer
+Libor Žák,male,developer
+Jiří Devátý,male,developer
+Dmitri Kolyuzhnov,male,developer
+František Rozhoň,male,developer
+Viliam Vatrt,male,developer
+Miroslav Trcala,male,developer
+Martin Cvrček,male,developer
+Zdeněk Páv,male,developer
+František Rejl,male,developer
+Vítězslav Dvořák,male,developer
+Michal Široký,male,developer
+Ivan Štern,male,developer
+Drahoslava Janovská,female,developer
+Ondřej Caletka,male,developer
+Josef Pirkl,male,developer
+Vladimír Rogl,male,developer
+Jon Skeet,male,developer
+Jan Traxler,male,developer
+Radim Poloch,male,developer
+Zdeněk Breitenbacher,male,developer
+Jan Pomikálek,male,developer
+Vladimír Váňa,male,developer
+Jiří Šťastný,male,developer
+David Pokorný,male,developer
+Martin Kolařík,male,developer
+Jáchym Čepický,male,developer
+Alois Kolář,male,developer
+Pavel Bory,male,developer
+Petr Litoš,male,developer
+Pavol Privitzer,male,developer
+Petr Novák,male,developer
+Aleš Slanina,male,developer
+Michael J. Young,male,developer
+Martin Pinta,male,developer
+Petr Bouška,male,developer
+Martin Polák,male,developer
+Mikuláš Piňos,male,developer
+Jiří Koch,male,developer
+Zbyněk Janoška,male,developer
+Ctibor Henzl,male,developer
+Karel Jandečka,male,developer
+Milan Petrák,male,developer
+Dana Kolesná,female,developer
+Rolf Molich,male,developer
+Helmut Klünder,male,developer
+Joop Kiefte,pangender,developer
+Kris Long,male,developer
+Marcos Cramer,non-binary,developer
+Piet Buijnsters,male,developer
+Martin Sookael,male,developer
+Rainer Paat,male,developer
+Q12579707,male,developer
+Armin Ronacher,male,developer
+Dap Hartmann,male,developer
+Martin Goetz,male,developer
+David Kirk,male,developer
+Brandon Harris,male,developer
+Barnaby Jack,male,developer
+Jaakko Iisalo,male,developer
+Tarn Adams,male,developer
+Brooke Vibber,female,developer
+Manu Cornet,male,developer
+Andy Harris,male,developer
+Vyacheslav Bakhmin,male,developer
+Tim Spalding,male,developer
+Robert Kaye,male,developer
+Stephen Kalb,male,developer
+Talmon Marco,male,developer
+Taylor Otwell,male,developer
+Edith Windsor,female,developer
+Fosco Alma,male,developer
+Ryan Holmes,male,developer
+Jinjin Harder,female,developer
+Bjørn Stærk,male,developer
+Neil Papworth,male,developer
+Jan Koum,male,developer
+David Borissovich Judin,male,developer
+John MacFarlane,male,developer
+Mark Karpelès,male,developer
+nanling,male,developer
+Matthew Garrett,male,developer
+Dina St Johnston,female,developer
+Mike Singleton,male,developer
+Jim Weirich,male,developer
+Jeff Berryman,male,developer
+Behdad Esfahbod,male,developer
+Ali Shaath,male,developer
+Mohammed Abdullah Azam,male,developer
+Pieter Van den Abeele,male,developer
+Tom Brier,male,developer
+Emmanuel Engelhart,male,developer
+Bob Velke,male,developer
+Dick Hardt,male,developer
+Vitalik Buterin,male,developer
+Hampton Lintorn-Catlin,male,developer
+Skaff Elias,male,developer
+Jon Mittelhauser,male,developer
+Nguyen Quang Huy,male,developer
+Tatu Kosonen,male,developer
+Dan Bogdanov,male,developer
+José Ramil Alvarez,male,developer
+Evan Schoenberg,male,developer
+Jan Kolařík,male,developer
+Oscar Martin,male,developer
+Tom Preston-Werner,male,developer
+Eric Redlinger,male,developer
+Steve Krug,male,developer
+Moxie Marlinspike,male,developer
+Michael Kerrisk,male,developer
+Werner Almesberger,male,developer
+Don Ho,male,developer
+Kevin Lynch,male,developer
+Mark Surman,male,developer
+Shaun Gallagher,male,developer
+Mario Wynands,male,developer
+Bill Wagner,male,developer
+Jori Olkkonen,male,developer
+Jouko Pynnönen,male,developer
+Matt Larson,male,developer
+Gisle Aas,male,developer
+Naohiro Takahashi,male,developer
+Tehu,male,developer
+Miho Nagase,female,developer
+Yū Hamada,male,developer
+Tinyan,female,developer
+Carlos Blanco Vázquez,male,developer
+Vojtěch Pikal,male,developer
+Isao Gotō,male,developer
+Raffi Krikorian,male,developer
+Sidney Fix Marques dos Santos,male,developer
+Sverker Johansson,male,developer
+Miguel Puche Gutiérrez,male,developer
+Jeff Nelson,male,developer
+Alexandru Ionut Budisteanu,male,developer
+Jihadi John,male,developer
+Tatsuhiko Miyagawa,male,developer
+Nadezhda Angarskaya,female,developer
+Douglas E. Smith,male,developer
+Lee Collins,male,developer
+Nathan Weizenbaum,female,developer
+Nathan Weizenbaum,male,developer
+John Kwatakye-Atiko,male,developer
+Daniel Gultsch,male,developer
+Jonathan Lemon,male,developer
+Lisabona Rahman,female,developer
+Žan Luka Artič,male,developer
+Dafna Naphtali,female,developer
+Raoul Malm,male,developer
+Oxmoz Kiniwey,male,developer
+Robert Landley,male,developer
+Jens Erik Jensen,male,developer
+Michel Rodriguez,male,developer
+Vladimír Čech,male,developer
+Andrey Breslav,male,developer
+Kailash Nadh,male,developer
+stringsplit,male,developer
+Lucy Llewellyn (Ubuntu),female,developer
+Marek Mensa,male,developer
+Sanjay Bhangar,male,developer
+Éric Sarrion,male,developer
+Ľudmila Gregušová,female,developer
+Michal Matoušek,male,developer
+Bruno Gourier,male,developer
+Olivier Denis,male,developer
+George Logan,male,developer
+Marc Cecchi,male,developer
+Courtney Osborne,male,developer
+Steven Osborne,male,developer
+Karin Thomé,female,developer
+Daniel Micay,male,developer
+Barry Goldstein,male,developer
+Nicolas Rossignol,male,developer
+Josef Holý,male,developer
+Andy Clyde,male,developer
+Lex Friedman,male,developer
+Christoph Schwentker,male,developer
+Artjom Dmitrijev,male,developer
+Paul. J Deitel,male,developer
+Parker Higgins,male,developer
+Laura Walde,female,developer
+Christophe Galati,male,developer
+Ganesh Kumar Subramanian,male,developer
+Wolfgang Denk,male,developer
+Oskar Nyberg,male,developer
+David Lönnhager,male,developer
+Julia Signell,trans woman,developer
+Linus Färnstrand,male,developer
+Denis Roio,male,developer
+Alejandro Fanjul Fernández,male,developer
+Peter Czanik,male,developer
+Q120268324,male,developer
+Mark Christopher Lewis,male,developer
+Christine Lemmer-Webber,transfeminine,developer
+mrdoob,male,developer
+Q120433899,male,developer
+Ondřej Chlubna,male,developer
+Milan Rubeš,male,developer
+Q120574042,male,developer
+Q120582596,male,developer
+Q120584111,male,developer
+Mark Summerfield,male,developer
+Michal Schmidt,male,developer
+Q120591765,male,developer
+Q120595685,male,developer
+Q120595697,male,developer
+Jan Karásek,male,developer
+Q120595957,male,developer
+Q120596366,male,developer
+Q120596526,male,developer
+Pavel Klapka,male,developer
+Jan Skalický,male,developer
+Martin Kursch,male,developer
+Q120600651,male,developer
+Q120600682,male,developer
+Ruth Yaron,female,developer
+Marek Dostál,male,developer
+Jurie Horneman,male,developer
+Milan Oulehla,male,developer
+Q120602868,male,developer
+Q120603595,male,developer
+Q120603617,male,developer
+Jan Roupec,male,developer
+Debbie Tung,female,developer
+Tomáš Mariančík,male,developer
+S. A. Patrick,male,developer
+A. E. Kaplan,female,developer
+Q120612713,male,developer
+Q120613077,male,developer
+Q120613354,male,developer
+Natalie Mae,female,developer
+Adam Ficenec,male,developer
+Alex Pavesi,male,developer
+Q120614689,male,developer
+Dalibor Boubín,male,developer
+Tom Kocmi,male,developer
+Mojmír Churavý,male,developer
+Q120615780,male,developer
+Helena Regnerová,female,developer
+Q120616249,male,developer
+Q120616267,male,developer
+Martin Picek,male,developer
+Michal Čihař,male,developer
+Jan Kříž,male,developer
+Slavoj Písek,male,developer
+Radan Kasal,male,developer
+Pavel Stelzer,male,developer
+Pavel Kysilka,male,developer
+David Beer,male,developer
+Viktor Pohořelý,male,developer
+Petr Handlar,male,developer
+Otto Kočí,male,developer
+Stanislav Novák,male,developer
+Jan Zahradník Havelka,male,developer
+Jiří T. Pelech,male,developer
+Piotr Nienaltowski,male,developer
+Robin S. Reynolds-Haerlte,female,developer
+Václav Votoček,male,developer
+Manfred R. Schütze,male,developer
+Marek Mateják,male,developer
+Radek Mikuláš,male,developer
+Jan Staudek,male,developer
+Zdeněk Bohuslav,male,developer
+Vladimír Smolka,male,developer
+Jan Hučín,male,developer
+Vlastimil Král,male,developer
+Josef Tuháček,male,developer
+Pavel Slavík,male,developer
+Jan Vitek,male,developer
+Dieter Gollmann,male,developer
+Jan Pazdiora,male,developer
+Dagmar Rýdlová,female,developer
+Jaroslav Kolůch,male,developer
+Jiří Kofránek,male,developer
+Miroslav Navarrů,male,developer
+Martin Brož,male,developer
+Oldřich Hulc,male,developer
+Miklos Muhi,male,developer
+Martin Látal,male,developer
+Pavel Komárek,male,developer
+Jiří Fišer,male,developer
+Otto Eggenreich,male,developer
+Marius M. Kapitao,male,developer
+Helmar Kloss,male,developer
+Michal Vaněček,male,developer
+Tobias Groza,male,developer
+Rolf Friedrich Schuett,male,developer
+Friedrich Genser,male,developer
+Adrian Rennertz,male,developer
+Ferenc Bagi,male,developer
+Simon Kissel,male,developer
+Georg Wundt,male,developer
+Albert Mößmer,male,developer
+Volker Bühn,male,developer
+Friedrich Wilhelm Schembor,male,developer
+Imre Farkas,male,developer
+Jens Ehlers,male,developer
+Denis Mikan,male,developer
+Jan Fesl,male,developer
+Václav Kadlec,male,developer
+Václav Semerád,male,developer
+Stanislav Chromčák,male,developer
+Tomáš Gabriel,male,developer
+Petr Přikryl,male,developer
+Pavel Lasák,male,developer
+Ivan Koudelka,male,developer
+Dana Křivánková,female,developer
+Ondřej Dadok,male,developer
+Petr Piňos,male,developer
+Pavel Drbal,male,developer
+František Vojta,male,developer
+Filip Oščádal,male,developer
+Martin Skála,male,developer
+Jiří Lapáček,male,developer
+Libor Pomezný,male,developer
+Jan Novotný,male,developer
+Radek Sedlář,male,developer
+Jiří Šimonek,male,developer
+Anna Bogomolova,female,developer
+Tomáš Bartoň,male,developer
+Lukáš Makovička,male,developer
+Vít Jelínek,male,developer
+Martin Novák,male,developer
+Zdeněk Kratochvíl,male,developer
+Jiří Tenora,male,developer
+Jiří Rambousek,male,developer
+Pavel Cícha,male,developer
+Tomáš Herrman,male,developer
+Daniel Novotný,male,developer
+Ivan Jinda,male,developer
+Jiří Čížek,male,developer
+Aleš Chejn,male,developer
+Josef Bukač,male,developer
+Trevor Perrin,male,developer
+Pavel Náplava,male,developer
+Josef Milota,male,developer
+Zdeněk Molnár,male,developer
+Miloš Uzel,male,developer
+Václav Rek,male,developer
+Daniel Rypl,male,developer
+Ladislav S. Dvořák,male,developer
+Marcel Brejcha,male,developer
+Nick Bradbury,male,developer
+Amir Ban,male,developer
+Ian Gower,male,developer
+Thor-Björn Bergman,male,developer
+Michael Seifert,male,developer
+Tresford Himanansa II,male,developer
+"Thomas R. Kennedy, Jr.",male,developer
+Josef Zikmund,male,developer
+Azeem Malik,male,developer
+Yoav Blum,male,developer
+Andy Weir,male,developer
+Jan Nieuwenhuizen,male,developer
+Denny Vrandečić,male,developer
+Lea Verou,female,developer
+Rachel Burnett,female,developer
+Fredrick Brennan,male,developer
+Tavis Ormandy,male,developer
+Miccho,male,developer
+Sumana Harihareswara,female,developer
+Bruce Forat,male,developer
+Matthew Butterick,male,developer
+Sandi Metz,female,developer
+Steve Punter,male,developer
+Geoff Russell,male,developer
+Danny Greefhorst,male,developer
+Aric Wilmunder,male,developer
+Matt Roszak,male,developer
+Ainun Najib,male,developer
+Jonathan Riddell,male,developer
+Dirk Poot,male,developer
+David Martinjak,male,developer
+Daniel Kerr,male,developer
+Levent Ozler,male,developer
+Nic Gorissen,male,developer
+Aaron Iba,male,developer
+Q19916199,male,developer
+Martin Rota,male,developer
+Michael Buen,male,developer
+Greg Isenberg,male,developer
+Eveline Kooijman,female,developer
+Shai Bushinsky,male,developer
+David Baszucki,male,developer
+Battulga,male,developer
+Manuel Schmitt,male,developer
+Linda Liukas,female,developer
+Barbara Nowacka,female,developer
+Q20509954,male,developer
+Rubén Rodríguez Pérez,male,developer
+Trish Sarson,female,developer
+Erik van Blokland,male,developer
+Martin Paul Eve,male,developer
+Tobias Lütke,male,developer
+Anthony Roux,male,developer
+Emmanuel Bertin,male,developer
+Idel Fuschini,male,developer
+José Valim,male,developer
+Albert Astals Cid,male,developer
+Oswald Buddenhagen,male,developer
+Martin Malý,male,developer
+Egon Willighagen,male,developer
+Oto Kronrád,male,developer
+Hilary Kahn,female,developer
+Igor Magazinnik,male,developer
+Dr. Love,male,developer
+Daito Manabe,male,developer
+Björn Michaelsen,male,developer
+Q21060868,male,developer
+Mark Galassi,male,developer
+Fernando Pérez,male,developer
+Alexey Belan,male,developer
+Victoria Aihar,female,developer
+Yevgeny Tarunin,male,developer
+Adrian Zandberg,male,developer
+Ron Schnell,male,developer
+Niels Klazenga,male,developer
+Yury Melnichek,male,developer
+Daniel Shiffman,male,developer
+Simon Claessen,male,developer
+Volodymyr Agafonkin,male,developer
+Margarita Padilla García,female,developer
+Thanh Tu Tran,male,developer
+Victoria Amelina,female,developer
+Ruan Xiaohuan,male,developer
+Mateusz Kijowski,male,developer
+Patrik Rak,male,developer
+Zoltán Szabadka,male,developer
+Alexandra Elbakyan,female,developer
+Annica Tiger,female,developer
+Ceki Gülcü,male,developer
+Jade Wang,female,developer
+Aleksandr Verkhovsky,male,developer
+Travis E. Oliphant,male,developer
+Márk Jászberényi,male,developer
+Alexey Savik,male,developer
+Rebecca George,female,developer
+David Gordon Hogan,male,developer
+Anselm R. Garbe,male,developer
+Michal Kretschmer,male,developer
+Jiří Bína,male,developer
+Tomáš Vlk,male,developer
+František Talavašek,male,developer
+David Drtina,male,developer
+Petr Staša,male,developer
+Martin Mareš,male,developer
+Petr Novotný,male,developer
+Martin Cígler,male,developer
+Jan Kašpar,male,developer
+Martin Machálek,male,developer
+Jan Schejbal,male,developer
+Tomáš Holý,male,developer
+Tomáš Hlinka,male,developer
+Vít Janota,male,developer
+Petr Schuster,male,developer
+Josef Moravec,male,developer
+Petr Přidal,male,developer
+Tomáš Tichý,male,developer
+Petr Kaďourek,male,developer
+Václav Trojan,male,developer
+Karel Viták,male,developer
+Jiří Ebenstreit,male,developer
+Jiří Blažek,male,developer
+Petr Puna,male,developer
+Daniel Kapča,male,developer
+Therese Nap,female,developer
+Gert Raue,male,developer
+David Kimmel,male,developer
+Nicol Cunningham,male,developer
+Matthew Justice,male,developer
+Thomas Tarbell Russell,male,developer
+Ricardo García,male,developer
+Quincy Larson,male,developer
+Andrew Gallant,male,developer
+Nick Black,male,developer
+Michele Casanova,male,developer
+Q96141159,male,developer
+Shobhit Sharma,male,developer
+Jun Sota,male,developer
+Rickard Schoultz,male,developer
+Martin Lambers,male,developer
+Q96712423,male,developer
+Lola Odelola,female,developer
+Bill Shannon,male,developer
+Sasha Levin,male,developer
+miroefox,male,developer
+Mikel Maron,male,developer
+Amanda McCann,trans woman,developer
+Amanda McCann,female,developer
+Paul Norman,male,developer
+Jubal Harpster,male,developer
+András Budinszky,male,developer
+Hannah Dwan,female,developer
+Daan Louter,male,developer
+Mark Jelsma,male,developer
+Fahim Saleh,male,developer
+Neal H. Walfield,male,developer
+Christian Gierke,male,developer
+Olaseni Cole,male,developer
+James E. Baker,male,developer
+Jim Baker,male,developer
+Angelo Gerardo Scafuro,male,developer
+Josef Klement,male,developer
+Sebastian Lempert,male,developer
+Michael Stenta,male,developer
+Samuel Guebo,male,developer
+Stefan Grushko,male,developer
+Vahid Rajabloo,male,developer
+Boris Hansen,male,developer
+Vojtěch Hrček,male,developer
+Akira Kawamata,male,developer
+Yuji Oda,male,developer
+Dan Abramov,male,developer
+Marty Hall,male,developer
+Nick Clifton,male,developer
+Petr Baudiš,male,developer
+Derar Yahya Baker,male,developer
+Diego Elio Pettenò,male,developer
+Frederic Cambus,male,developer
+Joseph Karr O'Connor,male,developer
+David M. Geary,male,developer
+Heath Haskins,male,developer
+Q120616479,male,developer
+Sean Copeland,male,developer
+Karel Pinkas,male,developer
+Martin Cieslar,male,developer
+Q120617027,female,developer
+Azarel Doroteo Pacheco,male,developer
+Aleksandar Jelenak,male,developer
+Suparna Bhattacharya,female,developer
+Jaroslav Beneš,male,developer
+Jason Robinson,male,developer
+Ľubomír Panák,male,developer
+Hrishikesh Bhaskaran,male,developer
+Stéphane Sikora,male,developer
+Rupak Sapkota,male,developer
+Jozef Bogin,male,developer
+Thomas Nield,male,developer
+Dalia Prashker,female,developer
+Don Keith,male,developer
+Robert Fonda,male,developer
+Hilaire Fernandes,male,developer
+Stéphane Ducasse,male,developer
+Thomas Hunter,male,developer
+Bryan English,male,developer
+Hans Petter Selasky,male,developer
+Jean-Dominique Frattini,male,developer
+Gianluca Codeghini,male,developer
+Magnus Nedfors,male,developer
+Petter Lundgren,male,developer
+Christer Eriksson,male,developer
+James Luke,male,developer
+Q121493813,male,developer
+Mariusz Boryczka,male,developer
+Robert Cabane,male,developer
+Lionel Roux,male,developer
+Pellen Wegler,male,developer
+Eric Alm,male,developer
+Jakub Malačka,male,developer
+Per Sundberg,male,developer
+Magnus Lindgren,male,developer
+Ulf Bertilsson,male,developer
+Jan Jakub Šalomoun,male,developer
+Alain Debaisieux,male,developer
+Fernando Martínez Pérez,male,developer
+Isroil Ibroximov,male,developer
+Chris Holmes,male,developer
+Bert Temme,male,developer
+Petter Lidberg,male,developer
+Claudia Victoria Poblete Hlaczik,female,developer
+Caolán McNamara,male,developer
+Dominik George,male,developer
+Sofia Lindow,female,developer
+Saúl Ibarra Corretgé,male,developer
+Holger Levsen,male,developer
+Rémi Verschelde,male,developer
+Amir Wald,male,developer
+Toivo Annus,male,developer
+Patrik Vuorela,male,developer
+Erik Norrman,male,developer
+Patrik Kelly,male,developer
+Dennis Austin,male,developer
+Fredrik Fantenberg,male,developer
+Q122808396,male,developer
+Tom Kubischik,male,developer
+Joachim Plener,male,developer
+Chitra Soundar,female,developer
+Brian Messenlehner,male,developer
+Jason Coleman,male,developer
+Lhosca Arias,male,developer
+Jonas Beckeman,male,developer
+Magnus Lundén,male,developer
+Jesper Ullerstam,male,developer
+David Skoglund,male,developer
+Kalid Azad,male,developer
+Martin Nordlöf,male,developer
+Johan Svensson,male,developer
+David Allen,male,developer
+Marshall Robin,male,developer
+Fewnity,male,developer
+Victor Vasiliev,male,developer
+Sergey Chernyshev,male,developer
+Francesco Frassinelli,male,developer
+Tomas Eriksson,male,developer
+Mattias Jansson,male,developer
+David Cocks,male,developer
+Q123049177,male,developer
+Jeanette Skoog,female,developer
+Camilla Drefvenborg,female,developer
+Matti Olofsson,male,developer
+Peter Brandin,male,developer
+Mats Edlund,male,developer
+Stephen Thiel,male,developer
+Erica Henniger,female,developer
+Saeed Barari,male,developer
+Klas Nordén,male,developer
+Anders Bergman,male,developer
+Brent Laabs,male,developer
+Étienne Deparis,male,developer
+Leonardo Aranda Brito,male,developer
+Markus Teich,male,developer
+Andrej Černík,male,developer
+Karel Klíma,male,developer
+Libor Boháč,male,developer
+Terry A. Davis,male,developer
+Hal Fulton,male,developer
+Dorothy Vaughan,female,developer
+Simo Ojaniemi,male,developer
+James Hare,male,developer
+Leonid Vladimirsky,male,developer
+Salka Sól Eyfeld,female,developer
+Vlad Trifa,male,developer
+HuniePotDev,male,developer
+Philip Van Cleave,male,developer
+Martin Mach,male,developer
+Mary Coombs,female,developer
+Peter Villax,male,developer
+Loren Brichter,male,developer
+Paul Le Roux,male,developer
+Maximillian Laumeister,male,developer
+Monty Taylor,male,developer
+Thomas Pellissier Tanon,male,developer
+Neil Aitken,male,developer
+Coraline Ada Ehmke,trans woman,developer
+Robert Lafore,male,developer
+Scott Hawkins,male,developer
+Doug Back,male,developer
+Josef Bílek,male,developer
+Siim Tammsaar,male,developer
+Kohsuke Kawaguchi,male,developer
+Jayden Yoon,male,developer
+Michael Milligan,male,developer
+Oleh Kovalyshyn,male,developer
+Kristopher Tate,male,developer
+Chris Odom,male,developer
+Ilya Birman,male,developer
+Seun Osewa,male,developer
+Mike Shapiro,male,developer
+Geoff Mullen,male,developer
+Bob van Luijt,male,developer
+Yossi HarShoshanim,male,developer
+Asaf Bartov,male,developer
+Guðrún Gunnarsdóttir,female,developer
+Neil Mitchison,male,developer
+Raimo Suonio,male,developer
+Sujayath Ali,male,developer
+Marcel Holtmann,male,developer
+Vlastimil Vávrů,male,developer
+Henry Newman,male,developer
+John R. Wisniewski,male,developer
+Terry Cutler,male,developer
+Axel Liljencrantz,male,developer
+Alex Galloway,male,developer
+Jose Montoro,male,developer
+Michael Traut,male,developer
+Yoshiharu Takaoka,male,developer
+Rachel Morris,non-binary,developer
+Ivan Venturi,male,developer
+Michal Josef Špaček,male,developer
+Samantha John,female,developer
+Sergey Poznyakoff,male,developer
+Jurij Finkel,male,developer
+Ou Xiaobai,female,developer
+Svetlin Nakov,male,developer
+Grace Gentry,female,developer
+Filip Maljković,male,developer
+Arnold D. Robbins,male,developer
+Q28098344,male,developer
+Nathan Adams,male,developer
+Alisa Shevchenko,female,developer
+Roman Khmil,male,developer
+Haim Bodek,male,developer
+Vello Kuusik,male,developer
+Joyce Wheeler,female,developer
+Jed McCaleb,male,developer
+Aleksandr Tsoi,male,developer
+Q28498525,male,developer
+Paul Wiley,male,developer
+Darius Kazemi,male,developer
+Miroslav Fídler,male,developer
+Sarah Amiri,female,developer
+Adam Hyde,male,developer
+Alon Zakai,male,developer
+Miguel Grinberg,male,developer
+Jessica Yaeger,female,developer
+Helen Hou-Sandí,female,developer
+Andrew Nacin,male,developer
+Dion Hulse,male,developer
+Mark Jaquith,male,developer
+Andrew Ozz,male,developer
+Brett Bohnenkamper,male,developer
+Marcin Borkowski,male,developer
+Graydon Hoare,male,developer
+Timo Leibig,male,developer
+Pieter Wuille,male,developer
+Felix Sasaki,male,developer
+Ling Liu,female,developer
+John Heidemann,male,developer
+Aleksey Shor,male,developer
+Q123140726,male,developer
+Ville Sundell,male,developer
+"Zuhayrī, Nabīl",male,developer
+Denise Audirac,female,developer
+Mark Greatorex,male,developer
+Wes Hardaker,male,developer
+Vladimir Mezentsev,male,developer
+Steve Fenton,male,developer
+Marilena Schoinaraki,female,developer
+John Jetmore,male,developer
+Kurt Fedra,male,developer
+Deepen Shah,male,developer
+Marvin Schaefer,male,developer
+Aya Jaff,female,developer
+Saber Rastikerdar,male,developer
+Daniel Vincent Grippi,male,developer
+Mohamed Elgendy,male,developer
+Elana Hashman,female,developer
+William Entriken,male,developer
+Norman Buhagiar,male,developer
+Jan Janský,male,developer
+Ngozi Iwere,female,developer
+Ivan Idris,male,developer
+Aleksander Molak,male,developer
+Eryk Lewinson,male,developer
+Jiří Čechal,male,developer
+Jarmil Halamíček,male,developer
+Amina Sambo-Magaji,female,developer
+Mohammad Sajid Anwar,male,developer
+Adam Zemek,male,developer
+Anders Silvén,male,developer
+Julien Gachadoat,male,developer
+Vladimir Prelovac,male,developer
+Scott Jehl,male,developer
+Russell Coker,male,developer
+Abiola Paterne Chokki,male,developer
+Paul Huig,male,developer
+Vladimir Gurevich,male,developer
+Lars Jung,male,developer
+Jules Rohault de Fleury,male,developer
+Jules Rohault de Fleury,undisclosed gender,developer
+G. T. Karber,male,developer
+Ryan Challinor,male,developer
+Sohom Datta,male,developer
+Patrick Hassel Zein,male,developer
+Jerry Bezencon,male,developer
+Robert Bartold,male,developer
+Christophe Dervieux,male,developer
+Manfred Moitzi,male,developer
+John Naeslund,male,developer
+Jan Richter,male,developer
+Peter Collvin,male,developer
+Martin Koch,male,developer
+Trito,female,developer
+Per-Erik Bergman,male,developer
+Fredrik Ellberg,male,developer
+Nikolaj Selvik,male,developer
+Pavel Macek,male,developer
+Daniele Santini,male,developer
+Chlod Alejandro,male,developer
+Luboš Langer,male,developer
+Tim McNamara,male,developer
+Sam Gabert,male,developer
+Alec Arshavsky,male,developer
+Lon Beshiri,male,developer
+Hanno Perrey,male,developer
+Jamie Norrish,male,developer
+Pavel Veselý,male,developer
+Stanislas Dolcini,male,developer
+JT Paasch,male,developer
+Scott Chacon,male,developer
+Alexey Pertsev,male,developer
+Daniel Steigerwald,male,developer
+Vijay Boyapati,male,developer
+Jordan Morrow,male,developer
+Anna Martelli Ravenscroft,female,developer
+Steve Holden,male,developer
+Paul McGuire,male,developer
+Anna Skoulikari,female,developer
+Alexander Gray,male,developer
+Ashok B. Mehta,male,developer
+Michal Biskup,male,developer
+Minjoon Kouh,male,developer
+Christian Keur,male,developer
+Marcos Romero,male,developer
+Andrew Mead,male,developer
+Erik Engheim,male,developer
+Vlastimil Zíma,male,developer
+Ben Sawyer,male,developer
+Jason Hemann,male,developer
+Pavel Janečka,male,developer
+Tom Mejer Antonsen,male,developer
+Trisha Gee,female,developer
+Ján Hýbl,male,developer
+Kent D. Lee,male,developer
+Clément Escoffier,male,developer
+Jiří Hošek,male,developer
+Hubert Klein Ikkink,male,developer
+Michaela Vojtěchovská,female,developer
+Brian Bramsted,male,developer
+Felix Bryde Nielsen,male,developer
+Tomasz Kalinowski,male,developer
+Marius Taciuc,male,developer
+Gabor Szauer,male,developer
+Andrew Oram,male,developer
+Q124684465,male,developer
+David Rosca,male,developer
+Joël Brobecker,male,developer
+Shida Li,male,developer
+Mark Liu,male,developer
+Jared Halpern,male,developer
+Joe Minichino,male,developer
+Martin Hauge,male,developer
+Joseph Ingeno,male,developer
+Robert S. Lagos,male,developer
+Randy Linden,male,developer
+Sebastián Findling,male,developer
+Peter Seidler,male,developer
+Robert Weiner,male,developer
+Hendrik Erz,male,developer
+Shel Kaphan,male,developer
+Michael Fitzgerald,male,developer
+Lukáš Lalinský,male,developer
+Shane Fournier,male,developer
+Micah Lee,male,developer
+Frank Vasquez,male,developer
+Harrison Kinsley,male,developer
+Daniel Kukieła,male,developer
+Parag K. Lala,male,developer
+Marius Bancila,male,developer
+Brent Cook,male,developer
+Manuel Giraud,male,developer
+Adam Jenkins,male,developer
+Suellen Tobler,female,developer
+Daniel Lynch,male,developer
+Patrick Wardle,male,developer
+Cameron Roberts,male,developer
+Adam Spiers,male,developer
+Mohammed Zakariyya Abdullahi,male,developer
+Ahmed Bouzid,male,developer
+Gerd Riesselmann,male,developer
+Jaroslav Prückner,male,developer
+Q125580190,male,developer
+Cynthia Iradukunda,female,developer
+Jinet Onyango,female,developer
+Martijn Linssen,male,developer
+Hazem,male,developer
+Baker Stocking,male,developer
+Zinhor Nasri,male,developer
+Theresa Jean Tanenbaum,trans woman,developer
+Attila László,male,developer
+René-Gilles Deberdt,male,developer
+David Jonas Marinho Neves Castanheira,male,developer
+Simon de Bakker,male,developer
+Brigit Lichtenegger,female,developer
+Gordan Savičić,male,developer
+Mateusz Herczka,male,developer
+Stock,male,developer
+Melissa Coleman,female,developer
+Marcus Kirsch,male,developer
+Tom Schouten,male,developer
+Matthias  Oostrik,male,developer
+Julian Oliver,male,developer
+Martin Howse,male,developer
+Philipp Lammer,male,developer
+Akitoshi Honda,male,developer
+Carl Hamfelt,male,developer
+Brendan Oliver,male,developer
+Gerard van Dongen,male,developer
+Valentina Vuksic,female,developer
+Julien Ottavi,male,developer
+Martin Schitter,male,developer
+Lieven van Speybroeck,male,developer
+Laurier Rochon,male,developer
+Tsila Hassine,female,developer
+Martin Berghammer,male,developer
+Marton Fernezelyi,male,developer
+Todd Matsumoto,male,developer
+Jan-Geert Munneke,male,developer
+Joleana Shurley,female,developer
+Carlo Prelz,male,developer
+Rolf Pixley,male,developer
+Nicolas Anatol Baginsky,male,developer
+Bas Ekkelenkamp,male,developer
+Alexandre Bellas,male,developer
+Ben Clark,male,developer
+Santosh Arron,male,developer
+Wojciech Gryc,male,developer
+David Wilson,male,developer
+Larry James Murdock,male,developer
+Nick Logozzo,male,developer
+Per Sörenfors,male,developer
+George Gwilt,male,developer
+Wolfram Diestel,male,developer
+Lenka Králová,trans woman,developer
+Katre Karja-Zhang,female,developer
+Noboru Ota,male,developer
+Thomas Crider,male,developer
+Anton Obozhyn,male,developer
+Roger Sayle,male,developer
+Gema Parreño,female,developer
+Renaud Gaudin,male,developer
+Daniel Clemente Laboreo,male,developer
+Daniel Kinzler,male,developer
+Mike Enoch,male,developer
+Ana María Prieto López,female,developer
+Brenden Matthews,male,developer
+Jérôme Martinez,male,developer
+Q29865335,male,developer
+Kenny Root,male,developer
+Jan Štěpán,male,developer
+Hovhannes Avoyan,male,developer
+T. Shrinivasan,male,developer
+Ignacio Rodríguez,male,developer
+Gevorg Gorgisyan,male,developer
+Aja Huang,male,developer
+Vagabon,female,developer
+Naomi Wu,female,developer
+Q30879502,male,developer
+Xiaoyuan Tu,female,developer
+Zhang Xiaolong,male,developer
+Jan Pošvář,male,developer
+Miklós Szeredi,male,developer
+Clark Evans,male,developer
+Vadim Bashurov,male,developer
+Naoya Itō,male,developer
+Bastien Guerry,male,developer
+Andrey Korolkov,male,developer
+Alexei Vladishev,male,developer
+Q35677627,male,developer
+Chris Mallett,male,developer
+James Yonan,male,developer
+Gerald Combs,male,developer
+Martin Prikryl,male,developer
+Abigail Nussbaum,female,developer
+Ahmed Bouhoula,male,developer
+Mingming Cao,female,developer
+Thomas Voegtlin,male,developer
+Kristian Gray,male,developer
+Andrey Aleksandrovich Chernov,male,developer
+Stan Matwin,male,developer
+Hans Langmaack,male,developer
+Issei Yamamoto,male,developer
+Yūji Shinkai,male,developer
+Anthony Milosz,male,developer
+Pellegrino Prevete,male,developer
+Q40305758,male,developer
+Glyph,male,developer
+René Pickhardt,male,developer
+Dennis E. Taylor,male,developer
+Sergey Leschina,male,developer
+Juan Nunez-Iglesias,male,developer
+Daniel Stenberg,male,developer
+Ryan Dahl,male,developer
+Adam Sporka,male,developer
+Don Walsh,male,developer
+Jozef Képesi,male,developer
+Dianne Cook,female,developer
+Greg Wilson,male,developer
+Elsa-Karin Boestad-Nilsson,female,developer
+Per-Olof Josefsson,male,developer
+Ann-Marie Nilsson,female,developer
+Ondřej Polanský,male,developer
+Martin Vokroj,male,developer
+Jonathan W. Peirce,male,developer
+Maksym Kozlenko,male,developer
+Thomas Craig,male,developer
+Erica Baker,female,developer
+Carol Reiley,female,developer
+Khaled Hosny,male,developer
+Qiang Xue,male,developer
+Gilles Probst,male,developer
+Michael Ringgaard,male,developer
+Ann Hardy,female,developer
+Lukas Horky,male,developer
+Aral Balkan,male,developer
+Ary Borenzweig,male,developer
+Gregory Maxwell,male,developer
+Ariel T. Glenn,non-binary,developer
+Don Stewart,male,developer
+Mia Nordentoft,non-binary,developer
+Robin van der Vliet,non-binary,developer
+Ursula Walk,female,developer
+Sergio Reano,male,developer
+Charles Tapley Hoyt,male,developer
+Zalmy Raiskin,male,developer
+David Park,male,developer
+Martin Adámek,male,developer
+Niklas Ansamaa,male,developer
+Nasir Khan Saikat,male,developer
+John Giannandrea,male,developer
+Bernd Kreimeier,male,developer
+Adam Lui,male,developer
+David Pinto,male,developer
+Kumar Priyansh,male,developer
+Christian Ghisler,male,developer
+Giorgi Tskhovrebadze,male,developer
+Mario H. Steinmetz,male,developer
+Vladimir Douda,male,developer
+Django Wexler,male,developer
+Yang Bo,male,developer
+Tiancheng Lou,male,developer
+Erich Boleyn,male,developer
+Q48953544,male,developer
+Kim Nybergin,male,developer
+Teemu Rantanen,male,developer
+Kati Souminen,female,developer
+Kari Sidänmaanlakka,male,developer
+Sancho Lerena Urrea,male,developer
+George Kurtz,male,developer
+Joel Yliluoma,male,developer
+Scott Carlson,male,developer
+Chris Olah,male,developer
+Juan Julián Merelo Guervós,male,developer
+Davey Wreden,male,developer
+Carl Worth,male,developer
+François Chollet,male,developer
+Yuri Astrakhan,male,developer
+Jiří Sedláček,male,developer
+Q50607916,male,developer
+Arun Mehta,male,developer
+Beatrice Allée,female,developer
+Michael Brown,male,developer
+Mike Perham,male,developer
+Klaus Rettinghaus,male,developer
+Kefeh Collins,male,developer
+Lee Holloway,male,developer
+Runa Sandvik,female,developer
+Ngala Dirane Ngiri,male,developer
+Ali Kuzhuget,male,developer
+St. Chika,male,developer
+Chris Marlow,male,developer
+Kevin Richards,male,developer
+Ricardo Scachetti Pereira,male,developer
+Javier de la Torre,male,developer
+Duncan Mackinder,male,developer
+Michael Boelen,male,developer
+Gian-Carlo Pascutto,male,developer
+Rebecca Garcia,female,developer
+Kovid Goyal,male,developer
+Ngenge Senior Nlinwe,male,developer
+Leonid Evdokimov,male,developer
+Peter Sych,male,developer
+Cord Wiljes,male,developer
+Q53855503,male,developer
+Rami Ismail,cisgender man,developer
+Amini Cishugi,male,developer
+Veselin Jevrosimović,male,developer
+Q54555550,male,developer
+John J. Lumpkin,male,developer
+Chris Yates,male,developer
+Dario Centrella,male,developer
+Q54826314,male,developer
+Q54862890,male,developer
+Bob Dinnerman,male,developer
+Baratang Miya,female,developer
+Yan Rachinsky,male,developer
+Václav Zouzalík,male,developer
+Sascha Steinbiss,male,developer
+Marco Pesenti Gritti,male,developer
+Marco Montanari,male,developer
+Rob Halförd,male,developer
+Peter Rühe,male,developer
+Mehdi Hasan Khan,male,developer
+Robert Duffy,male,developer
+P. J. Hyett,male,developer
+Robert Kotzian,male,developer
+Piotr Szulczewski,male,developer
+Tomasz Czajka,male,developer
+Janusz Bień,male,developer
+Alexander Shenkin,male,developer
+Teresa Zielińska,female,developer
+Uldis Bojārs,male,developer
+Park Jin Hyok,male,developer
+Collin El-Hossari,male,developer
+Niklas Laxström,male,developer
+Zenobia Żaczek,trans woman,developer
+Ivan Camilo Quintero Santacruz,male,developer
+David Navara,male,developer
+Radek Hruška,male,developer
+Roman Skřivánek,male,developer
+Jan Hora,male,developer
+Karel Hanauer,male,developer
+Al Sweigart,male,developer
+Ivan Žučenko,male,developer
+Claudio Fontana,male,developer
+Zbigniew Bronk,male,developer
+Ingo Doser,male,developer
+Jayaprakash Sundararaj,male,developer
+Kévin Perreau,male,developer
+Ottomated,male,developer
+Zoltán Bartko,male,developer
+Lissy Götz,female,developer
+Dominic Szablewski,male,developer
+Joost Kremers,male,developer
+Marc Espié,male,developer
+Tom Tromey,male,developer
+Alexandre Duret-Lutz,male,developer
+Tino Calancha,male,developer
+Connie Lukawski,male,developer
+Raman Rezaei,male,developer
+Sylvain Beucler,male,developer
+David Clements,male,developer
+Jimmy Aguilar Mena,male,developer
+Ivo Kořínek,male,developer
+Liam Cottle,male,developer
+Steph Ango,male,developer
+Bradford Tuckfield,male,developer
+Václav Pospíšil,male,developer
+Yasaman Yousefi Afshar,female,developer
+Jeremy Yang,male,developer
+Jan Burle,male,developer
+Oleh Naver,male,developer
+Yair Goldfinger,male,developer
+Roman Hocke,male,developer
+Imran Ahmad,male,developer
+Alex Xu,male,developer
+Charles Noad,male,developer
+Milan Moravčík,male,developer
+Sean Moriarity,male,developer
+Marie Kalivodová,female,developer
+Tamzin Hadasa Kelly,agender,developer
+Dave Bessell,male,developer
+Jeremy Soller,male,developer
+Andrew Antar,male,developer
+Tomoshige Hashishita,male,developer
+Taisuke Araki,male,developer
+Hitoshi Kodama,male,developer
+Andrei Kushniarou,male,developer
+Caisa Hörberg,female,developer
+Martin Danner,male,developer
+Valeryja Čarnamorcava,female,developer
+Łukasz Oktaba,male,developer
+Claire Elaina,transfeminine,developer
+Petr Mrázek,male,developer
+Blair McMaster,male,developer
+Milcah Halili Orbacedo,non-binary,developer
+Gregory Danielson III,male,developer
+Laurenz Sommerlad,male,developer
+Fabian Simonjetz,male,developer
+Q130046544,male,developer
+Andry Rasoahaingo,male,developer
+Kenneth Bradley Russell,male,developer
+Dave Crocker,male,developer
+Charles L. Brown,male,developer
+Aaron Dietzen,male,developer
+Martin Dráb,male,developer
+Viola Nuwaha,female,developer
+Daniel Artuš Lorenc Fux,male,developer
+Lukáš Víšek,male,developer
+Naor Narkis,male,developer
+Mike Casey,male,developer
+Ranjithsiji,male,developer
+Nicolas Malevé,male,developer
+Elena Márquez Segura,female,developer
+Gerrit Reus,male,developer
+Thomas Fitzsimmons,male,developer
+Jan Tkáč,male,developer
+Moataz Kobry,male,developer
+Q130521620,male,developer
+Q130521695,male,developer
+Peter Todd,male,developer
+Roger Bach Gómez,male,developer
+Rudolf Wytek,male,developer
+Im The Justice Man,male,developer
+Hao Chen,male,developer
+Tord Johansson Munk,male,developer
+Paul Ziotas,male,developer
+Jason Kuperberg,male,developer
+Brett Slatkin,male,developer
+Jan Petersen,male,developer
+Petr Jiran,male,developer
+Perrine Guillemette,female,developer
+Sergio Galan,male,developer
+Raoul-Gabriel Urma,male,developer
+Peter Tiegs,male,developer
+Maddy Miller,female,developer
+Craftian,http://www.wikidata.org/.well-known/genid/d5bfb08d93acc959e17025367b774ac8,developer
+DevolasRevenge,http://www.wikidata.org/.well-known/genid/f870a10cd6818ac39693604436a971d1,developer
+AlexanderJVelicky,male,developer
+NebuLa1,http://www.wikidata.org/.well-known/genid/37ac7cb3df2f1f04f08cb2f97b52384a,developer
+Bob Mowzie,male,developer
+John Patrick Bedell,male,developer
+Benoît Côté,male,developer
+Alok Malik,male,developer
+Alireza Nickhah,male,developer
+Damia Vergnet,female,developer
+Kevin Decherf,male,developer
+Bruce Sutherland,male,developer
+Evan Henshaw-Plath,male,developer
+Q131349949,male,developer
+Alena Mahlejová,female,developer
+János Szelezsán,male,developer
+Adrien Bourmault,male,developer
+Denis Carikli,male,developer
+Álex González,male,developer
+Jan Tölg,male,developer
+Bill Pribyl,male,developer
+Raju Gandhi,male,developer
+João Távora,male,developer
+Chip Dawes,male,developer
+Marek Kovalčík,male,developer
+SteamGridDB,http://www.wikidata.org/.well-known/genid/3369d57fe0fa1dde48aca75bb04a3966,developer
+Matthew Wilkes,male,developer
+Jana Řešátková,female,developer
+Lorena García,female,developer
+Catt Small,female,developer
+Andreas Bräu,male,developer
+Florin Talpeș,male,developer
+Alex Morgan,male,developer
+Yuya Jones,male,developer
+Shota Tanaka,male,developer
+Immanuel Scholz,male,developer
+Jan Zindulka,male,developer
+Bulat Mukhutdinov,male,developer
+Ron Pattinson,male,developer
+Barbara Śnieżek,female,developer
+Neil Hodgson,male,developer
+Alain Magloire,male,developer
+Ilya Kreymer,male,developer
+Val Magri,genderfluid,developer
+Behruz Abdurakhimov,male,developer
+Leon Hartwig,male,developer
+John Kennedy,male,developer
+Daniel Supernault,male,developer
+Eric Gerbier,male,developer
+Michael Sperber,male,developer
+David Reveman,male,developer
+Roger Lee,male,developer
+Laura MM,female,developer
+Nben Malla,male,developer
+Raphaël Wellekens,male,developer
+Micheal Lanham,male,developer
+Zdeněk Šmarda,male,developer
+Hatem Nafti,male,developer
+Joshua M. Willman,male,developer
+Steven Lee,male,developer
+Themaister,male,developer
+aurora Herbst,transfeminine,developer
+Iyo Bisseck,female,developer
+Casey Muratori,male,developer
+Tomáš Macoun,male,developer
+Mohammed Isam,male,developer
+Praful Rudra,male,developer
+Samir Buzatu,male,developer
+SinArty,male,developer
+Stefan Sokołowski,male,developer
+Aditya Joshi,male,developer
+Leif Ferreira,male,developer
+Geir-Kåre S. Wærp,male,developer
+Morten Brenna,male,developer
+Arnleif Mydland,male,developer
+Ebunoluwa Owoeye,female,developer
+Eveline Vervliet,female,developer
+Aleksandra Kunysz,female,developer
+Suleiman Lalani,male,developer
+Q133186939,female,developer
+Tomáš Budil,male,developer
+Jeremy Stanley,male,developer
+Paige Schwartz,female,developer
+Roma Jegor,female,developer
+Jan Řehoř,male,developer
+Astrid Linssen,female,developer
+Sébastien Conejo,male,developer
+Bruno Pérez,male,developer
+Tim Edwards,male,developer
+Shunji Nakashima,male,developer
+Christopher Dimech,male,developer
+Stephen Ashurst,male,developer
+Nikola Dolejší,female,developer
+Carmen Ansio,female,developer
+Terry Noel,trans woman,developer
