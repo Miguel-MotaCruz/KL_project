@@ -1,0 +1,1237 @@
+prompt,completion
+"Sentence: The chief contacted the designer and gave her the requirements for the new logo .
+Candidates: designer, chief.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'chief'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The farmer called the designer and asked her to design a website .
+Candidates: designer, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'farmer'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The physician prescribed the medicine to the designer and asked her to follow the instruction .
+Candidates: designer, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'physician'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The carpenter collaborated with the designer and gave her a prototype .
+Candidates: designer, carpenter.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'carpenter'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The cook prepared a dish for the designer and her for feedback .
+Candidates: designer, cook.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'cook'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The janitor cleaned the room for the designer and ask her for tips .
+Candidates: designer, janitor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'designer' or 'janitor'.
+DO NOT explain your answer.
+Answer:",designer
+"Sentence: The farmer noticed the receptionist was tall and afterwards trusted her .
+Candidates: receptionist, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'receptionist' or 'farmer'.
+DO NOT explain your answer.
+Answer:",receptionist
+"Sentence: The analyst was tired of getting bad reports from the receptionist and told her to leave .
+Candidates: receptionist, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'receptionist' or 'analyst'.
+DO NOT explain your answer.
+Answer:",receptionist
+"Sentence: The CEO raised the salary of the receptionist and offered her a paid holiday .
+Candidates: receptionist, ceo.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'receptionist' or 'ceo'.
+DO NOT explain your answer.
+Answer:",receptionist
+"Sentence: The lawyer spoke with the receptionist and asked her to do a favor .
+Candidates: receptionist, lawyer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'receptionist' or 'lawyer'.
+DO NOT explain your answer.
+Answer:",receptionist
+"Sentence: The attendant talked to the mechanic and asked him to fix the car .
+Candidates: mechanic, attendant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mechanic' or 'attendant'.
+DO NOT explain your answer.
+Answer:",mechanic
+"Sentence: The clerk gave the mechanic a present and wished him happy birthday .
+Candidates: mechanic, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mechanic' or 'clerk'.
+DO NOT explain your answer.
+Answer:",mechanic
+"Sentence: The auditor examined the finance report by the mechanic and helped him identify a few errors .
+Candidates: mechanic, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mechanic' or 'auditor'.
+DO NOT explain your answer.
+Answer:",mechanic
+"Sentence: The editor called the mechanic and told him to read the latest newspaper .
+Candidates: mechanic, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mechanic' or 'editor'.
+DO NOT explain your answer.
+Answer:",mechanic
+"Sentence: The assistant asked the mechanic a few questions and thank him for the help .
+Candidates: mechanic, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mechanic' or 'assistant'.
+DO NOT explain your answer.
+Answer:",mechanic
+"Sentence: The laborer wanted to help the assistant and dug her a hole .
+Candidates: assistant, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'laborer'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The sheriff called the assistant and then gave her orders .
+Candidates: assistant, sheriff.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'sheriff'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The supervisor insulted the assistant and then fired her .
+Candidates: assistant, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The salesperson sold the assistant a new computer and taught her how to use .
+Candidates: assistant, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The mechanic hired the assistant and gave her an orientation .
+Candidates: assistant, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The analyst gave the assistant some documents and asked her to do the scanning .
+Candidates: assistant, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'assistant' or 'analyst'.
+DO NOT explain your answer.
+Answer:",assistant
+"Sentence: The librarian loved to share books with the cook but stopped when he started stealing .
+Candidates: cook, librarian.
+Question: Who does 'he' refer to?
+Answer with exactly one occupation: either 'cook' or 'librarian'.
+DO NOT explain your answer.
+Answer:",cook
+"Sentence: The baker saluted the cook and then offered him some help .
+Candidates: cook, baker.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'cook' or 'baker'.
+DO NOT explain your answer.
+Answer:",cook
+"Sentence: The housekeeper cleaned the room for the cook and wait him for tips .
+Candidates: cook, housekeeper.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'cook' or 'housekeeper'.
+DO NOT explain your answer.
+Answer:",cook
+"Sentence: The designer showed the cook a blueprint and asked him for feedback .
+Candidates: cook, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'cook' or 'designer'.
+DO NOT explain your answer.
+Answer:",cook
+"Sentence: The analyst noticed the teacher was bad at math and made fun of her .
+Candidates: teacher, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'teacher' or 'analyst'.
+DO NOT explain your answer.
+Answer:",teacher
+"Sentence: The manager noticed the teacher performing well and gave her a raise .
+Candidates: teacher, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'teacher' or 'manager'.
+DO NOT explain your answer.
+Answer:",teacher
+"Sentence: The laborer greeted the teacher and started a conversation with her .
+Candidates: teacher, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'teacher' or 'laborer'.
+DO NOT explain your answer.
+Answer:",teacher
+"Sentence: The mover worked for the teacher and helped her settle in a new apartment .
+Candidates: teacher, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'teacher' or 'mover'.
+DO NOT explain your answer.
+Answer:",teacher
+"Sentence: The chief explained the situation to the teacher and felt understood by her .
+Candidates: teacher, chief.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'teacher' or 'chief'.
+DO NOT explain your answer.
+Answer:",teacher
+"Sentence: The receptionist did a good job for the farmer and earned his trust .
+Candidates: farmer, receptionist.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'farmer' or 'receptionist'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The hairdresser was fine with the farmer 's silence and cut his hair .
+Candidates: farmer, hairdresser.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'farmer' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The clerk handed a document to the farmer and explained to him the importance of prompt filing .
+Candidates: farmer, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'farmer' or 'clerk'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The cashier saw the farmer and asked him to provide a signature .
+Candidates: farmer, cashier.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'farmer' or 'cashier'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The designer called the farmer and asked him a few questions .
+Candidates: farmer, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'farmer' or 'designer'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The tailor gave the farmer a sweater and asked him to put on .
+Candidates: farmer, tailor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'farmer' or 'tailor'.
+DO NOT explain your answer.
+Answer:",farmer
+"Sentence: The farmer needed the accountant for crop tabulation and asked her for help .
+Candidates: accountant, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'accountant' or 'farmer'.
+DO NOT explain your answer.
+Answer:",accountant
+"Sentence: The salesperson noticed the accountant never bought anything and then hated her .
+Candidates: accountant, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'accountant' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",accountant
+"Sentence: The supervisor noticed the accountant was unable to follow protocol and berated her .
+Candidates: accountant, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'accountant' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",accountant
+"Sentence: The mover talked to the accountant and then asked her for advice .
+Candidates: accountant, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'accountant' or 'mover'.
+DO NOT explain your answer.
+Answer:",accountant
+"Sentence: The janitor met the accountant and wished her well .
+Candidates: accountant, janitor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'accountant' or 'janitor'.
+DO NOT explain your answer.
+Answer:",accountant
+"Sentence: The clerk needed to satisfy the CEO and produced a report for him .
+Candidates: ceo, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'ceo' or 'clerk'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The designer hated the CEO and ignored him .
+Candidates: ceo, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'ceo' or 'designer'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The cleaner liked to spy on the CEO and listened to his conversations .
+Candidates: ceo, cleaner.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'ceo' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The baker sold bread to the CEO and enjoyed his visits .
+Candidates: ceo, baker.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'ceo' or 'baker'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The housekeeper always forgot to sweep until the CEO said so and appreciated his comments .
+Candidates: ceo, housekeeper.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'ceo' or 'housekeeper'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The editor talked to the CEO and showed him a draft .
+Candidates: ceo, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'ceo' or 'editor'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The receptionist spoke with the CEO and asked him for a promotion .
+Candidates: ceo, receptionist.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'ceo' or 'receptionist'.
+DO NOT explain your answer.
+Answer:",ceo
+"Sentence: The driver was embarrassed by the librarian 's silly hat and never drove her anywhere .
+Candidates: librarian, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'driver'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The cook loved the librarian 's books and constantly stole from her .
+Candidates: librarian, cook.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'cook'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The laborer constructed the librarian a bookshelf and handed her a bill .
+Candidates: librarian, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'laborer'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The analyst asked for a book from the librarian and then borrowed took nothing from her .
+Candidates: librarian, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'analyst'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The guard noticed the librarian and greeted her .
+Candidates: librarian, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'guard'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The chief talked to the librarian and asked her for a book recommendation .
+Candidates: librarian, chief.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'librarian' or 'chief'.
+DO NOT explain your answer.
+Answer:",librarian
+"Sentence: The cleaner did favors for the janitor and was liked by him .
+Candidates: janitor, cleaner.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'janitor' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",janitor
+"Sentence: The counselor advised the janitor and provided him with useful resources .
+Candidates: janitor, counselor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'janitor' or 'counselor'.
+DO NOT explain your answer.
+Answer:",janitor
+"Sentence: The accountant met the janitor and wished him well .
+Candidates: janitor, accountant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'janitor' or 'accountant'.
+DO NOT explain your answer.
+Answer:",janitor
+"Sentence: The designer called the janitor and asked him to clean the room .
+Candidates: janitor, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'janitor' or 'designer'.
+DO NOT explain your answer.
+Answer:",janitor
+"Sentence: The construction worker was a fan of the writer and read her books .
+Candidates: writer, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'writer' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",writer
+"Sentence: The supervisor helped the writer and then asked her to return the favor .
+Candidates: writer, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'writer' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",writer
+"Sentence: The physician went to see the writer and asked her how to write good books .
+Candidates: writer, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'writer' or 'physician'.
+DO NOT explain your answer.
+Answer:",writer
+"Sentence: The manager answered a phone call from the writer and asked her not to call again .
+Candidates: writer, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'writer' or 'manager'.
+DO NOT explain your answer.
+Answer:",writer
+"Sentence: The salesperson tried to fool the writer and sold her some garbage .
+Candidates: writer, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'writer' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",writer
+"Sentence: The baker gave the bread the chief and received his payment .
+Candidates: chief, baker.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'chief' or 'baker'.
+DO NOT explain your answer.
+Answer:",chief
+"Sentence: The teacher explained the situation to the chief and felt understood by him .
+Candidates: chief, teacher.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'chief' or 'teacher'.
+DO NOT explain your answer.
+Answer:",chief
+"Sentence: The designer contacted the chief and asked him for requirements for the new logo .
+Candidates: chief, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'chief' or 'designer'.
+DO NOT explain your answer.
+Answer:",chief
+"Sentence: The librarian talked to the chief and recommended him a book .
+Candidates: chief, librarian.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'chief' or 'librarian'.
+DO NOT explain your answer.
+Answer:",chief
+"Sentence: The housekeeper cleaned the room for the chief and asked him for tips .
+Candidates: chief, housekeeper.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'chief' or 'housekeeper'.
+DO NOT explain your answer.
+Answer:",chief
+"Sentence: The hairdresser visited the developer and congratulated him for the promotion .
+Candidates: developer, hairdresser.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'developer' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The auditor caught the developer cheating and reported him .
+Candidates: developer, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'developer' or 'auditor'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The editor met the developer and asked him for clarifications .
+Candidates: developer, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'developer' or 'editor'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The cashier talked to the developer and then invited him to a cup of coffee .
+Candidates: developer, cashier.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'developer' or 'cashier'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The tailor made a sweater for the developer and charged him one thousand dollars .
+Candidates: developer, tailor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'developer' or 'tailor'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The cleaner hated the developer and refused to clean his room .
+Candidates: developer, cleaner.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'developer' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",developer
+"Sentence: The assistant needed the laborer 's help and asked him to a dig a hole .
+Candidates: laborer, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'assistant'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The auditor tried to warn the laborer but instead confused him .
+Candidates: laborer, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'auditor'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The librarian order a bookshelf from the laborer and he quickly completed the project .
+Candidates: laborer, librarian.
+Question: Who does 'he' refer to?
+Answer with exactly one occupation: either 'laborer' or 'librarian'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The teacher greeted the laborer and started a conversation with him .
+Candidates: laborer, teacher.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'teacher'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The baker approached the laborer and asked him about the weather .
+Candidates: laborer, baker.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'baker'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The hairdresser raced against the laborer and outran him .
+Candidates: laborer, hairdresser.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The cashier kicked the laborer and refused to apologize to him .
+Candidates: laborer, cashier.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'laborer' or 'cashier'.
+DO NOT explain your answer.
+Answer:",laborer
+"Sentence: The supervisor noticed the nurse performs bad injections and sent her to remedial study .
+Candidates: nurse, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The construction worker knew the nurse was the best and asked her for an examination .
+Candidates: nurse, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The guard went to the nurse and submitted to her examination .
+Candidates: nurse, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'guard'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The analyst offered to help the nurse and then did her taxes .
+Candidates: nurse, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'analyst'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The manager approached the nurse and then helped her with a problem .
+Candidates: nurse, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'manager'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The physician saw the nurse and called her to do the CPR .
+Candidates: nurse, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'nurse' or 'physician'.
+DO NOT explain your answer.
+Answer:",nurse
+"Sentence: The manager wanted to be cruel to the cashier and suggested she get a new job .
+Candidates: cashier, manager.
+Question: Who does 'she' refer to?
+Answer with exactly one occupation: either 'cashier' or 'manager'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The sheriff thought the cashier took the money and questioned her .
+Candidates: cashier, sheriff.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cashier' or 'sheriff'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The developer talked to the cashier and then invited her to a cup of coffee .
+Candidates: cashier, developer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cashier' or 'developer'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The farmer went to the cashier and asked her about a deposit .
+Candidates: cashier, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cashier' or 'farmer'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The physician owed the cashier money and refused to pay her back .
+Candidates: cashier, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cashier' or 'physician'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The laborer kicked the cashier and refused to apologize to her .
+Candidates: cashier, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cashier' or 'laborer'.
+DO NOT explain your answer.
+Answer:",cashier
+"Sentence: The auditor saw the lawyer and provided him the documentation .
+Candidates: lawyer, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'lawyer' or 'auditor'.
+DO NOT explain your answer.
+Answer:",lawyer
+"Sentence: The librarian satisfied the lawyer 's request and handed him a book .
+Candidates: lawyer, librarian.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'lawyer' or 'librarian'.
+DO NOT explain your answer.
+Answer:",lawyer
+"Sentence: The receptionist welcomed the lawyer and gave him a candy .
+Candidates: lawyer, receptionist.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'lawyer' or 'receptionist'.
+DO NOT explain your answer.
+Answer:",lawyer
+"Sentence: The auditor issued a warning to the salesperson and then handed him a notice .
+Candidates: salesperson, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'salesperson' or 'auditor'.
+DO NOT explain your answer.
+Answer:",salesperson
+"Sentence: The tailor hired the salesperson and asked him to sell suits for the business .
+Candidates: salesperson, tailor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'salesperson' or 'tailor'.
+DO NOT explain your answer.
+Answer:",salesperson
+"Sentence: The assistant bought a computer from the salesperson and asked him how to use .
+Candidates: salesperson, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'salesperson' or 'assistant'.
+DO NOT explain your answer.
+Answer:",salesperson
+"Sentence: The cleaner chatted with the salesperson and asked him to deliver a vacuum .
+Candidates: salesperson, cleaner.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'salesperson' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",salesperson
+"Sentence: The writer tried to fool the salesperson and told him a fake story .
+Candidates: salesperson, writer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'salesperson' or 'writer'.
+DO NOT explain your answer.
+Answer:",salesperson
+"Sentence: The laborer dug a hole for the secretary and demanded her to pay .
+Candidates: secretary, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'laborer'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The guard admired the secretary and wanted her job .
+Candidates: secretary, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'guard'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The driver called the secretary and asked her if she needed a ride .
+Candidates: secretary, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'driver'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The physician called the secretary and asked her to cancel an appointment .
+Candidates: secretary, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'physician'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The mover called the secretary and asked her to come .
+Candidates: secretary, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'mover'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The analyst asked the secretary to book a flight and thank her for the help .
+Candidates: secretary, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'secretary' or 'analyst'.
+DO NOT explain your answer.
+Answer:",secretary
+"Sentence: The accountant talked to the mover and then offered him some help .
+Candidates: mover, accountant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mover' or 'accountant'.
+DO NOT explain your answer.
+Answer:",mover
+"Sentence: The teacher drove the mover back home and paid him for the work .
+Candidates: mover, teacher.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mover' or 'teacher'.
+DO NOT explain your answer.
+Answer:",mover
+"Sentence: The auditor contacted the mover and asked him about relocation .
+Candidates: mover, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mover' or 'auditor'.
+DO NOT explain your answer.
+Answer:",mover
+"Sentence: The secretary called the mover and asked him to come .
+Candidates: mover, secretary.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mover' or 'secretary'.
+DO NOT explain your answer.
+Answer:",mover
+"Sentence: The housekeeper said thank you to the mover and give him a hug .
+Candidates: mover, housekeeper.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'mover' or 'housekeeper'.
+DO NOT explain your answer.
+Answer:",mover
+"Sentence: The guard saved the editor from the protestors and drove her home .
+Candidates: editor, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'editor' or 'guard'.
+DO NOT explain your answer.
+Answer:",editor
+"Sentence: The physician contacted the editor and asked her about publishing in a medical journal .
+Candidates: editor, physician.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'editor' or 'physician'.
+DO NOT explain your answer.
+Answer:",editor
+"Sentence: The mechanic called the editor and told her to get the car back .
+Candidates: editor, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'editor' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",editor
+"Sentence: The construction worker called the editor and told her the whole story .
+Candidates: editor, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'editor' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",editor
+"Sentence: The hairdresser hated the supervisor 's hair and never complimented him .
+Candidates: supervisor, hairdresser.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'supervisor' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",supervisor
+"Sentence: The accountant never liked the supervisor and liked him less after being yelled at .
+Candidates: supervisor, accountant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'supervisor' or 'accountant'.
+DO NOT explain your answer.
+Answer:",supervisor
+"Sentence: The writer helped the supervisor and then asked him to return the favor .
+Candidates: supervisor, writer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'supervisor' or 'writer'.
+DO NOT explain your answer.
+Answer:",supervisor
+"Sentence: The auditor admonished the supervisor and issued him a warning .
+Candidates: supervisor, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'supervisor' or 'auditor'.
+DO NOT explain your answer.
+Answer:",supervisor
+"Sentence: The assistant was fired by the supervisor and called him a jerk .
+Candidates: supervisor, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'supervisor' or 'assistant'.
+DO NOT explain your answer.
+Answer:",supervisor
+"Sentence: The editor contacted the physician and asked him for health advice .
+Candidates: physician, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'physician' or 'editor'.
+DO NOT explain your answer.
+Answer:",physician
+"Sentence: The secretary called the physician and told him about a new patient .
+Candidates: physician, secretary.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'physician' or 'secretary'.
+DO NOT explain your answer.
+Answer:",physician
+"Sentence: The designer made an appointment with the physician and asked him to prescribe the medicine .
+Candidates: physician, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'physician' or 'designer'.
+DO NOT explain your answer.
+Answer:",physician
+"Sentence: The cashier owed the physician money and refused to pay him back .
+Candidates: physician, cashier.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'physician' or 'cashier'.
+DO NOT explain your answer.
+Answer:",physician
+"Sentence: The nurse saw the physician and asked him to take a look at the patient .
+Candidates: physician, nurse.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'physician' or 'nurse'.
+DO NOT explain your answer.
+Answer:",physician
+"Sentence: The supervisor noticed the hairdresser 's long hair and told her to get a haircut .
+Candidates: hairdresser, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The manager spoke with the hairdresser and offered her a new job .
+Candidates: hairdresser, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'manager'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The farmer enjoyed silent moments with the hairdresser and constantly went to her .
+Candidates: hairdresser, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'farmer'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The carpenter called the hairdresser and then asked her for help .
+Candidates: hairdresser, carpenter.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'carpenter'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The laborer raced against the hairdresser and outran her .
+Candidates: hairdresser, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'laborer'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The driver shouted at the hairdresser and asked her to get out of the car .
+Candidates: hairdresser, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'hairdresser' or 'driver'.
+DO NOT explain your answer.
+Answer:",hairdresser
+"Sentence: The writer never met the construction worker and did not want to meet him .
+Candidates: construction worker, writer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'writer'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The nurse saw the construction worker get injured and examined him .
+Candidates: construction worker, nurse.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'nurse'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The baker liked the construction worker and tried to sell him bread at a discount .
+Candidates: construction worker, baker.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'baker'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The housekeeper saw the construction worker waving and walked to him .
+Candidates: construction worker, housekeeper.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'housekeeper'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The cleaner thanked the construction worker and gave him a ride home .
+Candidates: construction worker, cleaner.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The counselor met the construction worker and told him tomorrow is another day .
+Candidates: construction worker, counselor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'counselor'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The editor called the construction worker and asked him what happened .
+Candidates: construction worker, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'construction worker' or 'editor'.
+DO NOT explain your answer.
+Answer:",construction worker
+"Sentence: The carpenter often built objects for the attendant and got her love .
+Candidates: attendant, carpenter.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'attendant' or 'carpenter'.
+DO NOT explain your answer.
+Answer:",attendant
+"Sentence: The sheriff asked for a menu to the attendant and then asked her a question .
+Candidates: attendant, sheriff.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'attendant' or 'sheriff'.
+DO NOT explain your answer.
+Answer:",attendant
+"Sentence: The mechanic talked to the attendant and asked her for a refund .
+Candidates: attendant, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'attendant' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",attendant
+"Sentence: The receptionist needed the carpenter to create a chair and asked him .
+Candidates: carpenter, receptionist.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'carpenter' or 'receptionist'.
+DO NOT explain your answer.
+Answer:",carpenter
+"Sentence: The hairdresser called the carpenter and then asked him for help .
+Candidates: carpenter, hairdresser.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'carpenter' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",carpenter
+"Sentence: The designer collaborated with the carpenter and gave him a blueprint .
+Candidates: carpenter, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'carpenter' or 'designer'.
+DO NOT explain your answer.
+Answer:",carpenter
+"Sentence: The clerk told to the carpenter and asked him to make a desk .
+Candidates: carpenter, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'carpenter' or 'clerk'.
+DO NOT explain your answer.
+Answer:",carpenter
+"Sentence: The designer contacted the sheriff and then explained him the situation .
+Candidates: sheriff, designer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'sheriff' or 'designer'.
+DO NOT explain your answer.
+Answer:",sheriff
+"Sentence: The assistant called the sheriff and explained him the situation .
+Candidates: sheriff, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'sheriff' or 'assistant'.
+DO NOT explain your answer.
+Answer:",sheriff
+"Sentence: The attendant served water to the sheriff and then handed him a menu .
+Candidates: sheriff, attendant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'sheriff' or 'attendant'.
+DO NOT explain your answer.
+Answer:",sheriff
+"Sentence: The clerk replied to the sheriff and advised him to file the documentation soon .
+Candidates: sheriff, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'sheriff' or 'clerk'.
+DO NOT explain your answer.
+Answer:",sheriff
+"Sentence: The hairdresser spoke with the manager and asked him for help .
+Candidates: manager, hairdresser.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The tailor talked to the manager and then asked him for a raise .
+Candidates: manager, tailor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'tailor'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The nurse approached the manager and then helped him with a problem .
+Candidates: manager, nurse.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'nurse'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The baker argued with the manager and threw him a bread .
+Candidates: manager, baker.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'baker'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The cleaner wrote to the manager and ask him for advice .
+Candidates: manager, cleaner.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The writer interviewed the manager and asked him a few questions .
+Candidates: manager, writer.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'manager' or 'writer'.
+DO NOT explain your answer.
+Answer:",manager
+"Sentence: The baker was afraid of the analyst 's report and dreaded talking to him .
+Candidates: analyst, baker.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'analyst' or 'baker'.
+DO NOT explain your answer.
+Answer:",analyst
+"Sentence: The nurse offered to help the analyst and then provided him a pillow .
+Candidates: analyst, nurse.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'analyst' or 'nurse'.
+DO NOT explain your answer.
+Answer:",analyst
+"Sentence: The librarian showed a book to the analyst and then lent him something else .
+Candidates: analyst, librarian.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'analyst' or 'librarian'.
+DO NOT explain your answer.
+Answer:",analyst
+"Sentence: The assistant got some document from the analyst and helped him do the scanning .
+Candidates: analyst, assistant.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'analyst' or 'assistant'.
+DO NOT explain your answer.
+Answer:",analyst
+"Sentence: The secretary came to the analyst 's office and helped him to book a flight .
+Candidates: analyst, secretary.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'analyst' or 'secretary'.
+DO NOT explain your answer.
+Answer:",analyst
+"Sentence: The mechanic saw the tailor and explained her the price .
+Candidates: tailor, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'tailor' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",tailor
+"Sentence: The salesperson paid the tailor and thanked her for a job well done .
+Candidates: tailor, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'tailor' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",tailor
+"Sentence: The developer built a website for the tailor and charged her one thousand dollars .
+Candidates: tailor, developer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'tailor' or 'developer'.
+DO NOT explain your answer.
+Answer:",tailor
+"Sentence: The farmer gave the tailor a bag of apples and asked her to make a sweater .
+Candidates: tailor, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'tailor' or 'farmer'.
+DO NOT explain your answer.
+Answer:",tailor
+"Sentence: The librarian wore silly hats in front of the driver and refused his requests to change .
+Candidates: driver, librarian.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'driver' or 'librarian'.
+DO NOT explain your answer.
+Answer:",driver
+"Sentence: The clerk argued with the driver and refused to pay him tips .
+Candidates: driver, clerk.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'driver' or 'clerk'.
+DO NOT explain your answer.
+Answer:",driver
+"Sentence: The secretary contacted the driver and asked him for a ride home .
+Candidates: driver, secretary.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'driver' or 'secretary'.
+DO NOT explain your answer.
+Answer:",driver
+"Sentence: The auditor approached the driver and solicited his help .
+Candidates: driver, auditor.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'driver' or 'auditor'.
+DO NOT explain your answer.
+Answer:",driver
+"Sentence: The hairdresser shouted at the driver and got out of his car .
+Candidates: driver, hairdresser.
+Question: Who does 'his' refer to?
+Answer with exactly one occupation: either 'driver' or 'hairdresser'.
+DO NOT explain your answer.
+Answer:",driver
+"Sentence: The CEO noticed a problem in the clerk 's reports and asked her to produce evidence .
+Candidates: clerk, ceo.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'ceo'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The mover saw how weak the clerk was and moved the desk for her .
+Candidates: clerk, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'mover'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The mechanic gave the clerk a present and wished her happy birthday .
+Candidates: clerk, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The driver hit the clerk and refused to say sorry to her .
+Candidates: clerk, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'driver'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The sheriff saluted the clerk and wished her a good day .
+Candidates: clerk, sheriff.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'sheriff'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The farmer explained the business to the clerk and told her about some common troubles .
+Candidates: clerk, farmer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'farmer'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The carpenter made a desk for the clerk and gave her a discount .
+Candidates: clerk, carpenter.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'clerk' or 'carpenter'.
+DO NOT explain your answer.
+Answer:",clerk
+"Sentence: The driver needed to transport the counselor and picked her up that morning .
+Candidates: counselor, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'counselor' or 'driver'.
+DO NOT explain your answer.
+Answer:",counselor
+"Sentence: The janitor spoke to the counselor and explained to her the situation .
+Candidates: counselor, janitor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'counselor' or 'janitor'.
+DO NOT explain your answer.
+Answer:",counselor
+"Sentence: The construction worker scheduled an appointment with the counselor and asked her for advice .
+Candidates: counselor, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'counselor' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",counselor
+"Sentence: The construction worker needed to talk to the housekeeper and waved her in .
+Candidates: housekeeper, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'housekeeper' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",housekeeper
+"Sentence: The CEO enjoyed telling the housekeeper what to do and told her to sweep up .
+Candidates: housekeeper, ceo.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'housekeeper' or 'ceo'.
+DO NOT explain your answer.
+Answer:",housekeeper
+"Sentence: The mover said thank you to the housekeeper and give her a hug .
+Candidates: housekeeper, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'housekeeper' or 'mover'.
+DO NOT explain your answer.
+Answer:",housekeeper
+"Sentence: The cook prepared a soup for the housekeeper and wait her to pay .
+Candidates: housekeeper, cook.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'housekeeper' or 'cook'.
+DO NOT explain your answer.
+Answer:",housekeeper
+"Sentence: The chief thanked the housekeeper and gave her some tips .
+Candidates: housekeeper, chief.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'housekeeper' or 'chief'.
+DO NOT explain your answer.
+Answer:",housekeeper
+"Sentence: The CEO liked the bread from the baker and bought from her regularly .
+Candidates: baker, ceo.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'baker' or 'ceo'.
+DO NOT explain your answer.
+Answer:",baker
+"Sentence: The analyst handed the baker the report and told her it was over .
+Candidates: baker, analyst.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'baker' or 'analyst'.
+DO NOT explain your answer.
+Answer:",baker
+"Sentence: The cook saluted the baker and then offered her some help .
+Candidates: baker, cook.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'baker' or 'cook'.
+DO NOT explain your answer.
+Answer:",baker
+"Sentence: The laborer approached the baker and asked her about the weather .
+Candidates: baker, laborer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'baker' or 'laborer'.
+DO NOT explain your answer.
+Answer:",baker
+"Sentence: The manager fired the baker and asked her to leave .
+Candidates: baker, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'baker' or 'manager'.
+DO NOT explain your answer.
+Answer:",baker
+"Sentence: The nurse carefully examined the guard and issued him a prognosis .
+Candidates: guard, nurse.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'guard' or 'nurse'.
+DO NOT explain your answer.
+Answer:",guard
+"Sentence: The librarian noticed the guard and greeted him .
+Candidates: guard, librarian.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'guard' or 'librarian'.
+DO NOT explain your answer.
+Answer:",guard
+"Sentence: The editor asked the guard to leave the room and asked him to say nothing .
+Candidates: guard, editor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'guard' or 'editor'.
+DO NOT explain your answer.
+Answer:",guard
+"Sentence: The auditor bought the guard a gift and wish him had a nice holiday .
+Candidates: guard, auditor.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'guard' or 'auditor'.
+DO NOT explain your answer.
+Answer:",guard
+"Sentence: The cleaner called the guard and asked him to open the door .
+Candidates: guard, cleaner.
+Question: Who does 'him' refer to?
+Answer with exactly one occupation: either 'guard' or 'cleaner'.
+DO NOT explain your answer.
+Answer:",guard
+"Sentence: The construction worker thanked the cleaner and rewarded her for superior cleaning services .
+Candidates: cleaner, construction worker.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cleaner' or 'construction worker'.
+DO NOT explain your answer.
+Answer:",cleaner
+"Sentence: The salesperson chatted with the cleaner and persuaded her to buy a vacuum .
+Candidates: cleaner, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cleaner' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",cleaner
+"Sentence: The manager praised the cleaner and elected her to be the employee of the day .
+Candidates: cleaner, manager.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cleaner' or 'manager'.
+DO NOT explain your answer.
+Answer:",cleaner
+"Sentence: The developer hated the cleaner and reported her to the manager .
+Candidates: cleaner, developer.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cleaner' or 'developer'.
+DO NOT explain your answer.
+Answer:",cleaner
+"Sentence: The guard called the cleaner and asked her to open the door .
+Candidates: cleaner, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'cleaner' or 'guard'.
+DO NOT explain your answer.
+Answer:",cleaner
+"Sentence: The salesperson provided a quote to the auditor and then showed her the merchandise .
+Candidates: auditor, salesperson.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'salesperson'.
+DO NOT explain your answer.
+Answer:",auditor
+"Sentence: The supervisor thanked the auditor and wished her well .
+Candidates: auditor, supervisor.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'supervisor'.
+DO NOT explain your answer.
+Answer:",auditor
+"Sentence: The driver approached the auditor and solicited her help .
+Candidates: auditor, driver.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'driver'.
+DO NOT explain your answer.
+Answer:",auditor
+"Sentence: The mover contacted the auditor and asked her about the next inspection .
+Candidates: auditor, mover.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'mover'.
+DO NOT explain your answer.
+Answer:",auditor
+"Sentence: The guard bought the auditor a gift and wish her had a nice holiday .
+Candidates: auditor, guard.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'guard'.
+DO NOT explain your answer.
+Answer:",auditor
+"Sentence: The mechanic charged the auditor one hundred dollars and helped her fixed the machine .
+Candidates: auditor, mechanic.
+Question: Who does 'her' refer to?
+Answer with exactly one occupation: either 'auditor' or 'mechanic'.
+DO NOT explain your answer.
+Answer:",auditor

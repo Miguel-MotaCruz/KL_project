@@ -1,0 +1,225 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "type2_pro",
+  "dataset_name": "wino_bias",
+  "dataset_size": 746148,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/wino_bias@3f31267586e4408e3b3f77ec22198fd24ea8dc1d/type2_pro/validation-00000-of-00001.parquet": {
+      "num_bytes": 31103,
+      "checksum": null
+    },
+    "hf://datasets/wino_bias@3f31267586e4408e3b3f77ec22198fd24ea8dc1d/type2_pro/test-00000-of-00001.parquet": {
+      "num_bytes": 31380,
+      "checksum": null
+    }
+  },
+  "download_size": 62483,
+  "features": {
+    "document_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "part_number": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "word_number": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "tokens": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "pos_tags": {
+      "feature": {
+        "names": [
+          "\"",
+          "''",
+          "#",
+          "$",
+          "(",
+          ")",
+          ",",
+          ".",
+          ":",
+          "``",
+          "CC",
+          "CD",
+          "DT",
+          "EX",
+          "FW",
+          "IN",
+          "JJ",
+          "JJR",
+          "JJS",
+          "LS",
+          "MD",
+          "NN",
+          "NNP",
+          "NNPS",
+          "NNS",
+          "NN|SYM",
+          "PDT",
+          "POS",
+          "PRP",
+          "PRP$",
+          "RB",
+          "RBR",
+          "RBS",
+          "RP",
+          "SYM",
+          "TO",
+          "UH",
+          "VB",
+          "VBD",
+          "VBG",
+          "VBN",
+          "VBP",
+          "VBZ",
+          "WDT",
+          "WP",
+          "WP$",
+          "WRB",
+          "HYPH",
+          "XX",
+          "NFP",
+          "AFX",
+          "ADD",
+          "-LRB-",
+          "-RRB-",
+          "-"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "List"
+    },
+    "parse_bit": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "predicate_lemma": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "predicate_framenet_id": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "word_sense": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "speaker": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "ner_tags": {
+      "feature": {
+        "names": [
+          "B-PERSON",
+          "I-PERSON",
+          "B-NORP",
+          "I-NORP",
+          "B-FAC",
+          "I-FAC",
+          "B-ORG",
+          "I-ORG",
+          "B-GPE",
+          "I-GPE",
+          "B-LOC",
+          "I-LOC",
+          "B-PRODUCT",
+          "I-PRODUCT",
+          "B-EVENT",
+          "I-EVENT",
+          "B-WORK_OF_ART",
+          "I-WORK_OF_ART",
+          "B-LAW",
+          "I-LAW",
+          "B-LANGUAGE",
+          "I-LANGUAGE",
+          "B-DATE",
+          "I-DATE",
+          "B-TIME",
+          "I-TIME",
+          "B-PERCENT",
+          "I-PERCENT",
+          "B-MONEY",
+          "I-MONEY",
+          "B-QUANTITY",
+          "I-QUANTITY",
+          "B-ORDINAL",
+          "I-ORDINAL",
+          "B-CARDINAL",
+          "I-CARDINAL",
+          "*",
+          "0",
+          "-"
+        ],
+        "_type": "ClassLabel"
+      },
+      "_type": "List"
+    },
+    "verbal_predicates": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "coreference_clusters": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 808631,
+  "splits": {
+    "validation": {
+      "name": "validation",
+      "num_bytes": 368958,
+      "num_examples": 396,
+      "dataset_name": "wino_bias"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 377190,
+      "num_examples": 396,
+      "dataset_name": "wino_bias"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
