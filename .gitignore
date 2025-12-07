@@ -1,0 +1,68 @@
+KLvenv/
+.venv/
+
+.vscode/
+__pycache__/
+
+.DS_Store
+
+# finetuned models
+pretraining/finetuned_*/
+
+# HuggingFace model weights
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.h5
+*.ckpt
+*.msgpack
+
+# LoRA adapter checkpoints
+adapter_model.*
+adapter_config.*
+
+# Model configuration and metadata
+config.json
+generation_config.json
+training_args.bin
+
+# Tokenizers and vocabs
+tokenizer.json
+tokenizer_config.json
+special_tokens_map.json
+vocab.json
+vocab.txt
+merges.txt
+spiece.model
+sentencepiece.bpe.model
+
+# HF checkpoints
+checkpoint-*/
+checkpoints/
+*/checkpoint-*/
+runs/
+wandb/
+
+# Trainer artifacts
+trainer_state.json
+training_args.bin
+optimizer.pt
+scheduler.pt
+rng_state.pth
+scaler.pt
+
+# Training logs
+all_results.json
+train_results.json
+eval_results.json
+*.log
+
+pretraining/checkpoints/
+pretraining/t5_test_run/
+# pretraining/finetuned_llama32_200_200/
+# pretraining/finetuned_llama32_200imb/
+# pretraining/finetuned_llama32_400_400/
+pretraining/finetuned_flant5*/
+pretraining/final_model/
+pretraining/llama3_lora/
