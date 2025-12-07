@@ -63,6 +63,7 @@ pretraining/t5_test_run/
 # pretraining/finetuned_llama32_200_200/
 # pretraining/finetuned_llama32_200imb/
 # pretraining/finetuned_llama32_400_400/
+pretraining/finedtuned_llama32_100bal/
 pretraining/finetuned_flant5*/
 pretraining/final_model/
 pretraining/llama3_lora/
